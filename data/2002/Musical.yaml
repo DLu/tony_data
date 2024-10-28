@@ -1,0 +1,82 @@
+nominees:
+- entities:
+  - Michael Leavitt
+  - Fox Theatricals
+  - Hal Luftig
+  - Stewart F. Lane
+  - James L. Nederlander
+  - Independent Presenters Network
+  - L. Mages/M. Glick
+  - Berinstein/Manocherian/Dramatic Forces
+  - John York Noble
+  - Whoopi Goldberg
+  name: ', Producers: Michael Leavitt, Fox Theatricals, Hal Luftig, Stewart F. Lane, James L. Nederlander, Independent Presenters
+    Network, L. Mages/M. Glick, Berinstein/Manocherian/Dramatic Forces, John York Noble, Whoopi Goldberg'
+  roles:
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  show: Thoroughly Modern Millie
+  win: true
+- entities:
+  - Judy Craymer
+  - Richard East
+  - Björn Ulvaeus for Littlestar
+  - Universal
+  name: ', Producers: Judy Craymer, Richard East and Björn Ulvaeus for Littlestar, Universal'
+  roles:
+  - producer
+  - producer
+  - producer
+  - producer
+  show: Mamma Mia!
+- entities:
+  - Clear Channel Entertainment
+  - David Brown
+  - Ernest Lehman
+  - Marty Bell
+  - Martin Richards
+  - Roy Furman
+  - Joan Cullman
+  - Bob Boyett
+  - East of Doheny
+  - Bob
+  - Harvey Weinstein
+  name: ', Producers: Clear Channel Entertainment, David Brown, Ernest Lehman, Marty Bell, Martin Richards, Roy Furman, Joan
+    Cullman, Bob Boyett, East of Doheny, Bob and Harvey Weinstein'
+  roles:
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  show: Sweet Smell of Success
+- entities:
+  - The Araca Group
+  - Dodger Theatricals
+  - TheaterDreams
+  - Inc.
+  - Lauren Mitchell
+  name: ', Producers: The Araca Group and Dodger Theatricals, TheaterDreams, Inc., Lauren Mitchell'
+  roles:
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  show: Urinetown The Musical
+official category: Musical
+source: https://www.tonyawards.com/nominees/year/2002/category/any/show/any/

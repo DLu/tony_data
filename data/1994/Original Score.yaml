@@ -1,0 +1,32 @@
+nominees:
+- entities:
+  - Stephen Sondheim
+  name: Music and lyrics by Stephen Sondheim
+  roles:
+  - music and lyrics
+  show: Passion
+  win: true
+- entities:
+  - Alan Menken
+  - Howard Ashman
+  - Tim Rice
+  name: Music by Alan Menken, lyrics by Howard Ashman and Tim Rice
+  roles:
+  - music
+  - lyrics
+  - lyrics
+  show: Beauty and the Beast
+- entities:
+  - Ad van Dijk
+  - Koen van Dijk
+  - Peter Reeves
+  - Sheldon Harnick
+  name: Music by Ad van Dijk, lyrics by Koen van Dijk, Peter Reeves, and Sheldon Harnick
+  roles:
+  - music
+  - lyrics
+  - lyrics
+  - lyrics
+  show: 'Cyrano: The Musical'
+official category: Original Musical Score
+source: https://www.tonyawards.com/nominees/year/1994/category/any/show/any/

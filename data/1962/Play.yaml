@@ -1,0 +1,46 @@
+nominees:
+- entities:
+  - Robert Bolt
+  - Robert Whitehead
+  - Roger L. Stevens
+  name: by Robert Bolt.  Produced by Robert Whitehead and Roger L. Stevens
+  roles:
+  - author
+  - producer
+  - producer
+  show: A Man for All Seasons
+  win: true
+- entities:
+  - Paddy Chayefsky
+  - Fred Coe
+  - Arthur Cantor
+  name: by Paddy Chayefsky.  Produced by Fred Coe and Arthur Cantor
+  roles:
+  - author
+  - producer
+  - producer
+  show: Gideon
+- entities:
+  - Harold Pinter
+  - Roger L. Stevens
+  - Frederick Brisson
+  - Gilbert Miller
+  name: by Harold Pinter.  Produced by Roger L. Stevens, Frederick Brisson, and Gilbert Miller
+  roles:
+  - author
+  - producer
+  - producer
+  - producer
+  show: The Caretaker
+- entities:
+  - Tennessee Williams
+  - Charles Bowden
+  - Viola Rubber
+  name: by Tennessee Williams.  Produced by Charles Bowden and Viola Rubber
+  roles:
+  - author
+  - producer
+  - producer
+  show: The Night of the Iguana
+official category: Play
+source: https://www.tonyawards.com/nominees/year/1962/category/any/show/any/

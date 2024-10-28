@@ -1,0 +1,68 @@
+nominees:
+- entities:
+  - Brian Friel
+  - Noel Pearson
+  - Bill Kenwright
+  - Joseph Harris
+  name: by Brian Friel. Produced by Noel Pearson, Bill Kenwright, and Joseph Harris
+  roles:
+  - author
+  - producer
+  - producer
+  - producer
+  show: Dancing at Lughnasa
+  win: true
+- entities:
+  - John Guare
+  - Lincoln Center Theater
+  - André Bishop
+  - Bernard Gersten
+  name: by John Guare. Produced by Lincoln Center Theater, André Bishop, and Bernard Gersten
+  roles:
+  - author
+  - producer
+  - producer
+  - producer
+  show: Four Baboons Adoring the Sun
+- entities:
+  - Richard Nelson
+  - Lincoln Center Theater
+  - Gregory Mosher
+  - Bernard Gersten
+  name: by Richard Nelson. Produced by Lincoln Center Theater, Gregory Mosher, and Bernard Gersten
+  roles:
+  - author
+  - producer
+  - producer
+  - producer
+  show: Two Shakespearean Actors
+- entities:
+  - August Wilson
+  - Yale Repertory Theatre
+  - Stan Wojewodski
+  - Jr.
+  - Center Theatre Group/Ahmanson Theatre
+  - Gordon Davidson
+  - Jujamcyn Theaters
+  - Benjamin Mordecai
+  - Huntington Theatre Company
+  - Seattle Repertory Theatre
+  - Old Globe Theatre
+  name: by August Wilson. Produced by Yale Repertory Theatre, Stan Wojewodski, Jr., Center Theatre Group/Ahmanson Theatre,
+    Gordon Davidson, Jujamcyn Theaters, Benjamin Mordecai, Huntington Theatre Company, Seattle Repertory Theatre, and Old
+    Globe Theatre
+  roles:
+  - author
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  show: Two Trains Running
+official category: Play
+source: https://www.tonyawards.com/nominees/year/1992/category/any/show/any/

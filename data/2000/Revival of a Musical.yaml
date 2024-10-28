@@ -1,0 +1,44 @@
+nominees:
+- entities:
+  - Roger Berlind
+  - Roger Horchow
+  name: Produced by Roger Berlind, Roger Horchow
+  roles:
+  - producer
+  - producer
+  show: Kiss Me, Kate
+  win: true
+- entities:
+  - The Really Useful Superstar Company Inc.
+  - The Nederlander Producing Company of America Inc.
+  - Terry Allen Kramer
+  name: Produced by The Really Useful Superstar Company Inc., The Nederlander Producing Company of America Inc., Terry Allen
+    Kramer
+  roles:
+  - producer
+  - producer
+  - producer
+  show: Jesus Christ Superstar
+- entities:
+  - Dodger Theatricals
+  - The John F. Kennedy Center for the Performing Arts
+  - Elizabeth Williams/ Anita Waxman
+  - Kardana-Swinsky Productions
+  - Lorie Cowen Levy/ Dede Harris
+  name: ', Produced by Dodger Theatricals, The John F. Kennedy Center for the Performing Arts, Elizabeth Williams/ Anita Waxman,
+    Kardana-Swinsky Productions, Lorie Cowen Levy/ Dede Harris'
+  roles:
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  show: The Music Man
+- entities:
+  - DG Producciones
+  name: ', Produced by DG Producciones'
+  roles:
+  - producer
+  show: Tango Argentino
+official category: Revival (Musical)
+source: https://www.tonyawards.com/nominees/year/2000/category/any/show/any/

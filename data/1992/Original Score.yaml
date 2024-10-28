@@ -1,0 +1,41 @@
+nominees:
+- entities:
+  - William Finn
+  name: Music and lyrics by William Finn
+  roles:
+  - music and lyrics
+  show: Falsettos
+  win: true
+- entities:
+  - Jelly Roll Morton
+  - Luther Henderson
+  - Susan Birkenhead
+  name: Music by Jelly Roll Morton and Luther Henderson, lyrics by Susan Birkenhead
+  roles:
+  - music
+  - music
+  - lyrics
+  show: Jelly's Last Jam
+- entities:
+  - Janusz Stoklosa
+  - Agata Miklaszewska
+  - Maryna Miklaszewska
+  - Mary Bracken Phillips
+  name: Music by Janusz Stoklosa, lyrics by Agata and Maryna Miklaszewska, and Mary Bracken Phillips
+  roles:
+  - music
+  - lyrics
+  - lyrics
+  - lyrics
+
+  show: Metro
+- entities:
+  - Charles Strouse
+  - Richard Maltby, Jr.
+  name: Music by Charles Strouse, lyrics by Richard Maltby, Jr.
+  roles:
+  - music
+  - lyrics
+  show: Nick and Nora
+official category: Original Musical Score
+source: https://www.tonyawards.com/nominees/year/1992/category/any/show/any/

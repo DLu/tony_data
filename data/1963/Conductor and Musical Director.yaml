@@ -1,0 +1,15 @@
+nominees:
+- name: Donald Pippin
+  show: Oliver!
+  win: true
+- name: Jay Blackton
+  show: Mr. President
+- name: Anton Coppola
+  show: Bravo Giovanni
+- name: Donald
+  show:
+  - Pippin
+  - Oliver!
+- name: Julius Rudel
+  show: Brigadoon
+source: https://www.tonyawards.com/nominees/year/1963/category/any/show/any/

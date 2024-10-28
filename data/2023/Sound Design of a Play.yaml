@@ -1,0 +1,19 @@
+nominees:
+- name: Carolyn Downing
+  show: Life of Pi
+  win: true
+- name: Joshua D. Reid
+  show: A Christmas Carol
+- entities: [Ben Ringham, Max Ringham]
+  name: Ben & Max Ringham
+  show: A Doll's House
+- entities: [Ben Ringham, Max Ringham]
+  name: Ben & Max Ringham
+  show: Prima Facie
+- entities:
+  - Jonathan Deans
+  - Taylor Williams
+  name: Jonathan Deans & Taylor Williams
+  show: Ain't No Mo'
+official category: Best Sound Design of a Play
+source: https://www.tonyawards.com/nominees/year/2023/category/any/show/any/

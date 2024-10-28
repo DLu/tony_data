@@ -1,0 +1,55 @@
+nominees:
+- entities:
+  - August Wilson
+  - Carole Shorenstein Hays
+  - The Yale Repertory Theatre
+  name: by August Wilson. Produced by Carole Shorenstein Hays and The Yale Repertory Theatre
+  roles:
+  - author
+  - producer
+  - producer
+  show: Fences
+  win: true
+- entities:
+  - Neil Simon
+  - Emanuel Azenberg
+  name: by Neil Simon. Produced by Emanuel Azenberg
+  roles:
+  - author
+  - producer
+  show: Broadway Bound
+- entities:
+  - Tina Howe
+  - Circle in the Square
+  - Theodore Mann
+  - Paul Libin
+  name: by Tina Howe. Produced by Circle in the Square, Theodore Mann, and Paul Libin
+  roles:
+  - author
+  - producer
+  - producer
+  - producer
+  show: Coastal Disturbances
+- entities:
+  - Christopher Hampton
+  - James M. Nederlander
+  - The Shubert Organization
+  - Inc.
+  - Jerome Minskoff
+  - Elizabeth I. McCann
+  - Stephen Graham
+  - Jonathan Farkas
+  name: by Christopher Hampton. Produced by James M. Nederlander, The Shubert Organization, Inc., Jerome Minskoff, Elizabeth
+    I. McCann, Stephen Graham, and Jonathan Farkas
+  roles:
+  - author
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  show: Les Liaisons Dangereuses
+official category: Play
+source: https://www.tonyawards.com/nominees/year/1987/category/any/show/any/

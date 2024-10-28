@@ -1,0 +1,62 @@
+nominees:
+- entities:
+  - Wendy Wasserstein
+  - The Shubert Organization
+  - Suntory International Corp.
+  - James Walsh
+  - Playwrights Horizons
+  name: by Wendy Wasserstein. Produced by The Shubert Organization, Suntory International Corp., James Walsh, and Playwrights
+    Horizons
+  roles:
+  - author
+  - producer
+  - producer
+  - producer
+  - producer
+  show: The Heidi Chronicles
+  win: true
+- entities:
+  - Bill Irwin
+  - James Freydberg
+  - Kenneth Feld
+  - Jerry L. Cohen
+  - Max Weitzenhoffer
+  - The John F. Kennedy Center for the Performing Arts
+  - the Walt Disney Studios
+  name: by Bill Irwin. Produced by James Freydberg, Kenneth Feld, Jerry L. Cohen, Max Weitzenhoffer, The John F. Kennedy Center
+    for the Performing Arts, and the Walt Disney Studios.
+  roles:
+  - author
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  show: Largely New York
+- entities:
+  - Ken Ludwig
+  - Martin Stargar
+  - The Really Useful Theatre Co.
+  - Inc
+  name: by Ken Ludwig. Produced by Martin Stargar and The Really Useful Theatre Co., Inc.
+  roles:
+  - author
+  - producer
+  - producer
+  - producer
+  show: Lend Me a Tenor
+- entities:
+  - Willy Russell
+  - The Really Useful Theater Co.
+  - Inc.
+  - Bob Swash
+  name: by Willy Russell. Produced by The Really Useful Theater Co., Inc., and Bob Swash
+  roles:
+  - author
+  - producer
+  - producer
+  - producer
+  show: Shirley Valentine
+official category: Play
+source: https://www.tonyawards.com/nominees/year/1989/category/any/show/any/

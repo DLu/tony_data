@@ -1,0 +1,24 @@
+nominees:
+- entities:
+  - Hugh Wheeler
+  name: by Hugh Wheeler
+  roles:
+  - author
+  show: Candide
+  win: true
+- entities:
+  - Robert Nemiroff
+  - Charlotte Zaltzberg
+  name: by Robert Nemiroff and Charlotte Zaltzberg
+  roles:
+  - author
+  - author
+  show: Raisin
+- entities:
+  - Michael Bennett
+  name: by Michael Bennett
+  roles:
+  - author
+  show: Seesaw
+official category: Book (Musical)
+source: https://www.tonyawards.com/nominees/year/1974/category/any/show/any/

@@ -1,0 +1,18 @@
+nominees:
+- name: Alvin Colt
+  show: Pipe Dream
+  win: true
+- name: Mainbocher
+  show: The Great Sebastians
+- name: Alvin Colt
+  show:
+  - The Lark
+  - Phoenix '55
+  - Pipe Dream
+- name: Helene Pons
+  show:
+  - The Diary of Anne Frank
+  - Heavenly Twins
+  - A View from the Bridge
+official category: Costume Designer
+source: https://www.tonyawards.com/nominees/year/1956/category/any/show/any/

@@ -1,0 +1,12 @@
+nominees:
+- name: W. McNeil Lowry
+  note: on behalf of the Ford Foundation for his and their distinguished support of the American Theatre
+  win: true
+- name: Irving Berlin
+  note: for his distinguished contribution to the musical theatre for these many years
+  win: true
+- entities: [Alan Bennett, Peter Cook, Jonathan Miller, Dudley Moore]
+  note: for their brilliance which has shattered all the old concepts of comedy
+  show: Beyond the Fringe
+  win: true
+source: https://www.tonyawards.com/special-awards/year/1963/category/any/show/any/

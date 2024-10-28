@@ -1,0 +1,15 @@
+nominees:
+- entities: [Sir Noel Coward]
+  name: Sir Noel Coward for his multiple and immortal contributions to the theatre
+  win: true
+- entities:
+  - Alfred Lunt
+  - Lynn Fontanne
+  name: Alfred Lunt and Lynn Fontanne
+  win: true
+- name: New York Shakespeare Festival
+  note: for pioneering efforts on behalf of new plays
+  win: true
+- name: Barbra Streisand
+  win: true
+source: https://www.tonyawards.com/special-awards/year/1970/category/any/show/any/

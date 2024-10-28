@@ -1,0 +1,32 @@
+nominees:
+- entities:
+  - James Kirkwood
+  - Nicholas Dante
+  name: by James Kirkwood and Nicholas Dante
+  roles:
+  - author
+  - author
+  show: A Chorus Line
+  win: true
+- entities:
+  - Fred Ebb
+  - Bob Fosse
+  name: by Fred Ebb and Bob Fosse
+  roles:
+  - author
+  - author
+  show: Chicago
+- entities:
+  - John Weidman
+  name: by John Weidman
+  roles:
+  - author
+  show: Pacific Overtures
+- entities:
+  - Alfred Uhry
+  name: by Alfred Uhry
+  roles:
+  - author
+  show: The Robber Bridegroom
+official category: Book (Musical)
+source: https://www.tonyawards.com/nominees/year/1976/category/any/show/any/

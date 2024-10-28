@@ -1,0 +1,21 @@
+nominees:
+- name: Alfred Uhry
+  show: Parade
+  win: true
+- entities:
+  - Charles Bevel
+  - Lita Gaithers
+  - Randal Myler
+  - Ron Taylor
+  - Dan Wheetman
+  name: Charles Bevel, Lita Gaithers, Randal Myler, Ron Taylor and Dan Wheetman
+  show: It Ain't Nothin' But the Blues
+- name: Pam Gems
+  show: Marlene
+- entities:
+  - Dean Pichford
+  - Walter Bobbie
+  name: Dean Pichford and Walter Bobbie
+  show: Footloose
+official category: Book (Musical)
+source: https://www.tonyawards.com/nominees/year/1999/category/any/show/any/

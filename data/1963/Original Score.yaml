@@ -1,0 +1,21 @@
+nominees:
+- name: Lionel Bart
+  show: Oliver!
+  win: true
+- entities:
+  - Leslie Bricusse
+  - Anthony Newley
+  name: Leslie Bricusse and Anthony Newley
+  show: Stop the World - I Want to Get Off
+- entities:
+  - Cy Coleman
+  - Carolyn Leigh
+  name: Cy Coleman and Carolyn Leigh
+  show: Little Me
+- entities:
+  - Milton Schafer
+  - Ronny Graham
+  name: Milton Schafer and Ronny Graham
+  show: Bravo Giovanni
+official category: Original Musical Score
+source: https://www.tonyawards.com/nominees/year/1963/category/any/show/any/

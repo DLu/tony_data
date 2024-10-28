@@ -1,0 +1,15 @@
+nominees:
+- name: Ann Hould-Ward
+  show: Beauty and the Beast
+  win: true
+- entities:
+  - David Charles
+  - Jane Greenwood
+  name: David Charles and Jane Greenwood
+  show: She Loves Me
+- name: Jane Greenwood
+  show: Passion
+- name: Yan Tax
+  show: 'Cyrano: The Musical'
+official category: Costume Designer
+source: https://www.tonyawards.com/nominees/year/1994/category/any/show/any/

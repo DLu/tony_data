@@ -1,0 +1,21 @@
+nominees:
+- entities:
+  - Charles Lederer
+  - Luther Davis
+  - Alexander Borodin
+  - Robert Wright
+  - George Forrest
+  - Charles Lederer
+  name: Book by Charles Lederer and Luther Davis, music by Alexander Borodin, adapted and with lyrics by Robert Wright and
+    George Forrest.  Produced by Charles Lederer.
+  roles:
+  - book
+  - book
+  - music
+  - adapted and with lyrics
+  - adapted and with lyrics
+  - producer
+  show: Kismet
+  win: true
+official category: Musical
+source: https://www.tonyawards.com/nominees/year/1954/category/any/show/any/

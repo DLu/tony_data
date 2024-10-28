@@ -1,0 +1,30 @@
+nominees:
+- entities:
+  - Terrence McNally
+  name: by Terrence McNally
+  roles:
+  - author
+  show: Kiss of the Spider Woman--The Musical
+  win: true
+- entities:
+  - Peter Kellogg
+  name: by Peter Kellogg.
+  roles:
+  - author
+  show: Anna Karenina
+- entities:
+  - Willy Russell
+  name: by Willy Russell
+  roles:
+  - author
+  show: Blood Brothers
+- entities:
+  - Pete Townshend
+  - Des McAnuff
+  name: by Pete Townshend and Des McAnuff
+  roles:
+  - author
+  - author
+  show: The Who's Tommy
+official category: Book (Musical)
+source: https://www.tonyawards.com/nominees/year/1993/category/any/show/any/

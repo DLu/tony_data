@@ -1,0 +1,30 @@
+nominees:
+- entities:
+  - Tom Kitt
+  - Brian Yorkey
+  roles:
+  - music
+  - lyrics
+  show: Next to Normal
+  win: true
+- entities:
+  - Elton John
+  - Lee Hall
+  roles:
+  - music
+  - lyrics
+  show: Billy Elliot, The Musical
+- entities:
+  - Dolly Parton
+  roles:
+  - music and lyrics
+  show: '9 to 5: The Musical'
+- entities:
+  - Jeanine Tesori
+  - David Lindsay-Abaire
+  roles:
+  - music
+  - lyrics
+  show: Shrek The Musical
+official category: Original Musical Score
+source: https://www.tonyawards.com/nominees/year/2009/category/any/show/any/

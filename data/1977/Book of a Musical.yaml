@@ -1,0 +1,30 @@
+nominees:
+- entities:
+  - Thomas Meehan
+  name: by Thomas Meehan
+  roles:
+  - author
+  show: Annie
+  win: true
+- entities:
+  - Elisabeth Hauptmann
+  - Michael Feingold
+  name: by Elisabeth Hauptmann. Adaptation by Michael Feingold
+  roles:
+  - author
+  - adaptation
+  show: Happy End
+- entities:
+  - Michael Stewart
+  name: by Michael Stewart
+  roles:
+  - author
+  show: I Love My Wife
+- entities:
+  - Vinnette Carroll
+  name: by Vinnette Carroll
+  roles:
+  - author
+  show: Your Arm's Too Short To Box With God
+official category: Book (Musical)
+source: https://www.tonyawards.com/nominees/year/1977/category/any/show/any/

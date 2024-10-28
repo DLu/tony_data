@@ -1,0 +1,47 @@
+nominees:
+- entities:
+  - Neil Simon
+  - Emanuel Azenberg
+  name: by Neil Simon. Produced by Emanuel Azenberg
+  roles:
+  - author
+  - producer
+  show: Lost in Yonkers
+  win: true
+- entities: [Timberlake Wertenbaker, Frank Gero, Woji Gero, Karl Sydow, Raymond L. Gaspard, Frederick Zollo, Diana Bliss,
+    Hartford Stage Company]
+  name: by Timberlake Wertenbaker. Produced by Frank and Woji Gero, Karl Sydow, Raymond L:. Gaspard, Frederick Zollo, Diana
+    Bliss, and Hartford Stage Company
+  roles: [author, producer, producer, producer, producer, producer, producer, producer]
+  show: Our Country's Good
+- entities:
+  - William Nicholson
+  - Elliot Martin
+  - James M. Nederlander
+  - Brian Eastman
+  - Terry Allen Kramer
+  - Roger L. Stevens
+  name: by William Nicholson. Produced by Elliot Martin, James M. Nederlander, Brian Eastman, Terry Allen Kramer, and Roger
+    L. Stevens
+  roles:
+  - author
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  show: Shadowlands
+- entities:
+  - John Guare
+  - Lincoln Center Theatre
+  - Gregory Mosher
+  - Bernard Gersten
+  name: by John Guare. Produced by Lincoln Center Theatre, Gregory Mosher, and Bernard Gersten
+  roles:
+  - author
+  - producer
+  - producer
+  - producer
+  show: Six Degrees of Separation
+official category: Play
+source: https://www.tonyawards.com/nominees/year/1991/category/any/show/any/

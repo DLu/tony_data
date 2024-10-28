@@ -1,0 +1,18 @@
+nominees:
+- entities:
+  - Cy Feuer
+  - Ernest Martin
+  name: Cy Feuer and Ernest Martin
+  show: How to Succeed in Business Without Really Trying
+  win: true
+- entities:
+  - Helen Bonfils
+  - Haila Stoddard
+  - Charles Russel
+  name: 'Helen Bonfils, Haila Stoddard, and Charles Russel '
+  show: Sail Away
+- name: David Merrick
+  show: Carnival
+- name: Gerard Oestriecher
+  show: Milk and Honey
+source: https://www.tonyawards.com/nominees/year/1962/category/any/show/any/

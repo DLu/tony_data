@@ -1,0 +1,186 @@
+nominees:
+- entities:
+  - Scott Rudin
+  - Lincoln Center Theater
+  - Eli Bush
+  - Robert G. Bartner
+  - Roger Berlind
+  - William Berlind
+  - Roy Furman
+  - Peter May
+  - Amanda Lipitz
+  - Stephanie P. McClelland
+  - Jay Alix
+  - Una Jackman
+  - Scott M. Delman
+  - Sonia Friedman
+  - John Gore
+  - Ruth Hendel
+  - JFL Theatricals
+  - Heni Koenigsberg
+  - Jon B. Platt
+  - Daryl Roth
+  - Spring Sirkin
+  - Joey Parnes
+  - Sue Wagner
+  - John Johnson
+  - The Young Vic
+  name: 'Producers: Scott Rudin, Lincoln Center Theater, Eli Bush, Robert G. Bartner, Roger Berlind, William Berlind, Roy
+    Furman, Peter May, Amanda Lipitz, Stephanie P. McClelland, Jay Alix & Una Jackman, Scott M. Delman, Sonia Friedman, John
+    Gore, Ruth Hendel, JFL Theatricals, Heni Koenigsberg, Jon B. Platt, Daryl Roth, Spring Sirkin, Joey Parnes, Sue Wagner,
+    John Johnson, The Young Vic'
+  roles:
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  show: Arthur Miller's A View from the Bridge
+  win: true
+- entities:
+  - Scott Rudin
+  - Eli Bush
+  - Roger Berlind
+  - William Berlind
+  - Len Blavatnik
+  - Roy Furman
+  - Peter May
+  - Jay Alix
+  - Una Jackman
+  - Scott M. Delman
+  - Heni Koenigsberg
+  - Daryl Roth
+  - Jane Bergère
+  - Sonia Friedman Productions
+  - Ruth Hendel
+  - JFL Theatricals
+  - Stacey Mindich
+  - Jon B. Platt
+  - Megan Savage
+  - Spring Sirkin
+  - Tulchin Bartner Productions
+  - Joey Parnes
+  - Sue Wagner
+  - John Johnson
+  name: 'Producers: Scott Rudin, Eli Bush, Roger Berlind, William Berlind, Len Blavatnik, Roy Furman, Peter May, Jay Alix
+    & Una Jackman, Scott M. Delman, Heni Koenigsberg, Daryl Roth, Jane Bergère, Sonia Friedman Productions, Ruth Hendel, JFL
+    Theatricals, Stacey Mindich, Jon B. Platt, Megan Savage, Spring Sirkin, Tulchin Bartner Productions, Joey Parnes, Sue
+    Wagner, John Johnson'
+  roles:
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  show: Arthur Miller's The Crucible
+- entities:
+  - Scott Rudin
+  - Eli Bush
+  - Roger Berlind
+  - William Berlind
+  - Scott M. Delman
+  - Peter May
+  - Jon B. Platt
+  - Len Blavatnik
+  - Tulchin Bartner Productions
+  - Jay Alix
+  - Una Jackman
+  - Heni Koenigsberg
+  - Stacey Mindich
+  - Wendy Federman
+  - Joey Parnes
+  - Sue Wagner
+  - John Johnson
+  name: 'Producers: Scott Rudin, Eli Bush, Roger Berlind, William Berlind, Scott M. Delman, Peter May, Jon B. Platt, Len Blavatnik,
+    Tulchin Bartner Productions, Jay Alix & Una Jackman, Heni Koenigsberg, Stacey Mindich, Wendy Federman, Joey Parnes, Sue
+    Wagner, John Johnson'
+  roles:
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  show: Blackbird
+- entities:
+  - Roundabout Theatre Company
+  - Todd Haimes
+  - Harold Wolpert
+  - Julia C. Levy
+  - Sydney Beers
+  - Ryan Murphy
+  name: 'Producers: Roundabout Theatre Company, Todd Haimes, Harold Wolpert, Julia C. Levy, Sydney Beers, Ryan Murphy'
+  roles:
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  show: Long Day's Journey Into Night
+- entities:
+  - Roundabout Theatre Company
+  - Todd Haimes
+  - Harold Wolpert
+  - Julia C. Levy
+  - Sydney Beers
+  name: 'Producers: Roundabout Theatre Company, Todd Haimes, Harold Wolpert, Julia C. Levy, Sydney Beers'
+  roles:
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  show: Noises Off
+official category: Revival (Play)
+source: https://www.tonyawards.com/nominees/year/2016/category/any/show/any/

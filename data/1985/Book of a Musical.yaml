@@ -1,0 +1,30 @@
+nominees:
+- entities:
+  - William Hauptman
+  name: by William Hauptman
+  roles:
+  - author
+  show: Big River
+  win: true
+- entities:
+  - Fay Kanin
+  name: by Fay Kanin
+  roles:
+  - author
+  show: Grind
+- entities:
+  - Michael Stewart
+  name: by Michael Stewart
+  roles:
+  - author
+  show: Harrigan 'n Hart
+- entities:
+  - Molly Newman
+  - Barbara Damashek
+  name: by Molly Newman and Barbara Damashek
+  roles:
+  - author
+  - author
+  show: Quilters
+official category: Book (Musical)
+source: https://www.tonyawards.com/nominees/year/1985/category/any/show/any/

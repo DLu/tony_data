@@ -1,0 +1,93 @@
+nominees:
+- entities:
+  - Boyett Ostar Productions
+  - Stephanie P. McClelland
+  - Bill Rollnick
+  - James D'Orta
+  - Philip Geier
+  name: "Producers: Boyett Ostar Productions, Stephanie P. McClelland, Bill Rollnick, James D'Orta, Philip Geier"
+  roles:
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  show: Journey's End
+  win: true
+- entities:
+  - Boyett Ostar Productions
+  - The Shubert Organization
+  - Lawrence Horowitz
+  - Jon Avnet/Ralph Guild
+  - Roy Furman
+  - Debra Black/Daryl Roth
+  - Bill Rollnick/Nancy Ellison Rollnick
+  - Stephanie P. McClelland
+  name: 'Producers: Boyett Ostar Productions, The Shubert Organization, Lawrence Horowitz, Jon Avnet/Ralph Guild, Roy Furman,
+    Debra Black/Daryl Roth, Bill Rollnick/Nancy Ellison Rollnick, Stephanie P. McClelland'
+  roles:
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  show: Inherit the Wind
+- entities:
+  - Jeffrey Richards
+  - Jerry Frankel
+  - Jam Theatricals
+  - Francis Finlay
+  - Ronald Frankel
+  - James Fuld
+  - Jr.
+  - Steve Green
+  - Judith Hansen
+  - Patty Ann Lacerte
+  - James Riley
+  - Mary Lu Roffe/Mort Swinsky
+  - Sheldon Stein
+  - Terri
+  - Timothy Childs/Stylefour Productions
+  - Irving Welzer/Herb Blodgett
+  name: 'Producers: Jeffrey Richards, Jerry Frankel, Jam Theatricals, Francis Finlay, Ronald Frankel, James Fuld, Jr., Steve
+    Green, Judith Hansen, Patty Ann Lacerte, James Riley, Mary Lu Roffe/Mort Swinsky, Sheldon Stein, Terri & Timothy Childs/Stylefour
+    Productions, Irving Welzer/Herb Blodgett'
+  roles:
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  show: Talk Radio
+- entities:
+  - Manhattan Theatre Club
+  - McCarter Theatre Center
+  - Lynne Meadow
+  - Barry Grove
+  - Emily Mann
+  - Jeffrey Woodward
+  name: 'Producers: Manhattan Theatre Club, McCarter Theatre Center, Lynne Meadow, Barry Grove, Emily Mann, Jeffrey Woodward'
+  roles:
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  show: Translations
+official category: Revival (Play)
+source: https://www.tonyawards.com/nominees/year/2007/category/any/show/any/

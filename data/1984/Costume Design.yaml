@@ -1,0 +1,15 @@
+nominees:
+- name: Theoni V. Aldredge
+  show: La Cage aux Folles
+  win: true
+- name: Jane Greenwood
+  show: Heartbreak House
+- name: Anthea Sylbert
+  show: The Real Thing
+- entities:
+  - Patricia Zipprodt
+  - Ann Hould-Ward
+  name: Patricia Zipprodt and Ann Hould-Ward
+  show: Sunday in the Park with George
+official category: Costume Designer
+source: https://www.tonyawards.com/nominees/year/1984/category/any/show/any/

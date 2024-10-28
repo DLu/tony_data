@@ -1,0 +1,18 @@
+nominees:
+- entities:
+  - Frank Loesser
+  - Jo Swerling
+  - Abe Burrows
+  - Cy Feuer
+  - Ernest H. Martin
+  name: Music and lyrics by Frank Loesser, book by Jo Swerling and Abe Burrows.  Produced by Cy Feuer and Ernest H. Martin.
+  roles:
+  - music and lyrics
+  - book
+  - book
+  - producer
+  - producer
+  show: Guys and Dolls
+  win: true
+official category: Musical
+source: https://www.tonyawards.com/nominees/year/1951/category/any/show/any/

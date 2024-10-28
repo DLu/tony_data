@@ -1,0 +1,15 @@
+nominees:
+- name: Santo Loquasto
+  show: Cafe Crown
+  win: true
+- name: Thomas Lynch
+  show: The Heidi Chronicles
+- entities:
+  - Claudio Segovio
+  - Hector Orezzoli
+  name: Claudio Segovio and Hector Orezzoli
+  show: Black and Blue
+- name: Tony Walton
+  show: Lend Me a Tenor
+official category: Scenic Designer
+source: https://www.tonyawards.com/nominees/year/1989/category/any/show/any/

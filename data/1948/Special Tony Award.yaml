@@ -1,0 +1,28 @@
+nominees:
+- name: Rosalind Gilder
+  note: editor, Theatre Arts
+  win: true
+- name: Vera Allen
+  win: true
+- name: Experimental Theatre Inc.
+  note: John Garfield accepting
+  win: true
+- name: The cast of The Importance of Being Earnest
+  show: The Importance of Being Earnest
+  win: true
+- entities:
+  - Robert W. Dowling
+  - Paul Beisman
+  note: Robert W. Dowling, president of City Investing Company, owner of several theatres in New York. Paul Beisman, operator
+    of the American Theatre, St. Louis.
+  win: true
+- name: George Pierce
+  note: for twenty-five years of courteous and efficient service as a backstage doorman (Empire Theatre)
+  win: true
+- name: Mary Martin
+  show: Annie Get Your Gun
+  win: true
+- name: Joe E. Brown
+  show: Harvey
+  win: true
+source: https://www.tonyawards.com/special-awards/year/1948/category/any/show/any/

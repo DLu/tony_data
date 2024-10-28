@@ -1,0 +1,34 @@
+nominees:
+- entities: [Joseph A. Walker, 'Negro Ensemble Co., Inc.']
+  name: by Joseph A. Walker.  Produced by Negro Ensemble Co., Inc.
+  roles: [author, producer]
+  show: The River Niger
+  win: true
+- entities:
+  - David Rabe
+  - Joseph Papp
+  name: by David Rabe.  Produced by Joseph Papp
+  roles:
+  - author
+  - producer
+  show: Boom Boom Room
+- entities:
+  - Hugh Leonard
+  - Joseph Papp
+  name: by Hugh Leonard.  Produced by Joseph Papp
+  roles:
+  - author
+  - producer
+  show: The Au Pair Man
+- entities:
+  - Marjorie Barkentin
+  - Alexander H. Cohen
+  - Bernard Delfont
+  name: by Marjorie Barkentin. Produced by Alexander H. Cohen and Bernard Delfont
+  roles:
+  - author
+  - producer
+  - producer
+  show: Ulysses in Nighttown
+official category: Play
+source: https://www.tonyawards.com/nominees/year/1974/category/any/show/any/

@@ -1,0 +1,45 @@
+nominees:
+- entities:
+  - Roger Horchow
+  - Elizabeth Williams
+  name: Produced by Roger Horchow and Elizabeth Williams
+  roles:
+  - producer
+  - producer
+  show: Crazy for You
+  win: true
+- entities:
+  - Barry
+  - Fran Weissler
+  name: Produced by Barry and Fran Weissler
+  roles:
+  - producer
+  - producer
+  show: Falsettos
+- entities:
+  - Cameron Mackintosh
+  name: Produced by Cameron Mackintosh
+  roles:
+  - producer
+  show: Five Guys Named Moe
+- entities:
+  - Margo Lion
+  - Pamela Koslow
+  - PolyGram Diversified Entertainment
+  - 126 Second Avenue Corp./Hal Luftig
+  - Roger Hess
+  - Jujamcyn Theaters/TV Asahi
+  - Herb Alpert
+  name: Produced by Margo Lion, Pamela Koslow, PolyGram Diversified Entertainment, 126 Second Avenue Corp./Hal Luftig, Roger
+    Hess, Jujamcyn Theaters/TV Asahi, and Herb Alpert
+  roles:
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  show: Jelly's Last Jam
+official category: Musical
+source: https://www.tonyawards.com/nominees/year/1992/category/any/show/any/

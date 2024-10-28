@@ -1,0 +1,59 @@
+nominees:
+- entities:
+  - Nick Vanoff
+  - Roger Berlind
+  - Jujamcyn Theaters
+  - Suntory International Corp.
+  - The Shubert Organization
+  name: Produced by Nick Vanoff, Roger Berlind, Jujamcyn Theaters, Suntory International Corp., and The Shubert Organization
+  roles:
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  show: City of Angels
+  win: true
+- entities:
+  - The Really Useful Theater Co.
+  - Inc
+  name: Produced by The Really Useful Theater Co., Inc.
+  roles:
+  - producer
+  - producer
+  show: Aspects of Love
+- entities:
+  - Martin Richards
+  - Mary Lea Johnson
+  - Sam Crothers
+  - Sander Jacobs
+  - Kenneth D. Greenblatt
+  - Paramount Pictures
+  - Jujamcyn Theaters
+  - Patty Grubman
+  - Marvin A. Krauss
+  name: Produced by Martin Richards, Mary Lea Johnson, Sam Crothers, Sander Jacobs, Kenneth D. Greenblatt, Paramount Pictures,
+    Jujamcyn Theaters, Patty Grubman, and Marvin A. Krauss
+  roles:
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  show: Grand Hotel, The Musical
+- entities:
+  - Brickhill-Burke Productions
+  - Christopher Seabrooke
+  - EPI Products
+  name: Produced by Brickhill-Burke Productions, Christopher Seabrooke, and EPI Products
+  roles:
+  - producer
+  - producer
+  - producer
+  show: Meet Me in St. Louis
+official category: Musical
+source: https://www.tonyawards.com/nominees/year/1990/category/any/show/any/

@@ -1,0 +1,11 @@
+nominees:
+- name: The cast of the 2003 Broadway production of Big River
+  show: Big River
+  win: true
+- name: Nancy Coyne
+  win: true
+- entities: [Frances Edelstein, Harry Edelstein, 'Vincent Sardi, Jr.']
+  win: true
+- name: Martha Swope
+  win: true
+source: https://www.tonyawards.com/special-awards/year/2004/category/any/show/any/

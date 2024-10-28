@@ -1,0 +1,18 @@
+nominees:
+- name: Christopher Wheeldon
+  show: An American in Paris
+  win: true
+- name: Joshua Bergasse
+  show: for On the Town
+- name: Christopher Gattelli
+  show: The King and I
+- entities:
+  - Scott Graham
+  - Steven Hoggett
+  - Frantic Assembly
+  name: Scott Graham, Steven Hoggett, Frantic Assembly
+  show: The Curious Incident of the Dog in the Night-Time
+- name: Casey Nicholaw
+  show: Something Rotten!
+official category: Choreographer
+source: https://www.tonyawards.com/nominees/year/2015/category/any/show/any/

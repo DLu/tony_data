@@ -1,0 +1,74 @@
+nominees:
+- entities:
+  - Roundabout Theatre Company
+  - Todd Haimes
+  - Ellen Richard
+  - Julia C. Levy
+  name: ', Producers: Roundabout Theatre Company, Todd Haimes, Ellen Richard, Julia C. Levy'
+  roles:
+  - producer
+  - producer
+  - producer
+  - producer
+  show: Nine The Musical
+  win: true
+- entities:
+  - Robert Fox
+  - Ron Kastner
+  - Roger Marino
+  - Michael Watt
+  - Harvey Weinstein
+  - WWLC
+  name: ', Producers: Robert Fox, Ron Kastner, Roger Marino, Michael Watt, Harvey Weinstein, WWLC'
+  roles:
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  show: Gypsy
+- entities:
+  - Jeffrey Seller
+  - Kevin McCollum
+  - Emanuel Azenberg
+  - Bazmark Live
+  - Bob
+  - Harvey Weinstein
+  - Korea Pictures/Doyun Seol
+  - J. Sine/I. Pittelman/S. Nederlander
+  - Fox Searchlight Pictures
+  name: ', Producers: Jeffrey Seller, Kevin McCollum, Emanuel Azenberg, Bazmark Live, Bob and Harvey Weinstein, Korea Pictures/Doyun
+    Seol, J. Sine/I. Pittelman/S. Nederlander, Fox Searchlight Pictures'
+  roles:
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  show: La Bohème
+- entities:
+  - David Stone
+  - Jon B. Platt
+  - Susan Quint Gallin
+  - Sandy Gallin
+  - Seth M. Siegel
+  - USA Ostar Theatricals
+  - Mary Lu Roffe
+  name: ', Producers: David Stone, Jon B. Platt, Susan Quint Gallin, Sandy Gallin, Seth M. Siegel, USA Ostar Theatricals,
+    Mary Lu Roffe'
+  roles:
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  show: Man of La Mancha
+official category: Revival (Musical)
+source: https://www.tonyawards.com/nominees/year/2003/category/any/show/any/

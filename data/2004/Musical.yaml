@@ -1,0 +1,76 @@
+nominees:
+- entities:
+  - Kevin McCollum
+  - Robyn Goodman
+  - Jeffrey Seller
+  - Vineyard Theatre
+  - The New Group
+  name: 'Producers: Kevin McCollum, Robyn Goodman, Jeffrey Seller, Vineyard Theatre, The New Group'
+  roles:
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  show: Avenue Q
+  win: true
+- entities:
+  - Carole Shorenstein Hays
+  - HBO Films
+  - Jujamcyn Theaters
+  - Freddy DeMann
+  - Scott Rudin
+  - Hendel/Morten/Wiesenfeld
+  - Fox Theatricals/Manocherian/Berg?re
+  - Roger Berlind
+  - Clear Channel Entertainment
+  - Joan Cullman
+  - Greg Holland/Scott Nederlander
+  - Margo Lion
+  - Daryl Roth
+  - Zollo/Sine
+  - The Public Theater
+  name: 'Producers: Carole Shorenstein Hays, HBO Films, Jujamcyn Theaters, Freddy DeMann, Scott Rudin, Hendel/Morten/Wiesenfeld,
+    Fox Theatricals/Manocherian/Berg?re, Roger Berlind, Clear Channel Entertainment, Joan Cullman, Greg Holland/Scott Nederlander,
+    Margo Lion, Daryl Roth, Zollo/Sine, The Public Theater'
+  roles:
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  show: Caroline, or Change
+- entities:
+  - Ben Gannon
+  - Robert Fox
+  name: 'Producers: Ben Gannon, Robert Fox'
+  roles:
+  - producer
+  - producer
+  show: The Boy from Oz
+- entities:
+  - Marc Platt
+  - Universal Pictures
+  - The Araca Group
+  - Jon B. Platt
+  - David Stone
+  name: 'Producers: Marc Platt, Universal Pictures, The Araca Group, Jon B. Platt, David Stone'
+  roles:
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  show: Wicked
+official category: Musical
+source: https://www.tonyawards.com/nominees/year/2004/category/any/show/any/

@@ -1,0 +1,28 @@
+nominees:
+- entities:
+  - William Finn
+  - James Lapine
+  name: by William Finn and James Lapine
+  roles:
+  - author
+  - author
+  show: Falsettos
+  win: true
+- entities:
+  - Ken Ludwig
+  name: by Ken Ludwig
+  roles:
+  - author
+  show: Crazy for You
+- entities:
+  - Clarke Peters
+  name: by Clarke Peters
+  roles:
+  - author
+  show: Five Guys Named Moe
+- entities: [George C. Wolfe]
+  name: by George C. Wolfe
+  roles: [author]
+  show: Jelly's Last Jam
+official category: Book (Musical)
+source: https://www.tonyawards.com/nominees/year/1992/category/any/show/any/

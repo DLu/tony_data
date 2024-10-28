@@ -1,0 +1,23 @@
+nominees:
+- entities:
+  - George Abbott
+  - Richard Bissell
+  - Richard Adler
+  - Jerry Ross
+  - Frederick Brisson
+  - Robert Griffith
+  - Harold S. Prince
+  name: Book by George Abbott and Richard Bissell, music and lyrics by Richard Adler and Jerry Ross. Produced by Frederick
+    Brisson, Robert Griffith, and Harold S. Prince.
+  roles:
+  - book
+  - book
+  - music and lyrics
+  - music and lyrics
+  - producer
+  - producer
+  - producer
+  show: The Pajama Game
+  win: true
+official category: Musical
+source: https://www.tonyawards.com/nominees/year/1955/category/any/show/any/

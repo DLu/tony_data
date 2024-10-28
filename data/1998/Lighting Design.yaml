@@ -1,0 +1,18 @@
+nominees:
+- name: Donald Holder
+  show: The Lion King
+  win: true
+- name: Paul Anderson
+  show: The Chairs
+- entities:
+  - Peggy Eisenhauer
+  - Mike Baldassari
+  name: Peggy Eisenhauer and Mike Baldassari
+  show: Cabaret
+- entities:
+  - Jules Fisher
+  - Peggy Eisenhauer
+  name: Jules Fisher and Peggy Eisenhauer
+  show: Ragtime
+official category: Lighting Designer
+source: https://www.tonyawards.com/nominees/year/1998/category/any/show/any/

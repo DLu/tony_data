@@ -1,0 +1,16 @@
+nominees:
+- name: Susan Stroman
+  show: Crazy for You
+  win: true
+- name: Terry John Bates
+  show: Dancing at Lughnasa
+- name: Christopher Chadman
+  show: Guys and Dolls
+- entities:
+  - Hope Clarke
+  - Ted L. Levy
+  - Gregory Hines
+  name: Hope Clarke, Ted L. Levy, and Gregory Hines
+  show: Jelly's Last Jam
+official category: Choreographer
+source: https://www.tonyawards.com/nominees/year/1992/category/any/show/any/

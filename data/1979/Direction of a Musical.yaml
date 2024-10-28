@@ -1,0 +1,15 @@
+nominees:
+- name: Harold Prince
+  show: Sweeney Todd
+  win: true
+- name: Michael Bennett
+  show: Ballroom
+- entities:
+  - Peter Masterson
+  - Tommy Tune
+  name: Peter Masterson and Tommy Tune
+  show: The Best Little Whorehouse in Texas
+- name: Robert Moore
+  show: They're Playing Our Song
+official category: Director (Musical)
+source: https://www.tonyawards.com/nominees/year/1979/category/any/show/any/

@@ -1,0 +1,68 @@
+nominees:
+- entities:
+  - Roundabout Theatre Company
+  - Todd Haimes
+  - Ellen Richard
+  name: Produced by Roundabout Theatre Company, Todd Haimes, Ellen Richard.
+  roles:
+  - producer
+  - producer
+  - producer
+  show: Cabaret
+  win: true
+- entities:
+  - Roundabout Theatre Company
+  - Todd Haimes
+  - Ellen Richard
+  - James M. Nederlander
+  - Stewart F. Lane
+  - Rodger Hess
+  - Bill Haber
+  - Robert Halmi Jr.
+  - Dodger Endemol Theatricals
+  - Hallmark Entertainment
+  name: Produced by Roundabout Theatre Company, Todd Haimes, Ellen Richard, James M. Nederlander, Stewart F. Lane, Rodger
+    Hess, Bill Haber, Robert Halmi Jr., Dodger Endemol Theatricals, Hallmark Entertainment.
+  roles:
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  show: '1776'
+- entities:
+  - Hallmark
+  - Thomas Viertel
+  - Steven Baruch
+  - Richard Frankel
+  - Jujamcyn Theaters
+  - The Rodgers
+  - Hammerstein Organization
+  - Charles Kelman Productions
+  - Simone Genatt Haft
+  - Marc Routh
+  - Jay Binder
+  - Robert Halmi Jr.
+  name: Produced by Hallmark, Thomas Viertel, Steven Baruch, Richard Frankel, Jujamcyn Theaters, The Rodgers and Hammerstein
+    Organization, Charles Kelman Productions, Simone Genatt Haft, Marc Routh, Jay Binder, Robert Halmi Jr.
+  roles:
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  show: The Sound of Music
+official category: Revival (Musical)
+source: https://www.tonyawards.com/nominees/year/1998/category/any/show/any/

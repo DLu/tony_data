@@ -1,0 +1,58 @@
+nominees:
+- entities:
+  - Joe Masteroff
+  - John Kander
+  - Fred Ebb
+  - Harold Prince in association with Ruth Mitchell
+  name: Book by Joe Masteroff, music by John Kander, lyrics by Fred Ebb.  Produced by Harold Prince in association with Ruth
+    Mitchell.
+  roles:
+  - book
+  - music
+  - lyrics
+  - producer
+  show: Cabaret
+  win: true
+- entities:
+  - Tom Jones
+  - Harvey Schmidt
+  - David Merrick
+  name: Book and lyrics by Tom Jones, music by Harvey Schmidt.  Produced by David Merrick
+  roles:
+  - book and lyrics
+  - music
+  - producer
+  show: I Do! I Do!
+- entities:
+  - Sheldon Harnick
+  - Jerry Bock
+  - Jerry Bock
+  - Sheldon Harnick
+  - Stuart Ostrow
+  name: Book by Sheldon Harnick and Jerry Bock, music by Jerry Bock, lyrics by Sheldon Harnick.  Produced by Stuart Ostrow
+  roles:
+  - book
+  - book
+  - music
+  - lyrics
+  - producer
+  show: The Apple Tree
+- entities:
+  - Roger O. Hirson
+  - Ketti Frings
+  - James Van Heusen
+  - Sammy Cahn
+  - Cy Feuer
+  - Ernest M. Martin
+  name: Book by Roger O. Hirson and Ketti Frings, music by James Van Heusen, lyrics by Sammy Cahn.  Produced by Cy Feuer and
+    Ernest M. Martin
+  roles:
+  - book
+  - book
+  - music
+  - lyrics
+  - producer
+  - producer
+  show: Walking Happy
+official category: Musical
+source: https://www.tonyawards.com/nominees/year/1967/category/any/show/any/

@@ -1,0 +1,34 @@
+nominees:
+- entities:
+  - John Kander
+  - Fred Ebb
+  name: Music by John Kander, lyrics by Fred Ebb
+  roles:
+  - music
+  - lyrics
+  show: Woman of the Year
+  win: true
+- entities:
+  - Charles Strouse
+  - David Rogers
+  name: Music by Charles Strouse, lyrics by David Rogers
+  roles:
+  - music
+  - lyrics
+  show: Charlie and Algernon
+- entities:
+  - Al Kasha
+  - Joel Hirschhorn
+  name: Music and lyrics by Al Kasha and Joel Hirschhorn
+  roles:
+  - music and lyrics
+  - music and lyrics
+  show: Copperfield
+- entities:
+  - Lance Mulcahy
+  name: Music by Lance Mulcahy
+  roles:
+  - music
+  show: Shakespeare's Cabaret
+official category: Original Musical Score
+source: https://www.tonyawards.com/nominees/year/1981/category/any/show/any/

@@ -1,0 +1,14 @@
+nominees:
+- name: American Shakespeare Festival
+  note: Stratford, Connecticut
+  win: true
+- entities: [Jean-Louis Barrault, French Repertory]
+  name: Jean-Louis Barrault--French Repertory
+  win: true
+- name: Robert Russell Bennett
+  win: true
+- name: William Hammerstein
+  win: true
+- name: Paul Shyre
+  win: true
+source: https://www.tonyawards.com/special-awards/year/1957/category/any/show/any/

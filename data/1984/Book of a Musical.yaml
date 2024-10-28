@@ -1,0 +1,28 @@
+nominees:
+- entities:
+  - Harvey Fierstein
+  name: by Harvey Fierstein
+  roles:
+  - author
+  show: La Cage aux Folles
+  win: true
+- entities:
+  - Sybille Pearson
+  name: by Sybille Pearson
+  roles:
+  - author
+  show: Baby
+- entities:
+  - James Lapine
+  name: by James Lapine
+  roles:
+  - author
+  show: Sunday in the Park with George
+- entities:
+  - Charles Blackwell
+  name: by Charles Blackwell
+  roles:
+  - author
+  show: The Tap Dance Kid
+official category: Book (Musical)
+source: https://www.tonyawards.com/nominees/year/1984/category/any/show/any/

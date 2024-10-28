@@ -1,0 +1,45 @@
+nominees:
+- entities:
+  - Frances Goodrich
+  - Albert Hackett
+  - Kermit Bloomgarden
+  name: by Frances Goodrich and Albert Hackett.  Produced by Kermit Bloomgarden.
+  roles:
+  - author
+  - author
+  - producer
+  show: The Diary of Anne Frank
+  win: true
+- entities:
+  - William Inge
+  - Robert Whitehead
+  - Roger L. Stevens
+  name: by William Inge.  Produced by Robert Whitehead and Roger L. Stevens.
+  roles:
+  - author
+  - producer
+  - producer
+  show: Bus Stop
+- entities:
+  - Tennessee Williams
+  - The Playwrights' Company
+  name: by Tennessee Williams.  Produced by The Playwrights' Company,
+  roles:
+  - author
+  - producer
+  show: Cat on a Hot Tin Roof
+- entities: [Jean Giraudoux, Christopher Fry, Robert L. Joseph, The Playwrights' Company, and Henry M. Margolis]
+  name: by Jean Giraudoux, adapted by Christopher Fry.  Produced by Robert L. Joseph, The Playwrights' Company, and Henry
+    M. Margolis.
+  roles: [author, adaptation, producer, producer, producer]
+  show: Tiger at the Gates
+- entities:
+  - Enid Bagnold
+  - Irene Mayer Selznick
+  name: by Enid Bagnold.  Produced by Irene Mayer Selznick.
+  roles:
+  - author
+  - producer
+  show: The Chalk Garden
+official category: Play
+source: https://www.tonyawards.com/nominees/year/1956/category/any/show/any/

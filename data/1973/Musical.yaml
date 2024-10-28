@@ -1,0 +1,30 @@
+nominees:
+- entities:
+  - Harold Prince
+  name: Produced by Harold Prince
+  roles:
+  - producer
+  show: A Little Night Music
+  win: true
+- entities:
+  - Edward Padula
+  - Arch Lustberg
+  name: Produced by Edward Padula and Arch Lustberg
+  roles:
+  - producer
+  - producer
+  show: Don't Bother Me, I Can't Cope
+- entities:
+  - Stuart Ostrow
+  name: Produced by Stuart Ostrow
+  roles:
+  - producer
+  show: Pippin
+- entities:
+  - David Merrick
+  name: Produced by David Merrick
+  roles:
+  - producer
+  show: Sugar
+official category: Musical
+source: https://www.tonyawards.com/nominees/year/1973/category/any/show/any/

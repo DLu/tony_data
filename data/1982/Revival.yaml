@@ -1,0 +1,45 @@
+nominees:
+- entities:
+  - Barry
+  - Fran Weissler
+  - CBS Video Enterprises
+  name: Produced by Barry and Fran Weissler and CBS Video Enterprises
+  roles:
+  - producer
+  - producer
+  - producer
+  show: Othello
+  win: true
+- entities:
+  - Roundabout Theatre Co.
+  - Gene Feist
+  - Michael Fried
+  name: Produced by Roundabout Theatre Co., Gene Feist and Michael Fried
+  roles:
+  - producer
+  - producer
+  - producer
+  show: A Taste of Honey
+- entities:
+  - Barry
+  - Fran Weissler
+  - The Kennedy Center
+  - Bunny
+  - Warren Austin
+  name: Produced by Barry and Fran Weissler, The Kennedy Center and Bunny and Warren Austin
+  roles:
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  show: Medea
+- entities:
+  - Mike Merrick
+  - Don Gregory
+  name: Produced by Mike Merrick and Don Gregory
+  roles:
+  - producer
+  - producer
+  show: My Fair Lady
+source: https://www.tonyawards.com/nominees/year/1982/category/any/show/any/

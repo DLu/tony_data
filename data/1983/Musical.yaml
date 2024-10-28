@@ -1,0 +1,56 @@
+nominees:
+- entities:
+  - Cameron Mackintosh
+  - The Really Useful Company
+  - Inc.
+  - David Geffen
+  - The Shubert Organization
+  name: Produced by Cameron Mackintosh, The Really Useful Company, Inc., David Geffen, and The Shubert Organization
+  roles:
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  show: Cats
+  win: true
+- entities:
+  - Mitchell Maxwell
+  - Alan J. Schuster
+  - Fred H. Krones
+  - M2 Entertainment
+  - Inc
+  name: Produced by Mitchell Maxwell, Alan J. Schuster, Fred H. Krones, and M2 Entertainment, Inc.
+  roles:
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  show: Blues in the Night
+- entities:
+  - Ivan Reitman
+  - Columbia Pictures Stage Productions
+  - Inc.
+  - Marvin A. Krauss
+  - James M. Nederlander
+  name: Produced by Ivan Reitman, Columbia Pictures Stage Productions, Inc., Marvin A. Krauss, and James M. Nederlander
+  roles:
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  show: Merlin
+- entities:
+  - Paramount Theatre Productions
+  - Francine LeFrak
+  - Kenneth-Mark Productions
+  name: Produced by Paramount Theatre Productions, Francine LeFrak, and Kenneth-Mark Productions
+  roles:
+  - producer
+  - producer
+  - producer
+  show: My One and Only
+official category: Musical
+source: https://www.tonyawards.com/nominees/year/1983/category/any/show/any/

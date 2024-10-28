@@ -1,0 +1,40 @@
+nominees:
+- entities:
+  - Joseph Papp
+  - New York Shakespeare Festival
+  name: Produced by Joseph Papp, New York Shakespeare Festival
+  roles:
+  - producer
+  - producer
+  show: A Chorus Line
+  win: true
+- entities:
+  - J. Lloyd Grant
+  - Richard Bell
+  - Robert M. Cooper
+  - Ashton Springer in association with Moe Septee
+  - Inc
+  name: Produced by J. Lloyd Grant, Richard Bell, Robert M. Cooper, and Ashton Springer in association with Moe Septee, Inc.
+  roles:
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  show: Bubbling Brown Sugar
+- entities:
+  - Robert Fryer
+  - James Cresson
+  name: Produced by Robert Fryer and James Cresson
+  roles:
+  - producer
+  - producer
+  show: Chicago
+- entities:
+  - Harold Prince in association with Ruth Mitchell
+  name: Produced by Harold Prince in association with Ruth Mitchell
+  roles:
+  - producer
+  show: Pacific Overtures
+official category: Musical
+source: https://www.tonyawards.com/nominees/year/1976/category/any/show/any/

@@ -1,0 +1,42 @@
+nominees:
+- entities:
+  - Harold Pinter
+  - Alexander H. Cohen
+  name: by Harold Pinter.  Produced by Alexander H. Cohen
+  roles:
+  - author
+  - producer
+  show: The Homecoming
+  win: true
+- entities:
+  - Edward Albee
+  - Theatre 1967
+  - Richard Barr
+  - Clinton Wilder
+  name: by Edward Albee.  Produced by Theatre 1967, Richard Barr and Clinton Wilder
+  roles:
+  - author
+  - producer
+  - producer
+  - producer
+  show: A Delicate Balance
+- entities:
+  - Peter Shaffer
+  - Alexander H. Cohen
+  name: by Peter Shaffer.  Produced by Alexander H. Cohen
+  roles:
+  - author
+  - producer
+  show: Black Comedy
+- entities:
+  - Frank Marcus
+  - Helen Bonfils
+  - Morton Gottlieb
+  name: by Frank Marcus.  Produced by Helen Bonfils and Morton Gottlieb
+  roles:
+  - author
+  - producer
+  - producer
+  show: The Killing of Sister George
+official category: Play
+source: https://www.tonyawards.com/nominees/year/1967/category/any/show/any/

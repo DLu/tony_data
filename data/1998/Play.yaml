@@ -1,0 +1,75 @@
+nominees:
+- entities:
+  - Yasmina Reza
+  - David Pugh
+  - Sean Connery
+  - Joan Cullman
+  name: by Yasmina Reza.  Produced by David Pugh, Sean Connery, Joan Cullman.
+  roles:
+  - author
+  - producer
+  - producer
+  - producer
+  show: Art
+  win: true
+- entities:
+  - John Leguizamo
+  - Arielle Tepper
+  - Bill Haber
+  - Gregory Mosher
+  name: by John Leguizamo.  Produced by Arielle Tepper, Bill Haber, Gregory Mosher.
+  roles:
+  - author
+  - producer
+  - producer
+  - producer
+  show: Freak
+- entities:
+  - David Henry Hwang
+  - Benjamin Mordecai
+  - Dori Berinstein
+  - John Kao
+  - Talia Shire
+  - John F. Kennedy Center for the Performing Arts
+  - South coast Repertory
+  - The Joseph Papp Public Theater/New York Shakespeare Festival
+  - American Conservatory Theater
+  name: by David Henry Hwang.  Produced by Benjamin Mordecai, Dori Berinstein, John Kao, Talia Shire, John F. Kennedy Center
+    for the Performing Arts, South coast Repertory, The Joseph Papp Public Theater/New York Shakespeare Festival, American
+    Conservatory Theater.
+  roles:
+  - author
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  show: Golden Child
+- entities:
+  - Martin McDonagh
+  - Atlantic Theater Company
+  - Randall Wreghitt
+  - Chase Mishkin
+  - Steven M. Levy
+  - Leonard Soloway
+  - Julian Schlossberg
+  - Norma Langworthy
+  - The Druid Theatre Company/Royal Court Theatre
+  name: by Martin McDonagh.  Produced by Atlantic Theater Company, Randall Wreghitt, Chase Mishkin, Steven M. Levy, Leonard
+    Soloway, Julian Schlossberg, Norma Langworthy, The Druid Theatre Company/Royal Court Theatre.
+  roles:
+  - author
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  show: The Beauty Queen of Leenane
+official category: Play
+source: https://www.tonyawards.com/nominees/year/1998/category/any/show/any/

@@ -1,0 +1,48 @@
+nominees:
+- entities:
+  - Betty Comden
+  - Adolph Greene
+  - Charles Strouse
+  - Lee Adams
+  - Joseph Kipness
+  - Lawrence Kasha
+  name: Book by Betty Comden and Adolph Greene, music by Charles Strouse, lyrics by Lee Adams.  Produced by Joseph Kipness
+    and Lawrence Kasha
+  roles:
+  - book
+  - book
+  - music
+  - lyrics
+  - producer
+  - producer
+  show: Applause
+  win: true
+- entities:
+  - Alan Jay Lerner
+  - André Previn
+  - Frederick Brisson
+  name: Book and lyrics by Alan Jay Lerner, music by André Previn.  Produced by Frederick Brisson
+  roles:
+  - book and lyrics
+  - music
+  - producer
+  show: Coco
+- entities:
+  - Ossie Davis
+  - Philip Rose
+  - Peter Udell
+  - Gary Geld
+  - Peter Udell
+  - Philip Rose
+  name: Book by Ossie Davis, Philip Rose, and Peter Udell, music by Gary Geld, lyrics by Peter Udell.  Produced by Philip
+    Rose
+  roles:
+  - book
+  - book
+  - book
+  - music
+  - lyrics
+  - producer
+  show: Purlie
+official category: Musical
+source: https://www.tonyawards.com/nominees/year/1970/category/any/show/any/

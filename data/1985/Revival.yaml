@@ -1,0 +1,72 @@
+nominees:
+- entities:
+  - The Shubert Organization
+  - Emanuel Azenberg
+  - Roger Berlind
+  - Ivan Bloch
+  - MTM Enterprises
+  - Inc
+  name: Produced by The Shubert Organization, Emanuel Azenberg, Roger Berlind, Ivan Bloch and MTM Enterprises, Inc.
+  roles:
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  show: Joe Egg
+  win: true
+- entities:
+  - James M. Nederlander
+  - Elizabeth I. McCann
+  - Nelle Nugent
+  - Cynthia Wood
+  - Dale Duffy
+  - Allan Carr
+  name: Produced by James M. Nederlander, Elizabeth I. McCann, Nelle Nugent, Cynthia Wood, Dale Duffy, and Allan Carr
+  roles:
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  show: Cyrano de Bergerac
+- entities:
+  - James M. Nederlander
+  - Elizabeth I. McCann
+  - Nelle Nugent
+  - Cynthia Wood
+  - Dale Duffy
+  - Allan Carr
+  name: Produced by James M. Nederlander, Elizabeth I. McCann, Nelle Nugent, Cynthia Wood, Dale Duffy and Allan Carr
+  roles:
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  show: Much Ado about Nothing
+- entities:
+  - Robert Michael Geisler
+  - John Roberdeau
+  - Douglas Urbanski
+  - James M. Nederlander
+  - Duncan C. Weldon
+  - Paul Gregg
+  - Lionel Becker
+  - Jerome Minskoff
+  name: Produced by Robert Michael Geisler, John Roberdeau, Douglas Urbanski, James M. Nederlander, Duncan C. Weldon, Paul
+    Gregg, Lionel Becker and Jerome Minskoff
+  roles:
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  show: Strange Interlude
+source: https://www.tonyawards.com/nominees/year/1985/category/any/show/any/

@@ -1,0 +1,28 @@
+nominees:
+- entities:
+  - Larry Gelbart
+  name: by Larry Gelbart
+  roles:
+  - author
+  show: City of Angels
+  win: true
+- entities:
+  - Andrew Lloyd Webber
+  name: by Andrew Lloyd Webber
+  roles:
+  - author
+  show: Aspects of Love
+- entities:
+  - Luther Davis
+  name: by Luther Davis
+  roles:
+  - author
+  show: Grand Hotel, The Musical
+- entities:
+  - Hugh Wheeler
+  name: by Hugh Wheeler
+  roles:
+  - author
+  show: Meet Me in St. Louis
+official category: Book (Musical)
+source: https://www.tonyawards.com/nominees/year/1990/category/any/show/any/

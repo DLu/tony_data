@@ -1,0 +1,36 @@
+nominees:
+- entities:
+  - Jason Robert Brown
+  roles:
+  - music and lyrics
+  show: The Bridges of Madison County
+  win: true
+- entities:
+  - Alan Menken
+  - Howard Ashman
+  - Tim Rice
+  - Chad Beguelin
+  roles:
+  - music
+  - lyrics
+  - lyrics
+  - lyrics
+  show: Aladdin
+- entities:
+  - Steven Lutvak
+  - Robert L. Freedman
+  - Steven Lutvak
+  roles:
+  - music
+  - lyrics
+  - lyrics
+  show: A Gentleman's Guide to Love & Murder
+- entities:
+  - Tom Kitt
+  - Brian Yorkey
+  roles:
+  - music
+  - lyrics
+  show: If/Then
+official category: Original Musical Score
+source: https://www.tonyawards.com/nominees/year/2014/category/any/show/any/

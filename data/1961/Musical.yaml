@@ -1,0 +1,52 @@
+nominees:
+- entities:
+  - Michael Stewart
+  - Charles Strouse
+  - Lee Adams
+  - Edward Padula in association with L. Slade Brown
+  name: Book by Michael Stewart, music by Charles Strouse, lyrics by Lee Adams.  Produced by Edward Padula in association
+    with L. Slade Brown.
+  roles:
+  - book
+  - music
+  - lyrics
+  - producer
+  show: Bye, Bye Birdie
+  win: true
+- entities:
+  - Garson Kanin
+  - Jules Styne
+  - Betty Comden
+  - Adolph Green
+  - David Merrick
+  name: Book by Garson Kanin, music by Jules Styne, lyrics by Betty Comden and Adolph Green.  Produced by David Merrick.
+  roles:
+  - book
+  - music
+  - lyrics
+  - lyrics
+  - producer
+  show: Do Re Mi
+- entities:
+  - Alexandre Breffort
+  - Marguerite Monnot
+  - Julian More
+  - David Heneker
+  - Monty Norman
+  - David Merrick in association with Donald Albery
+  - H. M. Tennent
+  - Ltd
+  name: Book and lyrics by Alexandre Breffort, music by Marguerite Monnot.  English book and lyrics by Julian More, David
+    Heneker, and Monty Norman.  Produced by David Merrick in association with Donald Albery and H. M. Tennent, Ltd.
+  roles:
+  - book and lyrics
+  - music
+  - english book and lyrics
+  - english book and lyrics
+  - english book and lyrics
+  - producer
+  - producer
+  - producer
+  show: Irma La Douce
+official category: Musical
+source: https://www.tonyawards.com/nominees/year/1961/category/any/show/any/

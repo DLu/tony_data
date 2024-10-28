@@ -1,0 +1,34 @@
+nominees:
+- entities:
+  - James Lee Barrett
+  - Peter Udell
+  - Philip Rose
+  name: by James Lee Barrett, Peter Udell, and Philip Rose
+  roles:
+  - author
+  - author
+  - author
+  show: Shenandoah
+  win: true
+- entities:
+  - Michael Stewart
+  name: by Michael Stewart
+  roles:
+  - author
+  show: Mack and Mabel
+- entities:
+  - Gene Curty
+  - Nitra Scharfman
+  - Chuck Strand
+  name: by Gene Curty, Nitra Scharfman, and Chuck Strand
+  roles:
+  - author
+  - author
+  - author
+  show: The Lieutenant
+- entities: [William F. Brown]
+  name: by William F. Brown
+  roles: [author]
+  show: The Wiz
+official category: Book (Musical)
+source: https://www.tonyawards.com/nominees/year/1975/category/any/show/any/

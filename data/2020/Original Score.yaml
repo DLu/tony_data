@@ -1,0 +1,31 @@
+nominees:
+- entities:
+  - Christopher Nightingale
+  roles:
+  - music
+  show: A Christmas Carol (2019)
+  win: true
+- entities:
+  - Paul Englishby
+  roles:
+  - music
+  show: The Inheritance
+- entities:
+  - Fitz Patton
+  - Jason Michael Webb
+  roles:
+  - music
+  - music
+  show: The Rose Tattoo
+- entities:
+  - Lindsay Jones
+  roles:
+  - music
+  show: Slave Play
+- entities:
+  - Daniel Kluger
+  roles:
+  - music
+  show: The Sound Inside
+official category: Best Original Score (Music and/or Lyrics) Written for the Theatre
+source: https://www.tonyawards.com/nominees/year/2020/category/any/show/any/

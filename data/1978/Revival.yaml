@@ -1,0 +1,37 @@
+nominees:
+- entities:
+  - Jujamcyn Theaters
+  - Elizabeth I. McCann
+  - John Wulp
+  - Victor Lurie
+  - Nelle Nugent
+  - Max Weitzenhoffer
+  name: Produced by Jujamcyn Theaters, Elizabeth I. McCann, John Wulp, Victor Lurie, Nelle Nugent, and Max Weitzenhoffer
+  roles:
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  show: Dracula
+  win: true
+- entities:
+  - Circle in the Square
+  name: Produced by Circle in the Square
+  roles:
+  - producer
+  show: Tartuffe
+- entities:
+  - Luther Davis
+  name: Produced by Luther Davis
+  roles:
+  - producer
+  show: Timbuktu!
+- entities:
+  - Elliot Martin
+  name: Produced by Elliot Martin
+  roles:
+  - producer
+  show: A Touch of the Poet
+source: https://www.tonyawards.com/nominees/year/1978/category/any/show/any/

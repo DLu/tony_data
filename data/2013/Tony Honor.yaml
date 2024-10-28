@@ -1,0 +1,19 @@
+nominees:
+- entities: [Michael R. Bloomberg]
+  name: NYC Mayor Michael R. Bloomberg
+  roles: [nyc mayor]
+  win: true
+- name: Career Transition For Dancers
+  win: true
+- name: William Craver
+  win: true
+- name: Peter Lawrence
+  win: true
+- show: The Lost Colony
+  win: true
+- entities: [Sophia Gennusa, Oona Laurence, Bailey Ryon, Milly Shapiro]
+  note: The four actresses who created the title role of Matilda The Musical on Broadway - Sophia Gennusa, Oona Laurence,
+    Bailey Ryon and Milly Shapiro
+  show: Matilda The Musical
+  win: true
+source: https://www.tonyawards.com/special-awards/year/2013/category/any/show/any/

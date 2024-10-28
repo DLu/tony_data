@@ -1,0 +1,52 @@
+nominees:
+- entities:
+  - David Henry Hwang
+  - Stuart Ostrow
+  - David Geffen
+  name: by David Henry Hwang. Produced by Stuart Ostrow and David Geffen
+  roles:
+  - author
+  - producer
+  - producer
+  show: M. Butterfly
+  win: true
+- entities:
+  - Lee Blessing
+  - Lucille Lortel
+  - American Playhouse Theatre Productions
+  - Yale Repertory Theatre
+  name: by Lee Blessing. Produced by Lucille Lortel, American Playhouse Theatre Productions, and Yale Repertory Theatre
+  roles:
+  - author
+  - producer
+  - producer
+  - producer
+  show: A Walk in the Woods
+- entities:
+  - August Wilson
+  - Elliot Martin
+  - Vy Higginsen
+  - Ken Wydro
+  - Yale Repertory Theatre
+  name: by August Wilson. Produced by Elliot Martin, Vy Higginsen, Ken Wydro, and Yale Repertory Theatre
+  roles:
+  - author
+  - producer
+  - producer
+  - producer
+  - producer
+  show: Joe Turner's Come and Gone
+- entities:
+  - David Mamet
+  - Lincoln Center Theater
+  - Gregory Mosher
+  - Bernard Gersten
+  name: by David Mamet. Produced by Lincoln Center Theater, Gregory Mosher, and Bernard Gersten
+  roles:
+  - author
+  - producer
+  - producer
+  - producer
+  show: Speed-the-Plow
+official category: Play
+source: https://www.tonyawards.com/nominees/year/1988/category/any/show/any/

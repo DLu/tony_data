@@ -1,0 +1,15 @@
+nominees:
+- name: Harold Prince
+  show: A Funny Thing Happened on the Way to the Forum
+  win: true
+- entities:
+  - Cy Feuer
+  - Ernest Martin
+  name: Cy Feuer and Ernest Martin
+  show: Little Me
+- entities:
+  - David Merrick
+  - Donald Albery
+  name: David Merrick and Donald Albery
+  show: Oliver!
+source: https://www.tonyawards.com/nominees/year/1963/category/any/show/any/

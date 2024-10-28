@@ -1,0 +1,14 @@
+nominees:
+- name: Zero Mostel
+  show: Fiddler on the Roof
+  win: true
+- name: Sammy Davis
+  show: Golden Boy
+- name: Cyril Ritchard
+  show:
+  - The Roar of the Greasepaint
+  - The Smell of the Crowd
+- name: Tommy Steele
+  show: Half a Sixpence
+official category: Actor (Musical)
+source: https://www.tonyawards.com/nominees/year/1965/category/any/show/any/

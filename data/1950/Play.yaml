@@ -1,0 +1,8 @@
+nominees:
+- entities: [T. S. Eliot, Gilbert Miller]
+  name: by T. S. Eliot, produced by Gilbert Miller
+  roles: [author, producer]
+  show: The Cocktail Party
+  win: true
+official category: Play
+source: https://www.tonyawards.com/nominees/year/1950/category/any/show/any/

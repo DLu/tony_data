@@ -1,0 +1,28 @@
+nominees:
+- name: Tom Scutt
+  show: Cabaret at the Kit Kat Club
+  win: true
+- entities:
+  - Robert Brill
+  - Peter Nigrini
+  name: Robert Brill and Peter Nigrini
+  show: Hell's Kitchen
+- entities: [AMP, Tatiana Kahvegian]
+  name: AMP featuring Tatiana Kahvegian
+  show: The Outsiders
+- name: Takeshi Kata
+  show: Water for Elephants
+- name: David Korins
+  show: Here Lies Love
+- entities:
+  - Riccardo Hernández
+  - Peter Nigrini
+  name: Riccardo Hernández and Peter Nigrini
+  show: Lempicka
+- entities:
+  - Tim Hatley
+  - Finn Ross
+  name: Tim Hatley and Finn Ross
+  show: 'Back to the Future: The Musical'
+official category: Best Scenic Design of a Musical
+source: https://www.tonyawards.com/nominees/year/2024/category/any/show/any/

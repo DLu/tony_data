@@ -1,0 +1,17 @@
+nominees:
+- name: Harold Prince
+  show: Fiddler on the Roof
+  win: true
+- entities:
+  - Allen-Hodgdon
+  - Stevens Productions
+  - Harold Fielding
+  name: Allen-Hodgdon, Stevens Productions and Harold Fielding
+  show: Half a Sixpence
+- name: Hillard Elkins
+  show: Golden Boy
+- name: David Merrick
+  show:
+  - The Roar of the Greasepaint
+  - The Smell of the Crowd
+source: https://www.tonyawards.com/nominees/year/1965/category/any/show/any/

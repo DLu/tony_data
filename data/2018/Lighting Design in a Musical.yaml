@@ -1,0 +1,17 @@
+nominees:
+- name: Tyler Micoleau
+  show: The Band's Visit
+  win: true
+- name: Kevin Adams
+  show: 'SpongeBob SquarePants: The Musical'
+- entities:
+  - Jules Fisher
+  - Peggy Eisenhauer
+  name: Jules Fisher + Peggy Eisenhauer
+  show: Once On This Island
+- name: Donald Holder
+  show: My Fair Lady
+- name: Brian MacDevitt
+  show: Rodgers & Hammerstein's Carousel
+official category: Lighting Design (Musical)
+source: https://www.tonyawards.com/nominees/year/2018/category/any/show/any/

@@ -1,0 +1,24 @@
+nominees:
+- name: Cecil Beaton
+  show: My Fair Lady
+  win: true
+- name: Cecil Beaton
+  show:
+  - Little Glass Clock
+  - My Fair Lady
+- name: Alvin Colt
+  show:
+  - Li'l Abner
+  - The Sleeping Prince
+- name: Dorothy Jeakins
+  show:
+  - Major Barbara
+  - Too Late The Phalarope
+- name: Irene Sharaff
+  show:
+  - Candide
+  - Happy Hunting
+  - Shangri La
+  - Small War on Murray Hill
+official category: Costume Designer
+source: https://www.tonyawards.com/nominees/year/1957/category/any/show/any/

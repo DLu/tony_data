@@ -1,0 +1,16 @@
+nominees:
+- entities:
+  - Ted Sperling
+  - Adam Guettel
+  - Bruce Coughlin
+  name: Ted Sperling, Adam Guettel and Bruce Coughlin
+  show: The Light in the Piazza
+  win: true
+- name: Larry Hochman
+  show: Monty Python's Spamalot
+- name: Jonathan Tunick
+  show: Pacific Overtures
+- name: Harold Wheeler
+  show: Dirty Rotten Scoundrels
+official category: Orchestrations
+source: https://www.tonyawards.com/nominees/year/2005/category/any/show/any/

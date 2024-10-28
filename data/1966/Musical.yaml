@@ -1,0 +1,70 @@
+nominees:
+- entities:
+  - Dale Wasserman
+  - Mitch Leigh
+  - Joe Darion
+  - Albert W. Seldon
+  - Hal James
+  name: Book by Dale Wasserman, music by Mitch Leigh, lyrics by Joe Darion.  Produced by Albert W. Seldon and Hal James
+  roles:
+  - book
+  - music
+  - lyrics
+  - producer
+  - producer
+  show: Man of La Mancha
+  win: true
+- entities:
+  - Jerome Lawrence
+  - Robert E. Lee
+  - Jerry Herman
+  - Sylvia
+  - Joseph Harris
+  - Robert Fryer
+  - Lawrence Carr
+  name: Book by Jerome Lawrence and Robert E. Lee, music and lyrics by Jerry Herman.  Produced by Sylvia and Joseph Harris,
+    Robert Fryer, and Lawrence Carr
+  roles:
+  - book
+  - book
+  - music and lyrics
+  - producer
+  - producer
+  - producer
+  - producer
+  show: Mame
+- entities:
+  - Peter Stone
+  - James Van Heusen
+  - Sammy Cahn
+  - Cy Feuer
+  - Ernest M. Martin
+  name: Book by Peter Stone, music by James Van Heusen, lyrics by Sammy Cahn.  Produced by Cy Feuer and Ernest M. Martin
+  roles:
+  - book
+  - music
+  - lyrics
+  - producer
+  - producer
+  show: Skyscraper
+- entities:
+  - Neil Simon
+  - Cy Coleman
+  - Dorothy Fields
+  - Sylvia
+  - Joseph Harris
+  - Robert Fryer
+  - Lawrence Carr
+  name: Book by Neil Simon, music by Cy Coleman, lyrics by Dorothy Fields.  Produced by Sylvia and Joseph Harris, Robert Fryer,
+    and Lawrence Carr
+  roles:
+  - book
+  - music
+  - lyrics
+  - producer
+  - producer
+  - producer
+  - producer
+  show: Sweet Charity
+official category: Musical
+source: https://www.tonyawards.com/nominees/year/1966/category/any/show/any/

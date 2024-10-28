@@ -1,0 +1,13 @@
+nominees:
+- name: Jack Albertson
+  show: The Subject was Roses
+  win: true
+- name: Murray Hamilton
+  show: Absence of a Cello
+- name: Martin Sheen
+  show: The Subject Was Roses
+- entities: ['Clarence Williams, III']
+  name: Clarence Williams, III
+  show: Slow Dance on the Killing Ground
+official category: Actor (Featured Role - Play)
+source: https://www.tonyawards.com/nominees/year/1965/category/any/show/any/

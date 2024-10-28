@@ -1,0 +1,14 @@
+nominees:
+- entities:
+  - Cole Porter
+  - Bella
+  - Samuel Spewack
+  name: Music and lyrics by Cole Porter, book by Bella and Samuel Spewack.
+  roles:
+  - music and lyrics
+  - book
+  - book
+  show: Kiss Me Kate
+  win: true
+official category: Musical
+source: https://www.tonyawards.com/nominees/year/1949/category/any/show/any/

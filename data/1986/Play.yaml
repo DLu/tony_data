@@ -1,0 +1,66 @@
+nominees:
+- entities:
+  - Herb Gardner
+  - James Walsh
+  - Lewis Allen
+  - Martin Heinfling
+  name: by Herb Gardner. Produced by James Walsh, Lewis Allen, and Martin Heinfling
+  roles:
+  - author
+  - producer
+  - producer
+  - producer
+  show: I'm Not Rappaport
+  win: true
+- entities:
+  - Michael Frayn
+  - James M. Nederlander
+  - Robert Fryer
+  - Douglas Urbanski
+  - Michael Codron
+  - MTM Enterprises
+  - Inc.
+  - CBS Productions
+  name: by Michael Frayn. Produced by James M. Nederlander, Robert Fryer, Douglas Urbanski, Michael Codron, MTM Enterprises,
+    Inc., and CBS Productions
+  roles:
+  - author
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  show: Benefactors
+- entities:
+  - Athol Fugard
+  - James B. Freydberg
+  - Max Weitzenhoffer
+  - Lucille Lortel
+  - Estrin Rose Berman Productions
+  - F.W.M. Producing Group
+  name: by Athol Fugard. Produced by James B. Freydberg, Max Weitzenhoffer, Lucille Lortel, Estrin Rose Berman Productions,
+    and F.W.M. Producing Group
+  roles:
+  - author
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  show: Blood Knot
+- entities:
+  - John Guare
+  - Lincoln Center Theater
+  - Gregory Mosher
+  - Bernard Gersten
+  name: by John Guare. Produced by Lincoln Center Theater, Gregory Mosher, and Bernard Gersten
+  roles:
+  - author
+  - producer
+  - producer
+  - producer
+  show: The House of Blue Leaves
+official category: Play
+source: https://www.tonyawards.com/nominees/year/1986/category/any/show/any/

@@ -1,0 +1,28 @@
+nominees:
+- entities:
+  - James Lapine
+  name: by James Lapine
+  roles:
+  - author
+  show: Passion
+  win: true
+- entities:
+  - Walter Bobbie
+  name: by Walter Bobbie
+  roles:
+  - author
+  show: A Grand Night for Singing
+- entities:
+  - Linda Woolverton
+  name: by Linda Woolverton
+  roles:
+  - author
+  show: Beauty and the Beast
+- entities:
+  - Koen Van Kijk
+  name: by Koen Van Kijk
+  roles:
+  - author
+  show: 'Cyrano: The Musical'
+official category: Book (Musical)
+source: https://www.tonyawards.com/nominees/year/1994/category/any/show/any/

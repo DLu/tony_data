@@ -1,0 +1,40 @@
+nominees:
+- entities:
+  - John Osborne
+  - David Merrick
+  name: by John Osborne.  Produced by David Merrick
+  roles:
+  - author
+  - producer
+  show: Luther
+  win: true
+- entities:
+  - Edward Albee
+  - Lewis Allen
+  - Ben Edwards
+  name: by Edward Albee.  Produced by Lewis Allen and Ben Edwards
+  roles:
+  - author
+  - producer
+  - producer
+  show: The Ballad of the Sad Café
+- entities:
+  - Neil Simon
+  - Saint-Subber
+  name: by Neil Simon.  Produced by Saint-Subber
+  roles:
+  - author
+  - producer
+  show: Barefoot in the Park
+- entities:
+  - Sidney Michaels
+  - George W. George
+  - Frank Granat
+  name: by Sidney Michaels.  Produced by George W. George and Frank Granat
+  roles:
+  - author
+  - producer
+  - producer
+  show: Dylan
+official category: Play
+source: https://www.tonyawards.com/nominees/year/1964/category/any/show/any/

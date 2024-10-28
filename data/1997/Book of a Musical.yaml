@@ -1,0 +1,16 @@
+nominees:
+- name: Peter Stone
+  show: Titanic
+  win: true
+- name: Leslie Bricusse
+  show: Jekyll and Hyde
+- name: David Thompson
+  show: Steel Pier
+- entities:
+  - David Newman
+  - Ira Gasman
+  - Cy Coleman
+  name: David Newman, Ira Gasman and Cy Coleman
+  show: The Life
+official category: Book (Musical)
+source: https://www.tonyawards.com/nominees/year/1997/category/any/show/any/

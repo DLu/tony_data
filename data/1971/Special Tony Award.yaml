@@ -1,0 +1,14 @@
+nominees:
+- name: Elliot Norton
+  note: drama critic, for distinguished theatrical commentary
+  win: true
+- name: Ingram Ash
+  note: president of Blaine-Thompson Advertising, for decades of devoted service to the theatre
+  win: true
+- name: Playbill
+  note: for chronicling Broadway through the years
+  show: Playbill
+  win: true
+- name: Roger L. Stevens
+  win: true
+source: https://www.tonyawards.com/special-awards/year/1971/category/any/show/any/

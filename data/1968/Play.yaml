@@ -1,0 +1,38 @@
+nominees:
+- entities:
+  - Tom Stoppard
+  - the David Merrick Arts Foundation
+  name: by Tom Stoppard.  Produced by the David Merrick Arts Foundation
+  roles:
+  - author
+  - producer
+  show: Rosencrantz and Guildenstern Are Dead
+  win: true
+- entities:
+  - Peter Nichols
+  - Joseph Cates
+  - Henry Fownes
+  name: by Peter Nichols.  Produced by Joseph Cates and Henry Fownes
+  roles:
+  - author
+  - producer
+  - producer
+  show: Joe Egg
+- entities:
+  - Neil Simon
+  - Saint-Subber
+  name: by Neil Simon.  Produced by Saint-Subber
+  roles:
+  - author
+  - producer
+  show: Plaza Suite
+- entities:
+  - Arthur Miller
+  - Robert Whitehead
+  name: by Arthur Miller.  Produced by Robert Whitehead
+  roles:
+  - author
+  - producer
+  show: The Price
+official category: Play
+source: https://www.tonyawards.com/nominees/year/1968/category/any/show/any/

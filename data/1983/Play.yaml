@@ -1,0 +1,62 @@
+nominees:
+- entities:
+  - Harvey Fierstein
+  - Kenneth Waissman
+  - Martin Markinson
+  - Lawrence Lane
+  - John Glines
+  - BetMar
+  - Donald Tick
+  name: by Harvey Fierstein. Produced by Kenneth Waissman, Martin Markinson, Lawrence Lane, John Glines, BetMar, and Donald
+    Tick
+  roles:
+  - author
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  show: Torch Song Trilogy
+  win: true
+- entities:
+  - Lanford Wilson
+  - Elliot Martin
+  - Circle Repertory Co.
+  - Lucille Lortel
+  - The Shubert Organization
+  - The Kennedy Center
+  name: by Lanford Wilson. Produced by Elliot Martin, Circle Repertory Co., Lucille Lortel, The Shubert Organization, and
+    The Kennedy Center
+  roles:
+  - author
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  show: Angels Fall
+- entities:
+  - Marsha Norman
+  - Dann Byck
+  - Wendell Cherry
+  - The Shubert Organization
+  - Frederick M. Zollo
+  name: by Marsha Norman. Produced by Dann Byck, Wendell Cherry, The Shubert Organization and Frederick M. Zollo
+  roles:
+  - author
+  - producer
+  - producer
+  - producer
+  - producer
+  show: Night, Mother
+- entities:
+  - David Hare
+  - Joseph Papp
+  name: by David Hare. Produced by Joseph Papp
+  roles:
+  - author
+  - producer
+  show: Plenty
+official category: Play
+source: https://www.tonyawards.com/nominees/year/1983/category/any/show/any/

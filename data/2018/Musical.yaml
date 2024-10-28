@@ -1,0 +1,141 @@
+nominees:
+- entities:
+  - Orin Wolf
+  - StylesFour Productions
+  - Evamere Entertainment
+  - Atlantic Theater Company
+  - David F. Schwartz
+  - Barbara Broccoli
+  - Frederick Zollo
+  - Grove • REG
+  - Lassen Blume Baldwin
+  - Thomas Steven Perakos
+  - Marc Platt
+  - The Shubert Organization
+  - The Baruch/Routh/Frankel/Viertel Group
+  - Robert Cole
+  - deRoy-Carr-Klausner
+  - Federman-Moellenberg
+  - FilmNation Entertainment
+  - Roy Furman
+  - FVSL Theatricals
+  - Hendel-Karmazin
+  - HoriPro Inc.
+  - IPN
+  - Jam Theatricals
+  - The John Gore Organization
+  - Koenigsberg-Krauss
+  - David Mirvish
+  - James L. Nederlander
+  - Al Nocciolino
+  - Once Upon a Time Productions
+  - Susan Rose
+  - Paul Shiverick
+  - Allan Williams
+  name: 'Producers: Orin Wolf, StylesFour Productions, Evamere Entertainment, Atlantic Theater Company, David F. Schwartz,
+    Barbara Broccoli, Frederick Zollo, Grove • REG, Lassen Blume Baldwin, Thomas Steven Perakos, Marc Platt, The Shubert Organization,
+    The Baruch/Routh/Frankel/Viertel Group, Robert Cole, deRoy-Carr-Klausner, Federman-Moellenberg, FilmNation Entertainment,
+    Roy Furman, FVSL Theatricals, Hendel-Karmazin, HoriPro Inc., IPN, Jam Theatricals, The John Gore Organization, Koenigsberg-Krauss,
+    David Mirvish, James L. Nederlander, Al Nocciolino, Once Upon a Time Productions, Susan Rose, Paul Shiverick, Allan Williams'
+  roles:
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  show: The Band's Visit
+  win: true
+- entities:
+  - Disney Theatrical Productions
+  - Thomas Schumacher
+  name: 'Producers: Disney Theatrical Productions, Thomas Schumacher'
+  roles:
+  - producer
+  - producer
+  show: Frozen
+- entities:
+  - Lorne Michaels
+  - Stuart Thompson
+  - Sonia Friedman
+  - Paramount Pictures
+  - Marisa Sechrest
+  - Ars Nova Entertainment
+  - Berlind Productions
+  - Steve Burke
+  - Scott M. Delman
+  - Roy Furman
+  - Robert Greenblatt
+  - Ruth Hendel
+  - Jam Theatricals
+  - The John Gore Organization
+  - The Lowy Salpeter Company
+  - James L. Nederlander
+  - Christine Schwarzman
+  - Universal Theatrical Group
+  - David Turner
+  name: 'Producers: Lorne Michaels, Stuart Thompson, Sonia Friedman, Paramount Pictures, Marisa Sechrest, Ars Nova Entertainment,
+    Berlind Productions, Steve Burke, Scott M. Delman, Roy Furman, Robert Greenblatt, Ruth Hendel, Jam Theatricals, The John
+    Gore Organization, The Lowy Salpeter Company, James L. Nederlander, Christine Schwarzman, Universal Theatrical Group,
+    David Turner'
+  roles:
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  show: Mean Girls
+- entities:
+  - Nickelodeon
+  - The Araca Group
+  - Sony Music Masterworks
+  - Kelp on the Road
+  name: 'Producers: Nickelodeon, The Araca Group, Sony Music Masterworks, Kelp on the Road'
+  roles:
+  - producer
+  - producer
+  - producer
+  - producer
+  show: 'SpongeBob SquarePants: The Musical'
+official category: Musical
+source: https://www.tonyawards.com/nominees/year/2018/category/any/show/any/

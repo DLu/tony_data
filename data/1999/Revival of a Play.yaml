@@ -1,0 +1,64 @@
+nominees:
+- entities:
+  - David Richenthal
+  - Jujamcyn Theaters
+  - Allan S. Gordon
+  - Fox Theatricals
+  - Jerry Frankel
+  - The Goodman Theatre
+  roles:
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  show: Death of a Salesman
+  win: true
+- entities:
+  - Eric Krebs
+  - Randall L. Wreghitt
+  - Anita Waxman
+  - Elizabeth Williams
+  - Lawrence Horowitz
+  - McCarter Theater/Donmar Warehouse
+  - Duncan C. Weldon
+  name: Produced by Eric Krebs, Randall L. Wreghitt, Anita Waxman, Elizabeth Williams, Lawrence Horowitz, McCarter Theater/Donmar
+    Warehouse, Duncan C. Weldon.
+  roles:
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  show: Electra
+- entities:
+  - Allan S. Gordon
+  - Bill Haber
+  - Ira Pittelman
+  - Élan McAllister
+  - Trigger Street Productions
+  - Emanuel Azenberg
+  name: Produced by Allan S. Gordon, Bill Haber, Ira Pittelman, Élan McAllister, Trigger Street Productions, Emanuel Azenberg.
+  roles:
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  show: The Iceman Cometh
+- entities:
+  - Lincoln Center Theater
+  - André Bishop
+  - Bernard Gersten
+  name: Produced by Lincoln Center Theater, André Bishop, Bernard Gersten.
+  roles:
+  - producer
+  - producer
+  - producer
+  show: Twelfth Night
+official category: Revival (Play)
+source: https://www.tonyawards.com/nominees/year/1999/category/any/show/any/

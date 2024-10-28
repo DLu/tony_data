@@ -1,0 +1,49 @@
+nominees:
+- entities:
+  - Howard Sackler
+  - Herman Levin
+  name: by Howard Sackler.  Produced by Herman Levin
+  roles:
+  - author
+  - producer
+  show: The Great White Hope
+  win: true
+- entities:
+  - Peter Luke
+  - Lester Osterman Productions
+  - Bill Freedman
+  - Charles Kasher
+  name: by Peter Luke.  Produced by Lester Osterman Productions, Bill Freedman, and Charles Kasher
+  roles:
+  - author
+  - producer
+  - producer
+  - producer
+  show: Hadrian VII
+- entities:
+  - Brian Friel
+  - Helen Bonfils
+  - Morton Gottlieb
+  name: by Brian Friel.  Produced by Helen Bonfils and Morton Gottlieb
+  roles:
+  - author
+  - producer
+  - producer
+  show: Lovers
+- entities:
+  - Robert Shaw
+  - Glasshouse Productions
+  - Peter Bridge
+  - Ivor David Balding  Associates Ltd.
+  - Edward M. Meyers with Leslie Ogden
+  name: by Robert Shaw.  Produced by Glasshouse Productions and Peter Bridge, Ivor David Balding  Associates Ltd., and Edward
+    M. Meyers with Leslie Ogden
+  roles:
+  - author
+  - producer
+  - producer
+  - producer
+  - producer
+  show: The Man in the Glass Booth
+official category: Play
+source: https://www.tonyawards.com/nominees/year/1969/category/any/show/any/

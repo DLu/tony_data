@@ -1,0 +1,56 @@
+nominees:
+- entities:
+  - Michael Stewart
+  - Jerry Herman
+  - David Merrick
+  name: Book by Michael Stewart, music and lyrics by Jerry Herman.  Produced by David Merrick
+  roles:
+  - book
+  - music and lyrics
+  - producer
+  show: Hello, Dolly!
+  win: true
+- entities:
+  - Isobel Lennart
+  - Jule Styne
+  - Bob Merrill
+  - Ray Stark
+  name: Book by Isobel Lennart, music by Jule Styne, lyrics by Bob Merrill.  Produced by Ray Stark
+  roles:
+  - book
+  - music
+  - lyrics
+  - producer
+  show: Funny Girl
+- entities:
+  - Hugh Martin
+  - Timothy Gray
+  - Lester Osterman
+  - Robert Fletcher
+  - Richard Horner
+  name: Book, lyrics, and music by Hugh Martin and Timothy Gray.  Produced by Lester Osterman, Robert Fletcher, and Richard
+    Horner
+  roles:
+  - book, music, and lyrics
+  - book, music, and lyrics
+  - producer
+  - producer
+  - producer
+  show: High Spirits
+- entities:
+  - Joe Masteroff
+  - Jerry Bock
+  - Sheldon Harnick
+  - Harold Prince in association with Lawrence N. Kasha
+  - Philip C. McKenna
+  name: Book by Joe Masteroff, music by Jerry Bock, lyrics by Sheldon Harnick.  Produced by Harold Prince in association with
+    Lawrence N. Kasha and Philip C. McKenna
+  roles:
+  - book
+  - music
+  - lyrics
+  - producer
+  - producer
+  show: She Loves Me
+official category: Musical
+source: https://www.tonyawards.com/nominees/year/1964/category/any/show/any/

@@ -1,0 +1,20 @@
+nominees:
+- name: Claire Nichtern
+  show: Luv
+  win: true
+- entities:
+  - Hume Cronyn
+  - Allen Hogdon Inc.
+  - Stevens Productions Inc.
+  - Bonfils-Seawell Enterprises
+  name: Hume Cronyn, Allen Hogdon Inc., Stevens Productions Inc., and Bonfils-Seawell Enterprises
+  show: Slow Dance on the Killing Ground
+- entities:
+  - Theatre 1965
+  - Richard Barr
+  - Clinton Wilder
+  name: Theatre 1965, Richard Barr, and Clinton Wilder
+  show: Tiny Alice
+- name: Robert Whitehead
+  show: Tartuffe
+source: https://www.tonyawards.com/nominees/year/1965/category/any/show/any/

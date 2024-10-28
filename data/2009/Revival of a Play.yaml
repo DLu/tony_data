@@ -1,0 +1,99 @@
+nominees:
+- entities:
+  - Sonia Friedman Productions
+  - Steven Baruch
+  - Marc Routh
+  - Richard Frankel
+  - Tom Viertel
+  - Dede Harris
+  - Tulchin/Bartner/Lauren Doll
+  - Jamie deRoy
+  - Eric Falkenstein
+  - Harriet Newman Leve
+  - Probo Productions
+  - Douglas G. Smith
+  - Michael Filerman/Jennifer Manocherian
+  - Richard Winkler
+  - Dan Frishwasser
+  - Pam Laudenslager/Remmel T. Dickinson
+  - Jane Dubin/True Love Productions
+  - Barbara Manocherian/Jennifer Isaacson
+  - The Old Vic Theatre Company
+  name: 'Producers: Sonia Friedman Productions, Steven Baruch, Marc Routh, Richard Frankel, Tom Viertel, Dede Harris, Tulchin/Bartner/Lauren
+    Doll, Jamie deRoy, Eric Falkenstein, Harriet Newman Leve, Probo Productions, Douglas G. Smith, Michael Filerman/Jennifer
+    Manocherian, Richard Winkler, Dan Frishwasser, Pam Laudenslager/Remmel T. Dickinson, Jane Dubin/True Love Productions,
+    Barbara Manocherian/Jennifer Isaacson, The Old Vic Theatre Company'
+  roles:
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  show: The Norman Conquests
+  win: true
+- entities:
+  - Lincoln Center Theater
+  - André Bishop
+  - Bernard Gersten
+  name: 'Producers: Lincoln Center Theater, André Bishop, Bernard Gersten'
+  roles:
+  - producer
+  - producer
+  - producer
+  show: Joe Turner's Come and Gone
+- entities:
+  - Peter Oswald
+  - Arielle Tepper Madover
+  - Debra Black
+  - Neal Street Productions/Matthew Byam Shaw
+  - Scott Delman
+  - Barbara Whitman
+  - Jean Doumanian/Ruth Hendel
+  - David Binder/CarlWend Productions/Spring Sirkin
+  - Daryl Roth/James L. Nederlander/Chase Mishkin
+  - The Donmar Warehouse
+  name: 'New Version: Peter Oswald; Producers: Arielle Tepper Madover, Debra Black, Neal Street Productions/Matthew Byam Shaw,
+    Scott Delman, Barbara Whitman, Jean Doumanian/Ruth Hendel, David Binder/CarlWend Productions/Spring Sirkin, Daryl Roth/James
+    L. Nederlander/Chase Mishkin, The Donmar Warehouse'
+  roles:
+  - new version
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  show: Mary Stuart
+- entities:
+  - Roundabout Theatre Company
+  - Todd Haimes
+  - Harold Wolpert
+  - Julia C. Levy
+  - Elizabeth Ireland McCann
+  name: 'Producers: Roundabout Theatre Company, Todd Haimes, Harold Wolpert, Julia C. Levy, Elizabeth Ireland McCann'
+  roles:
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  show: Waiting for Godot
+official category: Revival (Play)
+source: https://www.tonyawards.com/nominees/year/2009/category/any/show/any/

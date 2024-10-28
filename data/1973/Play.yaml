@@ -1,0 +1,44 @@
+nominees:
+- entities:
+  - Jason Miller
+  - the New York Shakespeare Festival--Joseph Papp
+  name: by Jason Miller.  Produced by the New York Shakespeare Festival--Joseph Papp
+  roles:
+  - author
+  - producer
+  show: That Championship Season
+  win: true
+- entities:
+  - Simon Gray
+  - Lester Osterman
+  - Richard Horner
+  name: by Simon Gray.  Produced by Lester Osterman and Richard Horner
+  roles:
+  - author
+  - producer
+  - producer
+  show: Butley
+- entities:
+  - David Storey
+  - Charles Bowden
+  - Lee Reynolds
+  - Isobel Robins
+  name: by David Storey. Produced by Charles Bowden, Lee Reynolds, and Isobel Robins
+  roles:
+  - author
+  - producer
+  - producer
+  - producer
+  show: The Changing Room
+- entities:
+  - Neil Simon
+  - Emanuel Azenberg
+  - Eugene V. Wolsk
+  name: by Neil Simon. Produced by Emanuel Azenberg and Eugene V. Wolsk
+  roles:
+  - author
+  - producer
+  - producer
+  show: The Sunshine Boys
+official category: Play
+source: https://www.tonyawards.com/nominees/year/1973/category/any/show/any/

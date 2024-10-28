@@ -1,0 +1,48 @@
+nominees:
+- entities:
+  - William Gibson
+  - Fred Coe
+  name: by William Gibson.  Produced by Fred Coe.
+  roles:
+  - author
+  - producer
+  show: The Miracle Worker
+  win: true
+- entities:
+  - Lorraine Hansberry
+  - Philip Rose
+  - David J. Cogan
+  name: by Lorraine Hansberry.  Produced by Philip Rose and David J. Cogan.
+  roles:
+  - author
+  - producer
+  - producer
+  show: A Raisin in the Sun
+- entities:
+  - Gore Vidal
+  - The Playwrights' Company
+  name: by Gore Vidal.  Produced by The Playwrights' Company.
+  roles:
+  - author
+  - producer
+  show: The Best Man
+- entities:
+  - Paddy Chayefsky
+  - Saint-Subber
+  - Arthur Cantor
+  name: by Paddy Chayefsky.  Produced by Saint-Subber and Arthur Cantor.
+  roles:
+  - author
+  - producer
+  - producer
+  show: The Tenth Man
+- entities:
+  - Lillian Hellman
+  - Kermit Bloomgarden
+  name: by Lillian Hellman.  Produced by Kermit Bloomgarden.
+  roles:
+  - author
+  - producer
+  show: Toys in the Attic
+official category: Play
+source: https://www.tonyawards.com/nominees/year/1960/category/any/show/any/

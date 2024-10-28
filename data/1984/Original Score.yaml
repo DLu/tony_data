@@ -1,0 +1,32 @@
+nominees:
+- entities:
+  - Jerry Herman
+  name: Music and lyrics by Jerry Herman
+  roles:
+  - music and lyrics
+  show: La Cage aux Folles
+  win: true
+- entities:
+  - David Shire
+  - Richard Maltby, Jr.
+  name: Music by David Shire, lyrics by Richard Maltby, Jr.
+  roles:
+  - music
+  - lyrics
+  show: Baby
+- entities:
+  - John Kander
+  - Fred Ebb
+  name: Music by John Kander, lyrics by Fred Ebb
+  roles:
+  - music
+  - lyrics
+  show: The Rink
+- entities:
+  - Stephen Sondheim
+  name: Music and lyrics by Stephen Sondheim
+  roles:
+  - music and lyrics
+  show: Sunday in the Park with George
+official category: Original Musical Score
+source: https://www.tonyawards.com/nominees/year/1984/category/any/show/any/

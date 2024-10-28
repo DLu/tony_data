@@ -1,0 +1,22 @@
+nominees:
+- name: Motley
+  show: The First Gentleman
+  win: true
+- name: Lucinda Ballard
+  show: Orpheus Descending
+- name: Motley
+  show:
+  - Look Back in Anger
+  - Look Homeward, Angel
+  - Shinbone Alley
+  - The Country Wife
+  - The First Gentleman
+- name: Irene Sharaff
+  show: West Side Story
+- name: Miles White
+  show:
+  - Jamaica
+  - Time Remembered
+  - Oh, Captain!
+official category: Costume Designer
+source: https://www.tonyawards.com/nominees/year/1958/category/any/show/any/

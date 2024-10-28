@@ -1,0 +1,45 @@
+nominees:
+- entities:
+  - Jerome Minskoff
+  - James M. Nederlander
+  - Arthur Rubin
+  - Joseph Harris
+  name: Produced by Jerome Minskoff, James M. Nederlander, Arthur Rubin and Joseph Harris
+  roles:
+  - producer
+  - producer
+  - producer
+  - producer
+  show: Sweet Charity
+  win: true
+- entities:
+  - Roger Peters
+  - MBS Co
+  name: Produced by Roger Peters and MBS Co.
+  roles:
+  - producer
+  - producer
+  show: Hay Fever
+- entities:
+  - Lewis Allen
+  - James M. Nederlander
+  - Stephen Graham
+  - Ben Edwards
+  name: Produced by Lewis Allen, James M. Nederlander, Stephen Graham and Ben Edwards
+  roles:
+  - producer
+  - producer
+  - producer
+  - producer
+  show: The Iceman Cometh
+- entities:
+  - the David Merrick Arts Foundation
+  - Charles P. Kopelman
+  - Mark Simon
+  name: Produced by the David Merrick Arts Foundation, Charles P. Kopelman and Mark Simon
+  roles:
+  - producer
+  - producer
+  - producer
+  show: Loot
+source: https://www.tonyawards.com/nominees/year/1986/category/any/show/any/

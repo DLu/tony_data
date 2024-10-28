@@ -1,0 +1,105 @@
+nominees:
+- entities:
+  - Tony Kushner
+  - Jujamcyn Theaters
+  - Mark Taper Forum/Gordon Davidson
+  - Artistic Director with Margo Lion
+  - Susan Quint Gallin
+  - Jon B. Platt
+  - The Baruch-Frankel-Viertel Group
+  - Frederick Zollo
+  - in association with The New York Shakespeare Festival
+  - Mordecai/Cole Productions
+  - Herb Alpert
+  name: by Tony Kushner. Produced by Jujamcyn Theaters, Mark Taper Forum/Gordon Davidson, Artistic Director with Margo Lion,
+    Susan Quint Gallin, Jon B. Platt, The Baruch-Frankel-Viertel Group, and Frederick Zollo, in association with The New York
+    Shakespeare Festival, Mordecai/Cole Productions and Herb Alpert
+  roles:
+  - author
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  show: 'Angels in America: Perestroika'
+  win: true
+- entities:
+  - Arthur Miller
+  - Robert Whitehead/Roger L. Stevens/Lars Schmidt
+  - Spring Sirkin
+  - Terry
+  - Timothy Childs
+  name: by Arthur Miller. Produced by Robert Whitehead/Roger L. Stevens/Lars Schmidt, Spring Sirkin and Terry and Timothy
+    Childs
+  roles:
+  - author
+  - producer
+  - producer
+  - producer
+  - producer
+  show: Broken Glass
+- entities:
+  - Robert Schenkkan
+  - David Reichenthal
+  - Gene Korf
+  - Roger L. Stevens
+  - Jennifer Manocherian
+  - Annette Niemtzow
+  - Mark Taper Forum/Intiman Theatre Co.
+  - The John F. Kennedy Center for the Performing Arts
+  - in association with Benjamin Mordecai
+  name: by Robert Schenkkan. Produced by David Reichenthal, Gene Korf, Roger L. Stevens, Jennifer Manocherian, Annette Niemtzow,
+    Mark Taper Forum/Intiman Theatre Co., The John F. Kennedy Center for the Performing Arts, in association with Benjamin
+    Mordecai
+  roles:
+  - author
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  show: The Kentucky Cycle
+- entities:
+  - Anna Deavere Smith
+  - Benjamin Mordecai
+  - Laura Rafaty
+  - Ric Wanetik
+  - The New York Shakespeare Festival
+  - The Mark Taper Forum
+  - Harriet Newman Leve
+  - Jeanne Rizzo
+  - James D. Stern
+  - Daryl Roth
+  - Jo-Lynne Worley
+  - Ronald A. Pizzuti
+  - The Booking Office
+  - Freddy Bienstock
+  name: by Anna Deavere Smith. Produced by Benjamin Mordecai, Laura Rafaty, Ric Wanetik, The New York Shakespeare Festival,
+    The Mark Taper Forum, Harriet Newman Leve, Jeanne Rizzo, James D. Stern, Daryl Roth, Jo-Lynne Worley, Ronald A. Pizzuti,
+    The Booking Office, and Freddy Bienstock
+  roles:
+  - author
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  show: 'Twilight: Los Angeles, 1992'
+official category: Play
+source: https://www.tonyawards.com/nominees/year/1994/category/any/show/any/

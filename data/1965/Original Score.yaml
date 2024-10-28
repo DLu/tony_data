@@ -1,0 +1,23 @@
+nominees:
+- entities:
+  - Jerry Bock
+  - Sheldon Harnick
+  name: Jerry Bock and Sheldon Harnick
+  show: Fiddler on the Roof
+  win: true
+- entities:
+  - Leslie Bricusse
+  - Anthony Newley
+  name: Leslie Bricusse and Anthony Newley
+  show:
+  - The Roar of the Greasepaint
+  - The Smell of the Crowd
+- name: David Heneker
+  show: Half a Sixpence
+- entities:
+  - Richard Rodgers
+  - Stephen Sondheim
+  name: Richard Rodgers and Stephen Sondheim
+  show: Do I Hear a Waltz?
+official category: Original Musical Score
+source: https://www.tonyawards.com/nominees/year/1965/category/any/show/any/

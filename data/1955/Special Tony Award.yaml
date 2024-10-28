@@ -1,0 +1,9 @@
+nominees:
+- name: Proscenium Productions
+  note: an Off-Broadway company at the Cherry Lane Theatre, for generally high quality and viewpoint shown in The Way of the
+    World and Thieves Carnival.  Presented to Warren Enters, Robert Merriman and Sybil Trubin
+  show:
+  - The Way of the World
+  - Thieves Carnival
+  win: true
+source: https://www.tonyawards.com/special-awards/year/1955/category/any/show/any/

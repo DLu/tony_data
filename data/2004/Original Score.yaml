@@ -1,0 +1,28 @@
+nominees:
+- entities:
+  - Robert Lopez
+  - Jeff Marx
+  roles:
+  - music and lyrics
+  - music and lyrics
+  show: Avenue Q
+  win: true
+- entities:
+  - Jeanine Tesori
+  - Tony Kushner
+  roles:
+  - music
+  - lyrics
+  show: Caroline, or Change
+- entities:
+  - Boy George
+  roles:
+  - music and lyrics
+  show: Taboo
+- entities:
+  - Stephen Schwartz
+  roles:
+  - music and lyrics
+  show: Wicked
+official category: Original Musical Score
+source: https://www.tonyawards.com/nominees/year/2004/category/any/show/any/

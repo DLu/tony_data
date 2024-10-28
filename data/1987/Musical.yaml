@@ -1,0 +1,42 @@
+nominees:
+- entities:
+  - Cameron Mackintosh
+  name: Produced by Cameron Mackintosh
+  roles:
+  - producer
+  show: Les Misérables
+  win: true
+- entities:
+  - Richard Armitage
+  - Terry Allen Kramer
+  - James M. Nederlander
+  - Stage Promotions Limited
+  - Co
+  name: Produced by Richard Armitage, Terry Allen Kramer, James M. Nederlander, Stage Promotions Limited & Co.
+  roles:
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  show: Me and My Girl
+- entities:
+  - Lee Guber
+  - Martin Heinfling
+  - Marvin A. Krauss
+  name: Produced by Lee Guber, Martin Heinfling, Marvin A. Krauss
+  roles:
+  - producer
+  - producer
+  - producer
+  show: Rags
+- entities:
+  - Martin Starger
+  - Lord Grade
+  name: Produced by Martin Starger and Lord Grade
+  roles:
+  - producer
+  - producer
+  show: Starlight Express
+official category: Musical
+source: https://www.tonyawards.com/nominees/year/1987/category/any/show/any/

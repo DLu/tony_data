@@ -1,0 +1,31 @@
+nominees:
+- entities:
+  - Stefano Massini
+  - Ben Power
+  roles:
+  - author
+  - author
+  show: The Lehman Trilogy
+  win: true
+- entities:
+  - Lynn Nottage
+  roles:
+  - author
+  show: Clyde's
+- entities:
+  - Martin McDonagh
+  roles:
+  - author
+  show: Hangmen
+- entities:
+  - Tracy Letts
+  roles:
+  - author
+  show: The Minutes
+- entities:
+  - Dominique Morisseau
+  roles:
+  - author
+  show: Skeleton Crew
+official category: Best Play
+source: https://www.tonyawards.com/nominees/year/2022/category/any/show/any/

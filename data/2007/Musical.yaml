@@ -1,0 +1,82 @@
+nominees:
+- entities:
+  - Ira Pittelman
+  - Tom Hulce
+  - Jeffrey Richards
+  - Jerry Frankel
+  - Atlantic Theater Company
+  - Jeffrey Sine
+  - Freddy DeMann
+  - Max Cooper
+  - Mort Swinsky/Cindy
+  - Jay Gutterman/Joe McGinnis/Judith Ann Abrams
+  - ZenDog Productions/CarJac Productions
+  - Aron Bergson Productions/Jennifer Manocherian/Ted Snowdon
+  - Harold Thau/Terry Schnuck/Cold Spring Productions
+  - Amanda Dubois/Elizabeth Eynon Wetherell
+  - Jennifer Maloney/Tamara Tunie/Joe Cilibrasi/StyleFour Productions
+  name: 'Producers: Ira Pittelman, Tom Hulce, Jeffrey Richards, Jerry Frankel, Atlantic Theater Company, Jeffrey Sine, Freddy
+    DeMann, Max Cooper, Mort Swinsky/Cindy and Jay Gutterman/Joe McGinnis/Judith Ann Abrams, ZenDog Productions/CarJac Productions,
+    Aron Bergson Productions/Jennifer Manocherian/Ted Snowdon, Harold Thau/Terry Schnuck/Cold Spring Productions, Amanda Dubois/Elizabeth
+    Eynon Wetherell, Jennifer Maloney/Tamara Tunie/Joe Cilibrasi/StyleFour Productions'
+  roles:
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  show: Spring Awakening
+  win: true
+- entities:
+  - Roger Berlind
+  - Roger Horchow
+  - Daryl Roth
+  - Jane Bergere
+  - Ted Hartley
+  - Center Theatre Group
+  name: 'Producers: Roger Berlind, Roger Horchow, Daryl Roth, Jane Bergere, Ted Hartley, Center Theatre Group'
+  roles:
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  show: Curtains
+- entities:
+  - East of Doheny
+  - Staunch Entertainment
+  - Randall Wreghitt/Mort Swinsky
+  - Michael Alden
+  - Edwin W. Schloss
+  - Playwrights Horizons
+  name: 'Producers: East of Doheny, Staunch Entertainment, Randall Wreghitt/Mort Swinsky, Michael Alden, Edwin W. Schloss,
+    Playwrights Horizons'
+  roles:
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  show: Grey Gardens
+- entities:
+  - Disney
+  - Cameron Mackintosh
+  name: 'Producers: Disney, Cameron Mackintosh'
+  roles:
+  - producer
+  - producer
+  show: Mary Poppins
+official category: Musical
+source: https://www.tonyawards.com/nominees/year/2007/category/any/show/any/

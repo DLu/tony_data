@@ -1,0 +1,33 @@
+nominees:
+- entities:
+  - Robert Whitehead
+  - Roger L. Stevens
+  name: Produced by Robert Whitehead and Roger L. Stevens
+  roles:
+  - producer
+  - producer
+  show: Death of a Salesman
+  win: true
+- entities:
+  - Elliot Martin
+  - Arnold Bernhard
+  name: Produced by Elliot Martin and Arnold Bernhard
+  roles:
+  - producer
+  - producer
+  show: American Buffalo
+- entities:
+  - Circle in the Square
+  name: Produced by Circle in the Square
+  roles:
+  - producer
+  show: Heartbreak House
+- entities:
+  - The Shubert Organization
+  - Emanuel Azenberg
+  name: Produced by The Shubert Organization and Emanuel Azenberg
+  roles:
+  - producer
+  - producer
+  show: A Moon for the Misbegotten
+source: https://www.tonyawards.com/nominees/year/1984/category/any/show/any/

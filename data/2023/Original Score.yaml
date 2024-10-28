@@ -1,0 +1,43 @@
+nominees:
+- entities:
+  - David Lindsay-Abaire
+  - Jeanine Tesori
+  roles:
+  - lyrics
+  - music
+  show: Kimberly Akimbo
+  win: true
+- entities:
+  - Tom Kitt
+  - Cameron Crowe
+  - Tom Kitt
+  roles:
+  - music
+  - lyrics
+  - lyrics
+  show: Almost Famous
+- entities:
+  - Helen Park
+  - Max Vernon
+  roles:
+  - music and lyrics
+  - music and lyrics
+  show: KPOP
+- entities:
+  - Brandy Clark
+  - Shane McAnally
+  roles:
+  - music and lyrics
+  - music and lyrics
+  show: Shucked
+- entities:
+  - Marc Shaiman
+  - Scott Wittman
+  - Marc Shaiman
+  roles:
+  - music
+  - lyrics
+  - lyrics
+  show: Some Like It Hot
+official category: Best Original Score (Music and/or Lyrics) Written for the Theatre
+source: https://www.tonyawards.com/nominees/year/2023/category/any/show/any/

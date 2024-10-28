@@ -1,0 +1,106 @@
+nominees:
+- entities:
+  - Tom Stoppard
+  - Lincoln Center Theater
+  - André Bishop
+  - Bernard Gersten
+  - Bob Boyett
+  name: 'Author: Tom Stoppard; Producers: Lincoln Center Theater, André Bishop, Bernard Gersten, Bob Boyett'
+  roles:
+  - author
+  - producer
+  - producer
+  - producer
+  - producer
+  show: The Coast of Utopia
+  win: true
+- entities:
+  - Peter Morgan
+  - Arielle Tepper Madover
+  - Matthew Byam Shaw
+  - Robert Fox
+  - Act Productions
+  - David Binder
+  - Debra Black
+  - Annette Niemtzow/Harlene Freezer
+  - The Weinstein Company
+  - The Donmar Warehouse
+  name: 'Author: Peter Morgan; Producers: Arielle Tepper Madover, Matthew Byam Shaw, Robert Fox, Act Productions, David Binder,
+    Debra Black, Annette Niemtzow/Harlene Freezer, The Weinstein Company, The Donmar Warehouse'
+  roles:
+  - author
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  show: Frost/Nixon
+- entities:
+  - Douglas Carter Beane
+  - Roy Gabay
+  - Susan Dietz
+  - Morris Berchard
+  - Steve Bozeman
+  - Ted Snowdon
+  - Jerry Frankel/Doug Nevin
+  - Jennifer Manocherian/Ina Meibach
+  - Second Stage Theatre
+  - Carole Rothman
+  - Ellen Richard
+  name: 'Author: Douglas Carter Beane; Producers: Roy Gabay, Susan Dietz, Morris Berchard, Steve Bozeman, Ted Snowdon, Jerry
+    Frankel/Doug Nevin, Jennifer Manocherian/Ina Meibach, Second Stage Theatre, Carole Rothman, Ellen Richard'
+  roles:
+  - author
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  show: The Little Dog Laughed
+- entities:
+  - August Wilson
+  - Jujamcyn Theaters
+  - Margo Lion
+  - Jeffrey Richards/Jerry Frankel
+  - Tamara Tunie/Wendell Pierce
+  - Fran Kirmser
+  - Bunting Management Group
+  - Georgia Frontiere
+  - Open Pictures
+  - Lauren Doll/Steven Greil
+  - The AW Group
+  - Wonder City
+  - Inc./Townsend Teague
+  - Jack Viertel
+  - Gordon Davidson
+  name: 'Author: August Wilson; Producers: Jujamcyn Theaters, Margo Lion, Jeffrey Richards/Jerry Frankel, Tamara Tunie/Wendell
+    Pierce, Fran Kirmser, Bunting Management Group, Georgia Frontiere and Open Pictures, Lauren Doll/Steven Greil & The AW
+    Group, Wonder City, Inc./Townsend Teague, Jack Viertel, Gordon Davidson'
+  roles:
+  - author
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  show: Radio Golf
+official category: Play
+source: https://www.tonyawards.com/nominees/year/2007/category/any/show/any/

@@ -1,0 +1,32 @@
+nominees:
+- entities:
+  - Mark Hollmann
+  - Mark Hollmann
+  - Greg Kotis
+  roles:
+  - music
+  - lyrics
+  - lyrics
+  show: Urinetown The Musical
+  win: true
+- entities:
+  - Marvin Hamlisch
+  - Craig Carnelia
+  roles:
+  - music
+  - lyrics
+  show: Sweet Smell of Success
+- entities:
+  - Jeanine Tesori
+  - Dick Scanlan
+  roles:
+  - music
+  - lyrics
+  show: Thoroughly Modern Millie
+- entities:
+  - Harry Connick, Jr.
+  roles:
+  - music and lyrics
+  show: Thou Shalt Not
+official category: Original Musical Score
+source: https://www.tonyawards.com/nominees/year/2002/category/any/show/any/

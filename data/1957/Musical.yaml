@@ -1,0 +1,49 @@
+nominees:
+- entities:
+  - Alan Jay Lerner
+  - Frederick Loewe
+  - Herman Levin
+  name: Book and lyrics by Alan Jay Lerner, music by Frederick Loewe.  Produced by Herman Levin.
+  roles:
+  - book and lyrics
+  - music
+  - producer
+  show: My Fair Lady
+  win: true
+- entities:
+  - Betty Comden
+  - Adolph Green
+  - Jule Styne
+  - The Theatre Guild
+  name: Book and lyrics by Betty Comden and Adolph Green, music by Jule Styne.  Produced by The Theatre Guild.
+  roles:
+  - book and lyrics
+  - book and lyrics
+  - music
+  - producer
+  show: Bells Are Ringing
+- entities:
+  - Lillian Hellman
+  - Leonard Bernstein
+  - Richard Wilbur
+  - Ethel Linder Reiner in association with Lester Osterman, Jr.
+  name: Book by Lillian Hellman, music by Leonard Bernstein, lyrics by Richard Wilbur.  Produced by Ethel Linder Reiner in
+    association with Lester Osterman, Jr.
+  roles:
+  - book
+  - music
+  - lyrics
+  - producer
+  show: Candide
+- entities:
+  - Frank Loesser
+  - Kermit Bloomgarden
+  - Lynn Loesser
+  name: Book, music, and lyrics by Frank Loesser.  Produced by Kermit Bloomgarden and Lynn Loesser.
+  roles:
+  - book, music, and lyrics
+  - producer
+  - producer
+  show: The Most Happy Fella
+official category: Musical
+source: https://www.tonyawards.com/nominees/year/1957/category/any/show/any/

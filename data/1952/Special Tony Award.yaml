@@ -1,0 +1,12 @@
+nominees:
+- name: Judy Garland
+  note: for an important contribution to the revival of vaudeville through her recent stint at the Palace Theatre
+  win: true
+- name: Edward Kook
+  note: for his contributing to and encouraging the development of stage lighting and electronics
+  win: true
+- name: Charles Boyer
+  note: for distinguished performance in Don Juan in Hell, thereby assisting in a new theatre trend
+  show: Don Juan in Hell
+  win: true
+source: https://www.tonyawards.com/special-awards/year/1952/category/any/show/any/

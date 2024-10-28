@@ -1,0 +1,15 @@
+nominees:
+- name: Jonathan Tunick
+  show: Titanic
+  win: true
+- name: Michael Gibson
+  show: Steel Pier
+- name: Luther Henderson
+  show: Play On!
+- entities:
+  - Don Sebesky
+  - Harold Wheeler
+  name: Don Sebesky and Harold Wheeler
+  show: The Life
+official category: Orchestrations
+source: https://www.tonyawards.com/nominees/year/1997/category/any/show/any/

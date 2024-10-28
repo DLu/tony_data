@@ -1,0 +1,40 @@
+nominees:
+- entities:
+  - Jean Anouilh
+  - translated by Lucienne Hill
+  - David Merrick
+  name: by Jean Anouilh, translated by Lucienne Hill.  Produced by David Merrick.
+  roles:
+  - author
+  - author
+  - producer
+  show: Becket
+  win: true
+- entities:
+  - Tad Mosel
+  - Fred Coe in association with Arthur Cantor
+  name: by Tad Mosel. Produced by Fred Coe in association with Arthur Cantor.
+  roles:
+  - author
+  - producer
+  show: All the Way Home
+- entities:
+  - Dore Schary
+  - Dore Schary
+  name: by Dore Schary.  Produced by Dore Schary.
+  roles:
+  - author
+  - producer
+  show: The Devil's Advocate
+- entities:
+  - Brendan Behan
+  - Leonard S. Field
+  - Caroline Burke Swann
+  name: by Brendan Behan.  Produced by Leonard S. Field and Caroline Burke Swann.
+  roles:
+  - author
+  - producer
+  - producer
+  show: The Hostage
+official category: Play
+source: https://www.tonyawards.com/nominees/year/1961/category/any/show/any/

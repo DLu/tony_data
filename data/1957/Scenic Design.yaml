@@ -1,0 +1,26 @@
+nominees:
+- name: Oliver Smith
+  show: My Fair Lady
+  win: true
+- name: Boris Aronson
+  show:
+  - A Hole In The Head
+  - Small War on Murray Hill
+- name: Ben Edwards
+  show: The Waltz Of The Toreadors
+- name: George Jenkins
+  show:
+  - The Happiest Millionaire
+  - Too Late The Phalarope
+- name: Donald Oenslager
+  show: Major Barbara
+- name: Oliver Smith
+  show:
+  - A Clearing in the Woods
+  - Candide
+  - Auntie Mame
+  - My Fair Lady
+  - Eugenia
+  - A Visit to A Small Planet
+official category: Scenic Designer
+source: https://www.tonyawards.com/nominees/year/1957/category/any/show/any/

@@ -1,0 +1,21 @@
+nominees:
+- name: Jerry Herman
+  show: Hello, Dolly!
+  win: true
+- entities:
+  - Hugh Martin
+  - Timothy Gray
+  name: Hugh Martin and Timothy Gray
+  show: High Spirits
+- entities:
+  - Harvey Schmidt
+  - Tom Jones
+  name: Harvey Schmidt and Tom Jones
+  show: 110 in the Shade
+- entities:
+  - Jule Styne
+  - Bob Merrill
+  name: Jule Styne and Bob Merrill
+  show: Funny Girl
+official category: Original Musical Score
+source: https://www.tonyawards.com/nominees/year/1964/category/any/show/any/

@@ -1,0 +1,15 @@
+nominees:
+- name: Richard Nelson
+  show: James Joyce's The Dead
+  win: true
+- name: John Weidman
+  show: Contact
+- name: Michael John LaChiusa
+  show: Marie Christine
+- entities:
+  - Michael John LaChiusa
+  - George C. Wolfe
+  name: Michael John LaChiusa & George C. Wolfe
+  show: The Wild Party
+official category: Book (Musical)
+source: https://www.tonyawards.com/nominees/year/2000/category/any/show/any/

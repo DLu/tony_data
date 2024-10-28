@@ -1,0 +1,26 @@
+nominees:
+- entities:
+  - Tim Rice
+  name: by Tim Rice
+  roles:
+  - author
+  show: Evita
+  win: true
+- entities:
+  - Dick Vosburgh
+  name: by Dick Vosburgh
+  roles:
+  - author
+  show: A Day in Hollywood/A Night in the Ukraine
+- entities:
+  - Mark Bramble
+  name: by Mark Bramble
+  roles:
+  - author
+  show: Barnum
+- entities: [Ralph G. Allen, Harry Rigby]
+  name: by Ralph G. Allen and Harry Rigby
+  roles: [author, author]
+  show: Sugar Babies
+official category: Book (Musical)
+source: https://www.tonyawards.com/nominees/year/1980/category/any/show/any/

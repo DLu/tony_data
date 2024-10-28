@@ -1,0 +1,28 @@
+nominees:
+- entities:
+  - Alain Boublil
+  - Claude-Michel Schönberg
+  name: by Alain Boublil and Claude-Michel Schönberg
+  roles:
+  - author
+  - author
+  show: Les Misérables
+  win: true
+- entities: [L. Arthur Rose, Douglas Furber, Stephen Fry, Mike Ockrent]
+  name: by L. Arthur Rose, Douglas Furber, Stephen Fry, and Mike Ockrent
+  roles: [author, author, author, author]
+  show: Me and My Girl
+- entities:
+  - Joseph Stein
+  name: by Joseph Stein
+  roles:
+  - author
+  show: Rags
+- entities:
+  - Howard Ashman
+  name: by Howard Ashman
+  roles:
+  - author
+  show: Smile
+official category: Book (Musical)
+source: https://www.tonyawards.com/nominees/year/1987/category/any/show/any/

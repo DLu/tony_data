@@ -1,0 +1,44 @@
+nominees:
+- entities: [Terrence McNally, Manhattan Theatre Club, Lynne Meadow, Barry Grove, Jujamcyn Theatres]
+  name: By Terrence McNally.  Produced by Manhattan Theatre Club, Lynne Meadow, Barry Grove, and Jujamcyn Theatres.
+  roles: [author, producer, producer, producer, producer]
+  show: Love! Valour! Compassion!
+  win: true
+- entities:
+  - Tom Stoppard
+  - Lincoln Center Theater
+  - André Bishop
+  - Bernard Gersten
+  name: by Tom Stoppard.  Produced by Lincoln Center Theater, André Bishop and Bernard Gersten.
+  roles:
+  - author
+  - producer
+  - producer
+  - producer
+  show: Arcadia
+- entities:
+  - Emily Mann
+  - Camille O. Cosby
+  - Judith Rutherford James
+  name: by Emily Mann.  Produced by Camille O. Cosby and Judith Rutherford James.
+  roles:
+  - author
+  - producer
+  - producer
+  show: Having Our Say
+- entities:
+  - Jean Cocteau
+  - The Shubert Organization
+  - Roger Berlind
+  - Capital Cities/ABC
+  - Scott Rudin
+  name: by Jean Cocteau.  Produced by The Shubert Organization, Roger Berlind, Capital Cities/ABC, and Scott Rudin.
+  roles:
+  - author
+  - producer
+  - producer
+  - producer
+  - producer
+  show: Indiscretions
+official category: Play
+source: https://www.tonyawards.com/nominees/year/1995/category/any/show/any/

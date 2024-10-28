@@ -1,0 +1,24 @@
+nominees:
+- entities:
+  - Livent, U.S. Inc.
+  roles:
+  - producer
+  show: Show Boat
+  win: true
+- entities:
+  - Dodger Productions
+  - Kardana Productions
+  - Inc.
+  - The John F. Kennedy Center for the Performing Arts
+  - The Nederlander Organization
+  name: ', Produced by Dodger Productions & Kardana Productions, Inc., The John F. Kennedy Center for the Performing Arts,
+    The Nederlander Organization.'
+  roles:
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  show: How to Succeed in Business Without Really Trying
+official category: Revival (Musical)
+source: https://www.tonyawards.com/nominees/year/1995/category/any/show/any/

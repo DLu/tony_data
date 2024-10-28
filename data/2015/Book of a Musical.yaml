@@ -1,0 +1,15 @@
+nominees:
+- name: Lisa Kron
+  show: Fun Home
+  win: true
+- name: Craig Lucas
+  show: An American in Paris
+- entities:
+  - Karey Kirkpatrick
+  - John O'Farrell
+  name: Karey Kirkpatrick, John O'Farrell
+  show: Something Rotten!
+- name: Terrence McNally
+  show: The Visit
+official category: Book (Musical)
+source: https://www.tonyawards.com/nominees/year/2015/category/any/show/any/

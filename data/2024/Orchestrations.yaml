@@ -1,0 +1,26 @@
+nominees:
+- name: Jonathan Tunick
+  show: Merrily We Roll Along
+  win: true
+- name: Timo Andres
+  show: Illinoise
+- entities:
+  - Tom Kitt
+  - Adam Blackstone
+  name: Tom Kitt and Adam Blackstone
+  show: Hell's Kitchen
+- entities:
+  - Will Butler
+  - Justin Craig
+  name: Will Butler and Justin Craig
+  show: Stereophonic
+- entities:
+  - Justin Levine
+  - Matt Hinkley
+  - Jamestown Revival
+  - Jonathan Clay
+  - Zach Chance
+  name: Justin Levine, Matt Hinkley and Jamestown Revival (Jonathan Clay and Zach Chance)
+  show: The Outsiders
+official category: Best Orchestrations
+source: https://www.tonyawards.com/nominees/year/2024/category/any/show/any/

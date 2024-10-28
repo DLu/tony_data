@@ -1,0 +1,14 @@
+nominees:
+- note: for outstanding achievement in musical theatre
+  show: La Tragedie de Carmen
+  win: true
+- name: Peter Feller
+  note: a master craftsman who has devoted forty years to theatre stagecraft and magic
+  win: true
+- note: A Chorus Line was presented with a special Gold Tony Award in honor of becoming Broadway's longest-running musical
+  show: A Chorus Line
+  win: true
+- entities: [Al Hirschfeld]
+  name: Al Hirschfeld received the Brooks Atkinson Award for Lifetime Achievement in the Theatre
+  win: true
+source: https://www.tonyawards.com/special-awards/year/1984/category/any/show/any/

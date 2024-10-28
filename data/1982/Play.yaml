@@ -1,0 +1,73 @@
+nominees:
+- entities:
+  - David Edgar
+  - James M. Nederlander
+  - The Shubert Organization
+  - Elizabeth I. McCann
+  - Nelle Nugent
+  name: by David Edgar. Produced by James M. Nederlander, The Shubert Organization, Elizabeth I. McCann, and Nelle Nugent
+  roles:
+  - author
+  - producer
+  - producer
+  - producer
+  - producer
+  show: The Life and Adventures of Nicholas Nickleby
+  win: true
+- entities:
+  - Beth Henley
+  - Warner Theater Productions
+  - Inc.
+  - Claire Nichtern
+  - Mary Lea Johnson
+  - Martin Richards
+  - Francine Le Frak
+  name: by Beth Henley. Produced by Warner Theater Productions, Inc., Claire Nichtern, Mary Lea Johnson, Martin Richards,
+    and Francine Le Frak
+  roles:
+  - author
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  show: Crimes of the Heart
+- entities:
+  - Ronald Harwood
+  - James M. Nederlander
+  - Elizabeth I. McCann
+  - Nelle Nugent
+  - Warner Theater Productions
+  - Inc.
+  - Michael Codron
+  name: by Ronald Harwood. Produced by James M. Nederlander, Elizabeth I. McCann, Nelle Nugent, Warner Theater Productions,
+    Inc., and Michael Codron
+  roles:
+  - author
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  show: The Dresser
+- entities:
+  - Athol Fugard
+  - The Shubert Organization
+  - Freydberg/Bloch Productions
+  - Dasha Epstein
+  - Emanuel Azenberg
+  - David Geffen
+  name: by Athol Fugard. Produced by The Shubert Organization, Freydberg/Bloch Productions, Dasha Epstein, Emanuel Azenberg
+    and David Geffen
+  roles:
+  - author
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  show: "'Master Harold'...and the Boys"
+official category: Play
+source: https://www.tonyawards.com/nominees/year/1982/category/any/show/any/

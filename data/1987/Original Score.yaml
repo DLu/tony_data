@@ -1,0 +1,40 @@
+nominees:
+- entities:
+  - Claude-Michel Schönberg
+  - Herbert Kretzmer
+  - Alain Boublil
+  name: Music by Claude-Michel Schönberg, lyrics by Herbert Kretzmer and Alain Boublil
+  roles:
+  - music
+  - lyrics
+  - lyrics
+  show: Les Misérables
+  win: true
+- entities:
+  - Noel Gay
+  - L. Arthur Rose
+  - Douglas Furber
+  name: Music by Noel Gay, lyrics by L. Arthur Rose and Douglas Furber
+  roles:
+  - music
+  - lyrics
+  - lyrics
+  show: Me and My Girl
+- entities:
+  - Charles Strouse
+  - Stephen Schwartz
+  name: Music by Charles Strouse, lyrics by Stephen Schwartz
+  roles:
+  - music
+  - lyrics
+  show: Rags
+- entities:
+  - Andrew Lloyd Webber
+  - Richard Stilgoe
+  name: Music by Andrew Lloyd Webber, lyrics by Richard Stilgoe
+  roles:
+  - music
+  - lyrics
+  show: Starlight Express
+official category: Original Musical Score
+source: https://www.tonyawards.com/nominees/year/1987/category/any/show/any/

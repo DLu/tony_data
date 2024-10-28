@@ -1,0 +1,54 @@
+nominees:
+- entities:
+  - Abe Burrows
+  - Jack Weinstock
+  - Willie Gilbert
+  - Frank Loesser
+  - Cy Feuer
+  - Ernest Martin
+  name: Book by Abe Burrows, Jack Weinstock, and Willie Gilbert, music and lyrics by Frank Loesser.  Produced by Cy Feuer
+    and Ernest Martin
+  roles:
+  - book
+  - book
+  - book
+  - music and lyrics
+  - producer
+  - producer
+  show: How to Succeed in Business Without Really Trying
+  win: true
+- entities:
+  - Michael Stewart
+  - Helen Deutsch
+  - Bob Merrill
+  - David Merrick
+  name: Book by Michael Stewart and Helen Deutsch, music and lyrics by Bob Merrill.  Produced by David Merrick.
+  roles:
+  - book
+  - book
+  - music and lyrics
+  - producer
+  show: Carnival
+- entities:
+  - Don Appell
+  - Jerry Herman
+  - Gerard Oestreicher
+  name: Book by Don Appell, lyrics and music by Jerry Herman.  Produced by Gerard Oestreicher
+  roles:
+  - book
+  - music and lyrics
+  - producer
+  show: Milk and Honey
+- entities:
+  - Samuel Taylor
+  - Richard Rodgers
+  - Richard Rodgers in association with Samuel Taylor
+  name: Book by Samuel Taylor, music and lyrics by Richard Rodgers.  Produced by Richard Rodgers in association with Samuel
+    Taylor.
+  roles:
+  - book
+  - music and lyrics
+  - producer
+  show: No Strings
+official category: Musical
+source: https://www.tonyawards.com/nominees/year/1962/category/any/show/any/

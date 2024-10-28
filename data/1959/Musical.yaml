@@ -1,0 +1,59 @@
+nominees:
+- entities:
+  - Herbert
+  - Dorothy Fields
+  - Sidney Sheldon
+  - David Shaw
+  - music by Albert Hague
+  - lyrics by Dorothy Fields
+  - Robert Fryer
+  - Lawrence Carr
+  name: by Herbert and Dorothy Fields, Sidney Sheldon, and David Shaw, music by Albert Hague, lyrics by Dorothy Fields.  Produced
+    by Robert Fryer and Lawrence Carr.
+  roles:
+  - author
+  - author
+  - author
+  - author
+  - author
+  - author
+  - producer
+  - producer
+  show: Redhead
+  win: true
+- entities:
+  - Oscar Hammerstein II
+  - Joseph Fields
+  - Oscar Hammerstein II
+  - Richard Rodgers
+  - Joseph Fields
+  - Oscar Hammerstein II
+  - Richard Rodgers
+  name: Book by Oscar Hammerstein II and Joseph Fields, lyrics by Oscar Hammerstein II, music by Richard Rodgers.  Produced
+    by Joseph Fields, Oscar Hammerstein II and Richard Rodgers
+  roles:
+  - book
+  - book
+  - lyrics
+  - music
+  - producer
+  - producer
+  - producer
+  show: Flower Drum Song
+- entities:
+  - Robert Dhery
+  - Gerard Calvi
+  - Ross Parker. David Merrick
+  - Joseph Kipness
+  - present the Jack Hylton Production
+  name: Written, devised, and directed by Robert Dhery, music by Gerard Calvi, English lyrics by Ross Parker. David Merrick
+    and Joseph Kipness, present the Jack Hylton Production
+  roles:
+  - written, devised, and directed
+  - music
+  - english lyrics
+  - english lyrics
+  - english lyrics
+  show: La Plume de Ma Tante
+official category: Musical
+source: https://www.tonyawards.com/nominees/year/1959/category/any/show/any/

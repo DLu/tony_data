@@ -1,0 +1,46 @@
+nominees:
+- entities:
+  - Andrew Lloyd Webber
+  - T.S. Eliot
+  name: Music by Andrew Lloyd Webber, lyrics by T.S. Eliot
+  roles:
+  - music
+  - lyrics
+  show: Cats
+  win: true
+- entities:
+  - Larry Grossman
+  - Betty Comden
+  - Adolph Green
+  name: Music by Larry Grossman, lyrics by Betty Comden and Adolph Green
+  roles:
+  - music
+  - lyrics
+  - lyrics
+  show: A Doll's Life
+- entities:
+  - Elmer Bernstein
+  - Don Black
+  name: Music by Elmer Bernstein, lyrics by Don Black
+  roles:
+  - music
+  - lyrics
+  show: Merlin
+- entities:
+  - Gene de Paul
+  - Al Kasha
+  - Joel Hirschhorn
+  - Johnny Mercer
+  - Al Kasha
+  - Joel Hirschhorn
+  name: Music by Gene de Paul, Al Kasha, and Joel Hirschhorn, lyrics by Johnny Mercer, Al Kasha and Joel Hirschhorn
+  roles:
+  - music
+  - music
+  - music
+  - lyrics
+  - lyrics
+  - lyrics
+  show: Seven Brides for Seven Brothers
+official category: Original Musical Score
+source: https://www.tonyawards.com/nominees/year/1983/category/any/show/any/

@@ -1,0 +1,36 @@
+nominees:
+- entities:
+  - Charles Strouse
+  - Martin Charnin
+  name: Music by Charles Strouse, lyrics by Martin Charnin.
+  roles:
+  - music
+  - lyrics
+  show: Annie
+  win: true
+- entities:
+  - Stephen Schwartz
+  name: Music and lyrics by Stephen Schwartz.
+  roles:
+  - music and lyrics
+  show: Godspell
+- entities:
+  - Cy Coleman
+  - Michael Stewart
+  name: Music by Cy Coleman, lyrics by Michael Stewart.
+  roles:
+  - music
+  - lyrics
+  show: I Love My Wife
+- entities:
+  - Kurt Weil
+  - Bertolt Brecht
+  - Michael Feingold
+  name: Music by Kurt Weil, lyrics by Bertolt Brecht. Adapted by Michael Feingold.
+  roles:
+  - music
+  - lyrics
+  - adapted
+  show: Happy End
+official category: Original Musical Score
+source: https://www.tonyawards.com/nominees/year/1977/category/any/show/any/

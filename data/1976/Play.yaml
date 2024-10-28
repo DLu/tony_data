@@ -1,0 +1,47 @@
+nominees:
+- entities:
+  - Tom Stoppard
+  - David Merrick
+  - Doris Cole Abrahams
+  - Burry Fredrik in association with S. Spencer Davids
+  - Eddie Kulukundis
+  name: by Tom Stoppard. Produced by David Merrick, Doris Cole Abrahams, and Burry Fredrik in association with S. Spencer
+    Davids and Eddie Kulukundis
+  roles:
+  - author
+  - producer
+  - producer
+  - producer
+  - producer
+  show: Travesties
+  win: true
+- entities:
+  - Leslie Lee
+  - Negro Ensemble Co.
+  - Inc
+  name: by Leslie Lee. Produced by Negro Ensemble Co., Inc.
+  roles:
+  - author
+  - producer
+  - producer
+  show: The First Breeze of Summer
+- entities:
+  - Jules Feiffer
+  - Harry Rigby
+  - Terry Allen Kramer
+  name: by Jules Feiffer. Produced by Harry Rigby and Terry Allen Kramer
+  roles:
+  - author
+  - producer
+  - producer
+  show: Knock Knock
+- entities:
+  - Louis La Russo II
+  - Joe Garofalo
+  name: by Louis La Russo II. Produced by Joe Garofalo
+  roles:
+  - author
+  - producer
+  show: Lamppost Reunion
+official category: Play
+source: https://www.tonyawards.com/nominees/year/1976/category/any/show/any/

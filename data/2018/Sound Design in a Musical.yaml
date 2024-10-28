@@ -1,0 +1,17 @@
+nominees:
+- name: Kai Harada
+  show: The Band's Visit
+  win: true
+- name: Peter Hylenski
+  show: Once On This Island
+- name: Scott Lehrer
+  show: Rodgers & Hammerstein's Carousel
+- name: Brian Ronan
+  show: Mean Girls
+- entities:
+  - Walter Trarbach
+  - Mike Dobson
+  name: Walter Trarbach and Mike Dobson
+  show: 'SpongeBob SquarePants: The Musical'
+official category: Sound Design (Musical)
+source: https://www.tonyawards.com/nominees/year/2018/category/any/show/any/

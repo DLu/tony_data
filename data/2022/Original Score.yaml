@@ -1,0 +1,39 @@
+nominees:
+- entities:
+  - Toby Marlow
+  - Lucy Moss
+  roles:
+  - music and lyrics
+  - music and lyrics
+  show: 'SIX: The Musical'
+  win: true
+- entities:
+  - Tom Kitt
+  - Michael Korie
+  roles:
+  - music
+  - lyrics
+  show: Flying Over Sunset
+- entities:
+  - Jason Robert Brown
+  - Amanda Green
+  roles:
+  - music
+  - lyrics
+  show: Mr. Saturday Night
+- entities:
+  - Nathan Tysen
+  - Masi Asare
+  - Jason Howland
+  roles:
+  - lyrics
+  - lyrics
+  - music
+  show: Paradise Square
+- entities:
+  - Michael R. Jackson
+  roles:
+  - music and lyrics
+  show: A Strange Loop
+official category: Best Original Score (Music and/or Lyrics) Written for the Theatre
+source: https://www.tonyawards.com/nominees/year/2022/category/any/show/any/

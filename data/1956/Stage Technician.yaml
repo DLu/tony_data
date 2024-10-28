@@ -1,0 +1,20 @@
+nominees:
+- entities:
+  - Harry Green
+  name: Harry Green, electrician and sound man
+  roles:
+  - electrician and sound man
+  show:
+  - Middle of the Night
+  - Damn Yankees
+  win: true
+- entities:
+  - Larry Bland
+  name: Larry Bland, carpenter
+  roles:
+  - carpenter
+  show:
+  - Middle of the Night
+  - The Ponder Heart
+  - Porgy and Bess
+source: https://www.tonyawards.com/nominees/year/1956/category/any/show/any/

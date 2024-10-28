@@ -1,0 +1,26 @@
+nominees:
+- name: Tyrone Guthrie
+  show: The Matchmaker
+  win: true
+- name: Joseph Anthony
+  show: The Lark
+- name: Harold Clurman
+  show:
+  - Bus Stop
+  - Pipe Dream
+  - Tiger at the Gates
+- name: Tyrone Guthrie
+  show:
+  - The Matchmaker
+  - Six Characters in Search of an Author
+  - Tamburlaine the Great
+- name: Garson Kanin
+  show: The Diary of Anne Frank
+- name: Elia Kazan
+  show: Cat on a Hot Tin Roof
+- name: Albert Marre
+  show: The Chalk Garden
+- name: Herman Shumlin
+  show: Inherit the Wind
+official category: Director [Play or Musical]
+source: https://www.tonyawards.com/nominees/year/1956/category/any/show/any/

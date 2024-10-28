@@ -1,0 +1,15 @@
+nominees:
+- name: Michael Smuin
+  show: Anything Goes
+  win: true
+- name: Lar Lubovitch
+  show: Into the Woods
+- name: Gillian Lynne
+  show: The Phantom of the Opera
+- entities:
+  - Ndaba Mhlongo
+  - Mbongeni Ngema
+  name: Ndaba Mhlongo and Mbongeni Ngema
+  show: Sarafina!
+official category: Choreographer
+source: https://www.tonyawards.com/nominees/year/1988/category/any/show/any/

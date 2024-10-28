@@ -1,0 +1,54 @@
+nominees:
+- entities:
+  - Alfred Uhry
+  - Jane Harmon
+  - Nina Keneally
+  - Liz Oliver
+  name: by Alfred Uhry.  Produced by Jane Harmon, Nina Keneally, Liz Oliver.
+  roles:
+  - author
+  - producer
+  - producer
+  - producer
+  show: The Last Night of Ballyhoo
+  win: true
+- entities:
+  - David Hare
+  - Robert Fox
+  - Roger Berlind
+  - Joan Cullman
+  - Scott Rudin
+  - The Shubert Organization
+  - Capital Cities/ABC
+  - The Royal National Theatre
+  name: by David Hare.  Produced by Robert Fox, Roger Berlind, Joan Cullman, Scott Rudin, The Shubert Organization, Capital
+    Cities/ABC, The Royal National Theatre.
+  roles:
+  - author
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  show: Skylight
+- entities:
+  - Pam Gems
+  - Circle in the Square
+  - Gregory Mosher
+  - M. Edgar Rosenblum
+  - The Royal National Theatre
+  name: by Pam Gems.  Produced by Circle in the Square, Gregory Mosher, M. Edgar Rosenblum, The Royal National Theatre.
+  roles:
+  - author
+  - producer
+  - producer
+  - producer
+  - producer
+  show: Stanley
+- entities: [Horton Foote, David Richenthal, Anita Waxman, Jujamcyn Theaters, The Goodman Theatre, Robert Cole]
+  roles: [author, producer, producer, producer, producer, producer]
+  show: The Young Man From Atlanta
+official category: Play
+source: https://www.tonyawards.com/nominees/year/1997/category/any/show/any/

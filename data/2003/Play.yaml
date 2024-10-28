@@ -1,0 +1,112 @@
+nominees:
+- entities:
+  - Richard Greenberg
+  - Carole Shorenstein Hays
+  - Frederick DeMann
+  - The Donmar Warehouse
+  - The Public Theater
+  name: 'by Richard Greenberg. Producers: Carole Shorenstein Hays, Frederick DeMann, The Donmar Warehouse and The Public Theater'
+  roles:
+  - author
+  - producer
+  - producer
+  - producer
+  - producer
+  show: Take Me Out
+  win: true
+- entities:
+  - Matthew Barber
+  - Jeffrey Richards
+  - Richard Gross/Ellen Berman/Les Goldman
+  - Raymond J.
+  - Pearl Berman Greenwald
+  - Irving Welzer
+  - Tonia Walker Davidson
+  - Libby Adler Mages/Mari Glick
+  - Howard R. Berlin
+  - Jerry Frankel
+  - Terry E. Schnuck
+  - Frederic B. Vogel
+  - Dori Berinstein/Barrie
+  - Jim Loeks/Dramatic Forces
+  name: 'by Matthew Barber. Producers: Jeffrey Richards, Richard Gross/Ellen Berman/Les Goldman, Raymond J. & Pearl Berman
+    Greenwald, Irving Welzer, Tonia Walker Davidson, Libby Adler Mages/Mari Glick, Howard R. Berlin, Jerry Frankel, Terry
+    E. Schnuck, Frederic B. Vogel, Dori Berinstein/Barrie & Jim Loeks/Dramatic Forces'
+  roles:
+  - author
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  show: Enchanted April
+- entities:
+  - Rupert Holmes
+  - William Franzblau
+  - Jay H. Harris
+  - Louise Westergaard
+  - Larry Spellman
+  - Elsa Daspin Haft
+  - Judith Resnick
+  - Anne Gallagher
+  - Libby Adler Mages/Mari Glick
+  - Martha R. Gasparian
+  - Bruce Lazarus
+  - Lawrence S. Toppall
+  - Jae French
+  name: 'by Rupert Holmes. Producers: William Franzblau, Jay H. Harris, Louise Westergaard, Larry Spellman, Elsa Daspin Haft,
+    Judith Resnick, Anne Gallagher, Libby Adler Mages/Mari Glick, Martha R. Gasparian, Bruce Lazarus, Lawrence S. Toppall,
+    Jae French'
+  roles:
+  - author
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  show: Say Goodnight Gracie
+- entities:
+  - Nicholas Wright
+  - Lincoln Center Theater
+  - André Bishop
+  - Bernard Gersten
+  - The Royal National Theatre
+  - Ambassador Theatre Group Ltd.
+  - Maidstone Productions
+  - Robert Fox Ltd.
+  - Elliott F. Kulick
+  - Incidental Coleman Tod
+  - The Shubert Organization
+  name: 'by Nicholas Wright. Producers: Lincoln Center Theater, André Bishop, Bernard Gersten, The Royal National Theatre,
+    Ambassador Theatre Group Ltd., Maidstone Productions, Robert Fox Ltd., Elliott F. Kulick, Incidental Coleman Tod, The
+    Shubert Organization'
+  roles:
+  - author
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  show: Vincent in Brixton
+official category: Play
+source: https://www.tonyawards.com/nominees/year/2003/category/any/show/any/

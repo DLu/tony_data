@@ -1,0 +1,36 @@
+nominees:
+- entities:
+  - Frederick Loewe
+  - Alan Jay Lerner
+  name: Music by Frederick Loewe, lyrics by Alan Jay Lerner
+  roles:
+  - music
+  - lyrics
+  show: Gigi
+  win: true
+- entities:
+  - Peter Link
+  - Neil Simon
+  name: Music by Peter Link, lyrics by Neil Simon
+  roles:
+  - music
+  - lyrics
+  show: The Good Doctor
+- entities:
+  - Judd Woldin
+  - Robert Brittan
+  name: Music by Judd Woldin, lyrics by Robert Brittan
+  roles:
+  - music
+  - lyrics
+  show: Raisin
+- entities:
+  - Cy Coleman
+  - Dorothy Fields
+  name: Music by Cy Coleman, lyrics by Dorothy Fields
+  roles:
+  - music
+  - lyrics
+  show: Seesaw
+official category: Original Musical Score
+source: https://www.tonyawards.com/nominees/year/1974/category/any/show/any/

@@ -1,0 +1,14 @@
+nominees:
+- name: Bob Fosse
+  show: Damn Yankees
+  win: true
+- name: Robert Alton
+  show: The Vamp
+- name: Boris Runanin
+  show:
+  - Phoenix '55
+  - Pipe Dream
+- name: Anna Sokolow
+  show: Red Roses for Me
+official category: Choreographer
+source: https://www.tonyawards.com/nominees/year/1956/category/any/show/any/

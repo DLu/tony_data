@@ -1,0 +1,20 @@
+nominees:
+- entities:
+  - Robert Whitehead
+  - Roger L. Stevens
+  name: Robert Whitehead and Roger L. Stevens
+  show: A Man for All Seasons
+  win: true
+- entities:
+  - Charles Bowden
+  - Viola Rubber
+  name: Charles Bowden and Viola Rubber
+  show: The Night of the Iguana
+- entities:
+  - Fred Coe
+  - Arthur Cantor
+  name: Fred Coe and Arthur Cantor
+  show: Gideon
+- name: David Merrick
+  show: Ross
+source: https://www.tonyawards.com/nominees/year/1962/category/any/show/any/

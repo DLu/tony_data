@@ -1,0 +1,28 @@
+nominees:
+- entities: [T.S. Eliot]
+  name: by T. S. Eliot
+  roles: [author]
+  show: Cats
+  win: true
+- entities:
+  - Betty Comden
+  - Adolph Green
+  name: by Betty Comden and Adolph Green
+  roles:
+  - author
+  - author
+  show: A Doll's Life
+- entities:
+  - Richard Levinson
+  - William Link
+  name: by Richard Levinson and William Link
+  roles:
+  - author
+  - author
+  show: Merlin
+- entities: [Peter Stone, Timothy S. Mayer]
+  name: by Peter Stone and Timothy S. Mayer
+  roles: [author, author]
+  show: My One and Only
+official category: Book (Musical)
+source: https://www.tonyawards.com/nominees/year/1983/category/any/show/any/

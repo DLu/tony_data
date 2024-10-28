@@ -1,0 +1,28 @@
+nominees:
+- entities:
+  - Mel Brooks
+  roles:
+  - music and lyrics
+  show: The Producers, the new Mel Brooks musical
+  win: true
+- entities:
+  - Edward Kleban
+  roles:
+  - music and lyrics
+  show: A Class Act
+- entities:
+  - David Yazbek
+  roles:
+  - music and lyrics
+  show: The Full Monty
+- entities:
+  - Paul Gordon
+  - Paul Gordon
+  - John Caird
+  roles:
+  - music
+  - lyrics
+  - lyrics
+  show: Jane Eyre
+official category: Original Musical Score
+source: https://www.tonyawards.com/nominees/year/2001/category/any/show/any/

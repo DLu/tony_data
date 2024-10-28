@@ -1,0 +1,15 @@
+nominees:
+- name: Hal Holbrook
+  show: Mark Twain Tonight!
+  win: true
+- name: Roland Culver
+  show: Ivanov
+- entities:
+  - Donal Donnelly
+  - Patrick Bedford
+  name: Donal Donnelly and Patrick Bedford
+  show: Philadelphia, Here I Come!
+- name: Nicol Williamson
+  show: Inadmissible Evidence
+official category: Actor (Play)
+source: https://www.tonyawards.com/nominees/year/1966/category/any/show/any/

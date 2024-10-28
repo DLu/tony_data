@@ -1,0 +1,39 @@
+nominees:
+- entities:
+  - Eugene O'Neill
+  - Leigh Connell
+  - Theodore Mann
+  - José Quintero
+  name: by Eugene O'Neill.  Produced by Leigh Connell, Theodore Mann, and José Quintero.
+  roles:
+  - author
+  - producer
+  - producer
+  - producer
+  show: Long Day's Journey Into Night
+  win: true
+- entities:
+  - Terence Rattigan
+  - The Producers Theatre
+  - Hecht-Lancaster
+  name: by Terence Rattigan.  Produced by The Producers Theatre and Hecht-Lancaster.
+  roles:
+  - author
+  - producer
+  - producer
+  show: Separate Tables
+- entities:
+  - Graham Greene
+  - Carmen Capalbo
+  - Stanley Chase
+  name: by Graham Greene.  Produced by Carmen Capalbo and Stanley Chase.
+  roles:
+  - author
+  - producer
+  - producer
+  show: The Potting Shed
+- entities: [Jean Anouilh, Lucienne Hill, The Producers Theatre, Robert Whitehead]
+  roles: [author, translator, producer, producer]
+  show: The Waltz Of The Toreadors
+official category: Play
+source: https://www.tonyawards.com/nominees/year/1957/category/any/show/any/

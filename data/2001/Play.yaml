@@ -1,0 +1,83 @@
+nominees:
+- entities:
+  - David Auburn
+  - Manhattan Theatre Club
+  - Lynne Meadow
+  - Barry Grove
+  - Roger Berlind
+  - Carole Shorenstein Hays
+  - Jujamcyn Theaters
+  - Ostar Enterprises
+  - Daryl Roth
+  - Stuart Thompson
+  name: 'by David Auburn. Producers: Manhattan Theatre Club, Lynne Meadow, Barry Grove, Roger Berlind, Carole Shorenstein
+    Hays, Jujamcyn Theaters, Ostar Enterprises, Daryl Roth, Stuart Thompson'
+  roles:
+  - author
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  show: Proof
+  win: true
+- entities:
+  - Tom Stoppard
+  - Lincoln Center Theater
+  - André Bishop
+  - Bernard Gersten
+  name: 'by Tom Stoppard. Producer: Lincoln Center Theater, André Bishop, Bernard Gersten'
+  roles:
+  - author
+  - producer
+  - producer
+  - producer
+  show: The Invention of Love
+- entities:
+  - August Wilson
+  - Sageworks
+  - Benjamin Mordecai
+  - Jujamcyn Theaters
+  - 52nd Street Productions
+  - Spring Sirkin
+  - Peggy Hill
+  - Manhattan Theatre Club
+  - Kardana-Swinsky Productions
+  name: 'by August Wilson. Producers: Sageworks, Benjamin Mordecai, Jujamcyn Theaters, 52nd Street Productions, Spring Sirkin,
+    Peggy Hill, Manhattan Theatre Club, Kardana-Swinsky Productions'
+  roles:
+  - author
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  show: King Hedley II
+- entities:
+  - Charles Busch
+  - Manhattan Theatre Club
+  - Lynne Meadow
+  - Barry Grove,Carole Shorenstein Hays
+  - Daryl Roth
+  - Stuart Thompson
+  - Douglas S. Cramer
+  name: 'by Charles Busch. Producer: Manhattan Theatre Club, Lynne Meadow, Barry Grove,Carole Shorenstein Hays, Daryl Roth,
+    Stuart Thompson, Douglas S. Cramer'
+  roles:
+  - author
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  show: The Tale of the Allergist's Wife
+official category: Play
+source: https://www.tonyawards.com/nominees/year/2001/category/any/show/any/

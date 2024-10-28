@@ -1,0 +1,32 @@
+nominees:
+- entities:
+  - John Guare
+  - Mel Shapiro
+  name: by John Guare and Mel Shapiro
+  roles:
+  - author
+  - author
+  show: Two Gentlemen of Verona
+  win: true
+- entities:
+  - Melvin Van Peebles
+  name: by Melvin Van Peebles
+  roles:
+  - author
+  show: Ain't Supposed to Die a Natural Death
+- entities:
+  - James Goldman
+  name: by James Goldman
+  roles:
+  - author
+  show: Follies
+- entities:
+  - Jim Jacobs
+  - Warren Casey
+  name: by Jim Jacobs and Warren Casey
+  roles:
+  - author
+  - author
+  show: Grease
+official category: Book (Musical)
+source: https://www.tonyawards.com/nominees/year/1972/category/any/show/any/

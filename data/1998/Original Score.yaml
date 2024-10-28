@@ -1,0 +1,46 @@
+nominees:
+- entities:
+  - Stephen Flaherty
+  - Lynn Ahrens
+  name: Music by Stephen Flaherty, lyrics by Lynn Ahrens.
+  roles:
+  - music
+  - lyrics
+  show: Ragtime
+  win: true
+- entities:
+  - Henry Krieger
+  - Bill Russell
+  name: Music by Henry Krieger, lyrics by Bill Russell.
+  roles:
+  - music
+  - lyrics
+  show: Side Show
+- entities:
+  - Paul Simon
+  - Derek Walcott
+  name: Music by Paul Simon, lyrics by Derek Walcott.
+  roles:
+  - music
+  - lyrics
+  show: The Capeman
+- entities:
+  - Elton John
+  - Tim Rice
+  - Lebo M
+  - Mark Mancina
+  - Jay Rifkin
+  - Julie Taymor
+  - Hans Zimmer
+  name: Music and lyrics by Elton John, Tim Rice, Lebo M, Mark Mancina, Jay Rifkin, Julie Taymor, Hans Zimmer.
+  roles:
+  - music and lyrics
+  - music and lyrics
+  - music and lyrics
+  - music and lyrics
+  - music and lyrics
+  - music and lyrics
+  - music and lyrics
+  show: The Lion King
+official category: Original Musical Score
+source: https://www.tonyawards.com/nominees/year/1998/category/any/show/any/

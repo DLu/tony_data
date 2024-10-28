@@ -1,0 +1,46 @@
+nominees:
+- entities:
+  - Edward Albee
+  - Theatre 1963
+  - Richard Barr
+  - Clinton Wilder
+  name: by Edward Albee.  Produced by Theatre 1963, Richard Barr, and Clinton Wilder
+  roles:
+  - author
+  - producer
+  - producer
+  - producer
+  show: Who's Afraid of Virginia Woolf?
+  win: true
+- entities:
+  - Herb Gardner
+  - Fred Coe
+  - Arthur Cantor
+  name: by Herb Gardner.  Produced by Fred Coe and Arthur Cantor
+  roles:
+  - author
+  - producer
+  - producer
+  show: A Thousand Clowns
+- entities:
+  - Bertolt Brecht
+  - adapted by Eric Bentley
+  - Cheryl Crawford
+  - Jerome Robbins
+  name: by Bertolt Brecht, adapted by Eric Bentley.  Produced by Cheryl Crawford and Jerome Robbins
+  roles:
+  - author
+  - author
+  - producer
+  - producer
+  show: Mother Courage and Her Children
+- entities:
+  - Sidney Michaels
+  - David Merrick
+  name: by Sidney Michaels.  Produced by David Merrick
+  roles:
+  - author
+  - producer
+  show: Tchin-Tchin
+official category: Play
+source: https://www.tonyawards.com/nominees/year/1963/category/any/show/any/

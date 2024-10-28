@@ -1,0 +1,84 @@
+nominees:
+- entities:
+  - Lincoln Center Theater
+  - André Bishop
+  - Bernard Gersten
+  - The Royal National Theatre
+  - Cameron Mackintosh
+  - the Rodgers
+  - Hammerstein Organization
+  name: Produced by Lincoln Center Theater, André Bishop, Bernard Gersten, The Royal National Theatre, Cameron Mackintosh,
+    and the Rodgers and Hammerstein Organization
+  roles:
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  show: Carousel
+  win: true
+- entities:
+  - Mitchell Maxwell
+  - PolyGram Diversified Entertainment
+  - Dan Markley
+  - Kevin McCollum
+  - Victoria Maxwell
+  - Fred H. Krones
+  - Andrea Nasher
+  - The Frankel-Viertel-Baruch Group
+  - Paula Heil Fisher
+  - Julie Ross
+  - Jon B. Platt
+  - Alan Schuster
+  - Peter Breger
+  name: Produced by Mitchell Maxwell, PolyGram Diversified Entertainment, Dan Markley, Kevin McCollum, Victoria Maxwell, Fred
+    H. Krones, Andrea Nasher, The Frankel-Viertel-Baruch Group, Paula Heil Fisher, Julie Ross, Jon B. Platt, Alan Schuster
+    and Peter Breger
+  roles:
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  show: Damn Yankees
+- entities:
+  - Barry
+  - Fran Weissler
+  - Jujamcyn Theaters
+  name: Produced by Barry and Fran Weissler and Jujamcyn Theaters
+  roles:
+  - producer
+  - producer
+  - producer
+  show: Grease
+- entities:
+  - Roundabout Theater Co.
+  - Todd Haimes
+  - James M. Nederlander
+  - Elliott Martin
+  - Herbert Wasserman
+  - Freddy Beinstock
+  - Roger L. Stevens
+  name: Produced by Roundabout Theater Co., Todd Haimes, James M. Nederlander, Elliott Martin, Herbert Wasserman, Freddy Beinstock,
+    and Roger L. Stevens
+  roles:
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  show: She Loves Me
+official category: Revival (Musical)
+source: https://www.tonyawards.com/nominees/year/1994/category/any/show/any/

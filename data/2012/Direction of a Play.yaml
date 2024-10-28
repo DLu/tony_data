@@ -1,0 +1,15 @@
+nominees:
+- name: Mike Nichols
+  show: Arthur Miller's Death of a Salesman
+  win: true
+- name: Nicholas Hytner
+  show: One Man, Two Guvnors
+- name: Pam MacKinnon
+  show: Clybourne Park
+- entities:
+  - Roger Rees
+  - Alex Timbers
+  name: Roger Rees and Alex Timbers
+  show: Peter and the Starcatcher
+official category: Director (Play)
+source: https://www.tonyawards.com/nominees/year/2012/category/any/show/any/

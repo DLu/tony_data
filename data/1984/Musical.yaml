@@ -1,0 +1,59 @@
+nominees:
+- entities:
+  - Allan Carr
+  - Kenneth D. Greenblatt
+  - Marvin A. Krauss
+  - Stewart F. Lane
+  - James M. Nederlander
+  - Martin Richards
+  - Barry Brown
+  - Fritz Holt
+  name: Produced by Allan Carr, Kenneth D. Greenblatt, Marvin A. Krauss, Stewart F. Lane, James M. Nederlander, Martin Richards,
+    Barry Brown, and Fritz Holt
+  roles:
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  show: La Cage aux Folles
+  win: true
+- entities:
+  - James B. Freydberg
+  - Ivan Bloch
+  - Kenneth-John Productions
+  - Suzanne J. Schwartz
+  - Manuscript Productions
+  name: Produced by James B. Freydberg, Ivan Bloch, Kenneth-John Productions, Suzanne J. Schwartz and Manuscript Productions
+  roles:
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  show: Baby
+- entities:
+  - the Shubert Organization
+  - Emanuel Azenberg
+  name: Produced by the Shubert Organization and Emanuel Azenberg
+  roles:
+  - producer
+  - producer
+  show: Sunday in the Park with George
+- entities:
+  - Stanley White
+  - Evelyn Barron
+  - Harvey J. Klaris
+  - Michel Stuart
+  name: Produced by Stanley White, Evelyn Barron, Harvey J. Klaris, and Michel Stuart
+  roles:
+  - producer
+  - producer
+  - producer
+  - producer
+  show: The Tap Dance Kid
+official category: Musical
+source: https://www.tonyawards.com/nominees/year/1984/category/any/show/any/

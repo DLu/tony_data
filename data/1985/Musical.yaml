@@ -1,0 +1,77 @@
+nominees:
+- entities:
+  - Rocco Landesman
+  - Heidi Landesman
+  - Rick Steiner
+  - M. Anthony Fisher
+  - Dodger Productions
+  name: Produced by Rocco Landesman, Heidi Landesman, Rick Steiner, M. Anthony Fisher, and Dodger Productions
+  roles:
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  show: Big River
+  win: true
+- entities:
+  - Kenneth D. Greenblatt
+  - John J. Pomerantz
+  - Mary Lea Johnson
+  - Martin Richards
+  - James M. Nederlander
+  - Harold Prince
+  - Michael Frazier
+  - Susan Madden Samson
+  - Jonathan Farkas
+  name: Produced by Kenneth D. Greenblatt, John J. Pomerantz, Mary Lea Johnson, Martin Richards, James M. Nederlander, Harold
+    Prince, Michael Frazier, Susan Madden Samson, and Jonathan Farkas
+  roles:
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  show: Grind
+- entities:
+  - Elizabeth I. McCann
+  - Nelle Nugent
+  - Francine LeFrak
+  - Clive Davis
+  - John Hart Associates
+  - Inc.
+  - Rodger Hess
+  - Richard Kagan
+  name: Produced by Elizabeth I. McCann, Nelle Nugent, Francine LeFrak, Clive Davis, John Hart Associates, Inc., Rodger Hess,
+    and Richard Kagan
+  roles:
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  show: Leader of the Pack
+- entities:
+  - The Denver Center for the Performing Arts
+  - The John F. Kennedy Center for the Performing Arts
+  - The American National Theatre
+  - Academy
+  - Brockman Seawell
+  name: Produced by The Denver Center for the Performing Arts, The John F. Kennedy Center for the Performing Arts, The American
+    National Theatre and Academy, and Brockman Seawell
+  roles:
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  show: Quilters
+official category: Musical
+source: https://www.tonyawards.com/nominees/year/1985/category/any/show/any/

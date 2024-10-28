@@ -1,0 +1,9 @@
+nominees:
+- name: John D. Rockefeller III
+  note: for vision and leadership in creating the Lincoln Center, a landmark of theatre encompassing the performing arts
+  win: true
+- entities: [James Thurber, Burgess Meredith]
+  name: James Thurber and Burgess Meredith
+  show: A Thurber Carnival
+  win: true
+source: https://www.tonyawards.com/special-awards/year/1960/category/any/show/any/

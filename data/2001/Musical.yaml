@@ -1,0 +1,66 @@
+nominees:
+- entities:
+  - Rocco Landesman
+  - SFX Theatrical Group
+  - The Frankel-Baruch-Viertel-Routh Group
+  - Bob
+  - Harvey Weinstein
+  - Rick Steiner
+  - Robert F.X. Sillerman
+  - Mel Brooks
+  - James D. Stern/Douglas Meyer
+  name: ', Producers: Rocco Landesman, SFX Theatrical Group, The Frankel-Baruch-Viertel-Routh Group, Bob and Harvey Weinstein,
+    Rick Steiner, Robert F.X. Sillerman, Mel Brooks, James D. Stern/Douglas Meyer'
+  roles:
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  show: The Producers, the new Mel Brooks musical
+  win: true
+- entities:
+  - Marty Bell
+  - Chase Mishkin
+  - Arielle Tepper
+  - Manhattan Theatre Club
+  name: ', Producers: Marty Bell, Chase Mishkin, Arielle Tepper, Manhattan Theatre Club'
+  roles:
+  - producer
+  - producer
+  - producer
+  - producer
+  show: A Class Act
+- entities:
+  - Fox Searchlight Pictures
+  - Lindsay Law
+  - Thomas Hall
+  name: ', Producers: Fox Searchlight Pictures, Lindsay Law, Thomas Hall'
+  roles:
+  - producer
+  - producer
+  - producer
+  show: The Full Monty
+- entities:
+  - Annette Niemtzow
+  - Janet Robinson
+  - Pamela Koslow
+  - Margaret McFeeley Golden
+  - Jennifer Manocherian
+  - Carolyn Kim McCarthy
+  name: ', Producers: Annette Niemtzow, Janet Robinson, Pamela Koslow, Margaret McFeeley Golden, Jennifer Manocherian, Carolyn
+    Kim McCarthy'
+  roles:
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  show: Jane Eyre
+official category: Musical
+source: https://www.tonyawards.com/nominees/year/2001/category/any/show/any/

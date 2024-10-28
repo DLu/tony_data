@@ -1,0 +1,15 @@
+nominees:
+- name: Steven Levenson
+  show: Dear Evan Hansen
+  win: true
+- entities:
+  - Irene Sankoff
+  - David Hein
+  name: Irene Sankoff and David Hein
+  show: Come From Away
+- name: Danny Rubin
+  show: Groundhog Day The Musical
+- name: Dave Malloy
+  show: Natasha, Pierre & The Great Comet of 1812
+official category: Book (Musical)
+source: https://www.tonyawards.com/nominees/year/2017/category/any/show/any/

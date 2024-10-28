@@ -1,0 +1,96 @@
+nominees:
+- entities:
+  - Lincoln Center Theater
+  - André Bishop
+  - Adam Siegel
+  - Hattie K. Jutagir
+  - Ambassador Theatre Group
+  name: 'Producers: Lincoln Center Theater, André Bishop, Adam Siegel, Hattie K. Jutagir, Ambassador Theatre Group'
+  roles:
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  show: The King and I
+  win: true
+- entities:
+  - Howard
+  - Janet Kagan
+  - Severn Partners Entertainment
+  - Bruce Robert Harris
+  - Jack W. Batman
+  - Paula Marie Black
+  - Nigel Lythgoe
+  - Michael J. Moritz
+  - Jr.
+  - Mahoney/Alden/Badway
+  - Ambassador Theatre Group
+  - Margie
+  - Bryan Weingarten
+  - Kim Schall
+  - Michael Rubenstein
+  - Terry/Louise/Chris Lingner
+  - Brunish
+  - Trinchero
+  - Stephanie Rosenberg
+  - Laruffa
+  - Hinderliter
+  - Rubinstein/Handleman
+  - Lizbeth Bintz
+  - Riki Kane Larimer
+  - 24 Hour Adventure Production
+  - A&A Gordon
+  - Matt Ross/Ben Feldman/Pamela Cooper
+  - Barrington Stage Company
+  name: 'Producers: Howard and Janet Kagan, Severn Partners Entertainment, Bruce Robert Harris and Jack W. Batman, Paula Marie
+    Black, Nigel Lythgoe, Michael J. Moritz, Jr., Mahoney/Alden/Badway, Ambassador Theatre Group, Margie and Bryan Weingarten,
+    Kim Schall, Michael Rubenstein, Terry/Louise/Chris Lingner, Brunish & Trinchero, Stephanie Rosenberg, Laruffa & Hinderliter,
+    Rubinstein/Handleman, Lizbeth Bintz, Riki Kane Larimer, 24 Hour Adventure Production, A&A Gordon, Matt Ross/Ben Feldman/Pamela
+    Cooper, Barrington Stage Company'
+  roles:
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  show: On the Town
+- entities:
+  - Roundabout Theatre Company
+  - Todd Haimes
+  - Harold Wolpert
+  - Julia C. Levy
+  - Sydney Beers
+  name: 'Producers: Roundabout Theatre Company, Todd Haimes, Harold Wolpert, Julia C. Levy, Sydney Beers'
+  roles:
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  show: On the Twentieth Century
+official category: Revival (Musical)
+source: https://www.tonyawards.com/nominees/year/2015/category/any/show/any/

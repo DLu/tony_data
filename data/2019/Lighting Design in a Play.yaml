@@ -1,0 +1,20 @@
+nominees:
+- name: Neil Austin
+  show: Ink
+  win: true
+- entities:
+  - Jules Fisher
+  - Peggy Eisenhauer
+  name: Jules Fisher + Peggy Eisenhauer
+  show: 'Gary: A Sequel to Titus Andronicus'
+- name: Peter Mumford
+  show: The Ferryman
+- name: Jennifer Tipton
+  show: To Kill a Mockingbird
+- entities:
+  - Jan Versweyveld
+  - Tal Yarden
+  name: Jan Versweyveld and Tal Yarden
+  show: Network
+official category: Best Lighting Design of a Play
+source: https://www.tonyawards.com/nominees/year/2019/category/any/show/any/

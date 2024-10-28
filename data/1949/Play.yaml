@@ -1,0 +1,10 @@
+nominees:
+- entities:
+  - Arthur Miller
+  name: by Arthur Miller
+  roles:
+  - author
+  show: Death of a Salesman
+  win: true
+official category: Play
+source: https://www.tonyawards.com/nominees/year/1949/category/any/show/any/

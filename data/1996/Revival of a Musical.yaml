@@ -1,0 +1,66 @@
+nominees:
+- entities:
+  - Dodger Productions
+  - The John F. Kennedy Center for the Performing Arts
+  - James M. Nederlander
+  - Perseus Productions
+  - John Frost
+  - The Adelaide Festival Centre
+  - The Rodgers
+  - Hammerstein Organization
+  name: Produced by Dodger Productions, The John F. Kennedy Center for the Performing Arts, James M. Nederlander, Perseus
+    Productions, John Frost, The Adelaide Festival Centre, The Rodgers and Hammerstein Organization
+  roles:
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  show: The King and I
+  win: true
+- entities:
+  - Jujamcyn Theaters
+  - Scott Rudin/Paramount Pictures
+  - The Viertel-Baruch-Frankel Group
+  - Roger Berlind
+  - Dodger Productions
+  name: Produced by Jujamcyn Theaters, Scott Rudin/Paramount Pictures, The Viertel-Baruch-Frankel Group, Roger Berlind, Dodger
+    Productions
+  roles:
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  show: A Funny Thing Happened on the Way to the Forum
+- entities:
+  - Roundabout Theatre Company
+  - Todd Haimes
+  - Ellen Richard
+  name: Produced by Roundabout Theatre Company, Todd Haimes, Ellen Richard
+  roles:
+  - producer
+  - producer
+  - producer
+  show: Company
+- entities:
+  - Manny Kladitis
+  - Magic Promotions
+  - Theatricals
+  - Pace Theatrical Group
+  - Inc.
+  - Jon B. Platt
+  name: Produced by Manny Kladitis, Magic Promotions and Theatricals, Pace Theatrical Group, Inc., Jon B. Platt
+  roles:
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  show: Hello, Dolly!
+official category: Revival (Musical)
+source: https://www.tonyawards.com/nominees/year/1996/category/any/show/any/

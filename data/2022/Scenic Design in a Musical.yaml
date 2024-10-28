@@ -1,0 +1,20 @@
+nominees:
+- name: Bunny Christie
+  show: Company
+  win: true
+- name: Arnulfo Maldonado
+  show: A Strange Loop
+- name: Allen Moyer
+  show: Paradise Square
+- entities:
+  - Derek McLane
+  - Peter Nigrini
+  name: Derek McLane and Peter Nigrini
+  show: MJ
+- entities:
+  - Beowulf Boritt
+  - 59 Productions
+  name: Beowulf Boritt and 59 Productions
+  show: Flying Over Sunset
+official category: Best Scenic Design of a Musical
+source: https://www.tonyawards.com/nominees/year/2022/category/any/show/any/

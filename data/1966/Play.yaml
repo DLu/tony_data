@@ -1,0 +1,38 @@
+nominees:
+- entities:
+  - Peter Weiss
+  - Geoffrey Skelton
+  - the David Merrick Arts Foundation
+  name: by Peter Weiss.  English version by Geoffrey Skelton.  Produced by the David Merrick Arts Foundation
+  roles:
+  - author
+  - english version
+  - producer
+  show: Marat/Sade
+  win: true
+- entities:
+  - John Osborne
+  - the David Merrick Arts Foundation
+  name: by John Osborne.  Produced by the David Merrick Arts Foundation
+  roles:
+  - author
+  - producer
+  show: Inadmissible Evidence
+- entities: [Brian Friel, the David Merrick Arts Foundation]
+  name: By Brian Friel.  Produced by the David Merrick Arts Foundation
+  roles: [author, producer]
+  show: Philadelphia, Here I Come!
+- entities:
+  - Michael Dyne
+  - Peter Cookson
+  - Amy Lynn
+  - Walter Schwimmer
+  name: by Michael Dyne.  Produced by Peter Cookson, Amy Lynn, and Walter Schwimmer
+  roles:
+  - author
+  - producer
+  - producer
+  - producer
+  show: The Right Honourable Gentleman
+official category: Play
+source: https://www.tonyawards.com/nominees/year/1966/category/any/show/any/

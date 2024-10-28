@@ -1,0 +1,73 @@
+nominees:
+- entities:
+  - Peter Shaffer
+  - Kermit Bloomgarden
+  - Doris Cole Abrahams
+  name: by Peter Shaffer. Produced by Kermit Bloomgarden and Doris Cole Abrahams
+  roles:
+  - author
+  - producer
+  - producer
+  show: Equus
+  win: true
+- entities:
+  - Bernard Slade
+  - Morton Gottlieb
+  name: by Bernard Slade. Produced by Morton Gottlieb
+  roles:
+  - author
+  - producer
+  show: Same Time, Next Year
+- entities:
+  - Edward Albee
+  - Richard Barr
+  - Charles Woodward
+  - Clinton Wilder
+  name: by Edward Albee. Produced by Richard Barr, Charles Woodward, and Clinton Wilder
+  roles:
+  - author
+  - producer
+  - producer
+  - producer
+  show: Seascape
+- entities:
+  - Miguel Pinero
+  - Joseph Papp
+  - New York Shakespeare Festival
+  name: by Miguel Pinero. Produced by Joseph Papp, New York Shakespeare Festival
+  roles:
+  - author
+  - producer
+  - producer
+  show: Short Eyes
+- entities:
+  - Athol Fugard
+  - John Kani
+  - Winston Ntshona
+  - Hillard Elkins
+  - Lester Osterman Productions
+  - Bernard Delfont
+  - Michael White
+  name: by Athol Fugard, John Kani, and Winston Ntshona. Produced by Hillard Elkins, Lester Osterman Productions, Bernard
+    Delfont, and Michael White
+  roles:
+  - author
+  - author
+  - author
+  - producer
+  - producer
+  - producer
+  - producer
+  show: Sizwe Banzi is Dead and The Island
+- entities:
+  - Peter Nichols
+  - Circle in the Square
+  - Ltd
+  name: by Peter Nichols. Produced by Circle in the Square, Ltd.
+  roles:
+  - author
+  - producer
+  - producer
+  show: The National Health
+official category: Play
+source: https://www.tonyawards.com/nominees/year/1975/category/any/show/any/

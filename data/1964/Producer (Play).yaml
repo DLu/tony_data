@@ -1,0 +1,17 @@
+nominees:
+- name: Herman Shumlin
+  show: The Deputy
+  win: true
+- entities:
+  - Lewis Allen
+  - Ben Edwards
+  name: Lewis Allen and Ben Edwards
+  show: The Ballad of the Sad Café
+- entities:
+  - George W. George
+  - Frank Granat
+  name: George W. George and Frank Granat
+  show: Dylan
+- name: Saint-Subber
+  show: Barefoot in the Park
+source: https://www.tonyawards.com/nominees/year/1964/category/any/show/any/

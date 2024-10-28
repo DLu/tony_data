@@ -1,0 +1,36 @@
+nominees:
+- entities:
+  - Stephen Sondheim
+  name: Music and lyrics by Stephen Sondheim
+  roles:
+  - music and lyrics
+  show: Into the Woods
+  win: true
+- entities:
+  - Andrew Lloyd Webber
+  - Charles Hart
+  - Richard Stilgoe
+  name: Music by Andrew Lloyd Webber, lyrics by Charles Hart and Richard Stilgoe
+  roles:
+  - music
+  - lyrics
+  - lyrics
+  show: The Phantom of the Opera
+- entities:
+  - Keith Herrmann
+  - Barry Harman
+  name: Music by Keith Herrmann, lyrics by Barry Harman
+  roles:
+  - music
+  - lyrics
+  show: Romance/Romance
+- entities:
+  - Mbongeni Ngema
+  - Hugh Masekela
+  name: Music and lyrics by Mbongeni Ngema and Hugh Masekela
+  roles:
+  - music and lyrics
+  - music and lyrics
+  show: Sarafina!
+official category: Original Musical Score
+source: https://www.tonyawards.com/nominees/year/1988/category/any/show/any/

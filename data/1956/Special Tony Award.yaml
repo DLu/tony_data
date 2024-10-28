@@ -1,0 +1,15 @@
+nominees:
+- name: City Center
+  win: true
+- name: Fourth Street Chekov Theatre
+  win: true
+- name: The Shakespearewrights
+  win: true
+- note: distinguished Off-Broadway production; Carmen Capalbo, Stanley Chase, producers
+  show: The Threepenny Opera
+  win: true
+- name: The Theatre Collection of the N.Y. Public Library
+  note: on it's twenty-fifth anniversary, for its distinguished service to the theatre.  George Freedley, founder and curator,
+    accepted
+  win: true
+source: https://www.tonyawards.com/special-awards/year/1956/category/any/show/any/

@@ -1,0 +1,37 @@
+nominees:
+- entities:
+  - Joseph Papp
+  - The New York Shakespeare Festival
+  name: Produced by Joseph Papp and The New York Shakespeare Festival
+  roles:
+  - producer
+  - producer
+  show: The Pirates of Penzance
+  win: true
+- entities:
+  - Zev Bufman
+  - The Shubert Organization
+  name: Produced by Zev Bufman and The Shubert Organization
+  roles:
+  - producer
+  - producer
+  show: Brigadoon
+- entities:
+  - Mike Merrick
+  - Don Gregory
+  name: Produced by Mike Merrick and Don Gregory
+  roles:
+  - producer
+  - producer
+  show: Camelot
+- entities:
+  - Zev Bufman
+  - Donald C. Carter
+  - Jon Cultler
+  name: Produced by Zev Bufman, Donald C. Carter and Jon Cultler
+  roles:
+  - producer
+  - producer
+  - producer
+  show: The Little Foxes
+source: https://www.tonyawards.com/nominees/year/1981/category/any/show/any/

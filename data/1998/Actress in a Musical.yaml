@@ -1,0 +1,15 @@
+nominees:
+- name: Natasha Richardson
+  show: Cabaret
+  win: true
+- name: Betty Buckley
+  show: Triumph of Love
+- name: Marin Mazzie
+  show: Ragtime
+- entities:
+  - Alice Ripley
+  - Emily Skinner
+  name: Alice Ripley and Emily Skinner
+  show: Side Show
+official category: Actress (Musical)
+source: https://www.tonyawards.com/nominees/year/1998/category/any/show/any/

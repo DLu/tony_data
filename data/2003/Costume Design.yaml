@@ -1,0 +1,15 @@
+nominees:
+- name: William Ivey Long
+  show: Hairspray
+  win: true
+- name: Gregg Barnes
+  show: Flower Drum Song
+- entities:
+  - Catherine Martin
+  - Angus Strathie
+  name: Catherine Martin & Angus Strathie
+  show: La Bohème
+- name: Catherine Zuber
+  show: Dinner at Eight
+official category: Costume Designer
+source: https://www.tonyawards.com/nominees/year/2003/category/any/show/any/

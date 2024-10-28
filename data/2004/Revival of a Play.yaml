@@ -1,0 +1,70 @@
+nominees:
+- entities:
+  - Lincoln Center Theater
+  - André Bishop
+  - Bernard Gersten
+  name: 'Producers: Lincoln Center Theater, André Bishop, Bernard Gersten'
+  roles:
+  - producer
+  - producer
+  - producer
+  show: Henry IV
+  win: true
+- entities:
+  - Boyett Ostar Productions
+  - Nederlander Presentations Inc.
+  - Freddy DeMann
+  - Jean Doumanian
+  - Stephanie McClelland
+  - Arielle Tepper
+  - The National Theatre of Great Britain
+  name: 'Producers: Boyett Ostar Productions, Nederlander Presentations Inc., Freddy DeMann, Jean Doumanian, Stephanie McClelland,
+    Arielle Tepper, The National Theatre of Great Britain'
+  roles:
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  show: Jumpers
+- entities:
+  - Lincoln Center Theater
+  - André Bishop
+  - Bernard Gersten
+  - Stratford Festival of Canada
+  name: 'Producers: Lincoln Center Theater, André Bishop, Bernard Gersten, Stratford Festival of Canada'
+  roles:
+  - producer
+  - producer
+  - producer
+  - producer
+  show: King Lear
+- entities:
+  - David Binder
+  - Vivek J. Tiwary
+  - Susan Batson
+  - Carl Rumbaugh
+  - Ruth Hendel
+  - Arielle Tepper
+  - Jayne Baron Sherman
+  - Dede Harris
+  - Barbara Whitman
+  - Cynthia Stroum
+  name: 'Producers: David Binder, Vivek J. Tiwary, Susan Batson, Carl Rumbaugh, Ruth Hendel, Arielle Tepper, Jayne Baron Sherman,
+    Dede Harris, Barbara Whitman, Cynthia Stroum'
+  roles:
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  show: A Raisin in the Sun
+official category: Revival (Play)
+source: https://www.tonyawards.com/nominees/year/2004/category/any/show/any/

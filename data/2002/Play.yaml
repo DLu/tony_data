@@ -1,0 +1,92 @@
+nominees:
+- entities:
+  - Edward Albee
+  - Elizabeth Ireland McCann
+  - Daryl Roth
+  - Carole Shorenstein Hays
+  - Terry Allen Kramer
+  - Scott Rudin
+  - Bob Boyett
+  - Scott Nederlander
+  - Sine/ZPI
+  name: 'by Edward Albee. Producers: Elizabeth Ireland McCann, Daryl Roth, Carole Shorenstein Hays, Terry Allen Kramer, Scott
+    Rudin, Bob Boyett, Scott Nederlander, Sine/ZPI'
+  roles:
+  - author
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  show: Edward Albee's The Goat or Who Is Sylvia?
+  win: true
+- entities: [Mike Poulton, Julian Schlossberg, Roy Furman, Ben Sprecher, Ted Tulchin, Aaron Levy, Peter May, Bob Boyett, James
+      Fantaci]
+  name: 'adapted by: Mike Poulton. Producers: Julian Schlossberg, Roy Furman, Ben Sprecher, Ted Tulchin, Aaron Levy, Peter
+    May, Bob Boyett, James Fantaci'
+  roles: [adaptation, producer, producer, producer, producer, producer, producer, producer, producer]
+  show: Fortune's Fool
+- entities:
+  - Mary Zimmerman
+  - Roy Gabay
+  - Robyn Goodman
+  - Allan S. Gordon
+  - Élan V. McAllister
+  - D. Harris/M. Swinsky
+  - Ruth Hendel
+  - Sharon Karmazin
+  - R.L. Wreghitt/J. Berg?re
+  - Second Stage Theatre
+  - Carole Rothman
+  - Carol Fishman
+  name: 'by Mary Zimmerman. Producers: Roy Gabay, Robyn Goodman, Allan S. Gordon, Élan V. McAllister, D. Harris/M. Swinsky,
+    Ruth Hendel, Sharon Karmazin, R.L. Wreghitt/J. Berg?re, Second Stage Theatre, Carole Rothman, Carol Fishman'
+  roles:
+  - author
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  show: Metamorphoses
+- entities:
+  - Suzan-Lori Parks
+  - Carole Shorenstein Hays
+  - Waxman Williams Entertainment
+  - Bob Boyett
+  - Freddy De Mann
+  - Susan Dietz/Ina Meibach
+  - Scott E. Nederlander
+  - Ira Pittelman
+  - Hits Magazine
+  - Kelpie Arts
+  - Rick Steiner/Frederic H. Mayerson
+  - The Public Theater/New York Shakespeare Festival
+  name: 'by Suzan-Lori Parks. Producers: Carole Shorenstein Hays, Waxman Williams Entertainment, Bob Boyett, Freddy De Mann,
+    Susan Dietz/Ina Meibach, Scott E. Nederlander, Ira Pittelman, Hits Magazine, Kelpie Arts, Rick Steiner/Frederic H. Mayerson,
+    The Public Theater/New York Shakespeare Festival'
+  roles:
+  - author
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  show: Topdog/Underdog
+official category: Play
+source: https://www.tonyawards.com/nominees/year/2002/category/any/show/any/

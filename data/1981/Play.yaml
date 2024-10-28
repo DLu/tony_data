@@ -1,0 +1,58 @@
+nominees:
+- entities:
+  - Peter Shaffer
+  - The Shubert Organization
+  - Elizabeth I. McCann
+  - Nelle Nugent
+  - Roger S. Berlind
+  name: by Peter Shaffer. Produced by The Shubert Organization, Elizabeth I. McCann, Nelle Nugent, and Roger S. Berlind
+  roles:
+  - author
+  - producer
+  - producer
+  - producer
+  - producer
+  show: Amadeus
+  win: true
+- entities:
+  - Athol Fugard
+  - Jay J. Cohen
+  - Richard Press
+  - Louis Bush Hager Associates
+  - Yale Repertory Theater
+  name: by Athol Fugard. Produced by Jay J. Cohen, Richard Press, Louis Bush Hager Associates, and Yale Repertory Theater
+  roles:
+  - author
+  - producer
+  - producer
+  - producer
+  - producer
+  show: A Lesson From Aloes
+- entities:
+  - Hugh Leonard
+  - Lester Osterman
+  - Richard Horner
+  - Hinks Shimberg
+  - Freydberg-Cutler-Diamond Productions
+  name: by Hugh Leonard. Produced by Lester Osterman, Richard Horner, Hinks Shimberg, and Freydberg-Cutler-Diamond Productions
+  roles:
+  - author
+  - producer
+  - producer
+  - producer
+  - producer
+  show: A Life
+- entities:
+  - Lanford Wilson
+  - Jerry Arrow
+  - Robert Lussier
+  - Warner Theater Productions
+  name: by Lanford Wilson. Produced by Jerry Arrow, Robert Lussier, and Warner Theater Productions
+  roles:
+  - author
+  - producer
+  - producer
+  - producer
+  show: Fifth of July
+official category: Play
+source: https://www.tonyawards.com/nominees/year/1981/category/any/show/any/

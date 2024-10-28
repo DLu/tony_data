@@ -1,0 +1,17 @@
+nominees:
+- name: Christine Jones
+  show: Harry Potter and the Cursed Child, Parts One and Two
+  win: true
+- name: Miriam Buether
+  show: Edward Albee's Three Tall Women
+- name: Jonathan Fensom
+  show: Farinelli and the King
+- name: Santo Loquasto
+  show: Eugene O'Neill's The Iceman Cometh
+- entities:
+  - Ian MacNeil
+  - Edward Pierce
+  name: Ian MacNeil and Edward Pierce
+  show: Angels in America
+official category: Scenic Design (Play)
+source: https://www.tonyawards.com/nominees/year/2018/category/any/show/any/

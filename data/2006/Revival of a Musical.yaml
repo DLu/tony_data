@@ -1,0 +1,55 @@
+nominees:
+- entities:
+  - Roundabout Theatre Company
+  - Todd Haimes
+  - Harold Wolpert
+  - Julia C. Levy
+  - Jeffrey Richards
+  - James Fuld
+  - Jr.
+  - Scott Landis
+  name: 'Producers: Roundabout Theatre Company, Todd Haimes, Harold Wolpert, Julia C. Levy, Jeffrey Richards, James Fuld,
+    Jr., Scott Landis'
+  roles:
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  show: The Pajama Game
+  win: true
+- entities:
+  - Tom Viertel
+  - Steven Baruch
+  - Marc Routh
+  - Richard Frankel
+  - Ambassador Theatre Goup
+  - Adam Kenwright
+  - Tulchin/Bartner/Bagert
+  name: 'Producers: Tom Viertel, Steven Baruch, Marc Routh, Richard Frankel, Ambassador Theatre Goup, Adam Kenwright, Tulchin/Bartner/Bagert'
+  roles:
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  show: Sweeney Todd
+- entities:
+  - Roundabout Theatre Company
+  - Todd Haimes
+  - Harold Wolpert
+  - Julia C. Levy
+  name: 'Producers: Roundabout Theatre Company, Todd Haimes, Harold Wolpert, Julia C. Levy'
+  roles:
+  - producer
+  - producer
+  - producer
+  - producer
+  show: The Threepenny Opera
+official category: Revival (Musical)
+source: https://www.tonyawards.com/nominees/year/2006/category/any/show/any/

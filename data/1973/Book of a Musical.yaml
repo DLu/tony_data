@@ -1,0 +1,26 @@
+nominees:
+- entities:
+  - Hugh Wheeler
+  name: by Hugh Wheeler
+  roles:
+  - author
+  show: A Little Night Music
+  win: true
+- entities:
+  - Micki Grant
+  name: by Micki Grant
+  roles:
+  - author
+  show: Don't Bother Me, I Can't Cope
+- entities:
+  - Melvin Van Peebles
+  name: by Melvin Van Peebles
+  roles:
+  - author
+  show: Don't Play Us
+- entities: [Roger O. Hirson]
+  name: by Roger O. Hirson
+  roles: [author]
+  show: Pippin
+official category: Book (Musical)
+source: https://www.tonyawards.com/nominees/year/1973/category/any/show/any/

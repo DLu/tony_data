@@ -1,0 +1,55 @@
+nominees:
+- entities:
+  - Cameron Mackintosh
+  - The Really Useful Theatre Company
+  - Inc
+  name: Produced by Cameron Mackintosh and The Really Useful Theatre Company, Inc.
+  roles:
+  - producer
+  - producer
+  - producer
+  show: The Phantom of the Opera
+  win: true
+- entities:
+  - Heidi Landesman
+  - Rocco Landesman
+  - Rick Steiner
+  - M .Anthony Fisher
+  - Frederic H. Mayerson
+  - Jujamcyn Theatres
+  name: Produced by Heidi Landesman, Rocco Landesman, Rick Steiner, M .Anthony Fisher, Frederic H. Mayerson, and Jujamcyn
+    Theatres
+  roles:
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  show: Into the Woods
+- entities:
+  - Dasha Epstein
+  - Harve Brosten
+  - Jay S. Bulmash
+  name: Produced by Dasha Epstein, Harve Brosten, Jay S. Bulmash
+  roles:
+  - producer
+  - producer
+  - producer
+  show: Romance/Romance
+- entities:
+  - Lincoln Center Theater
+  - Gregory Mosher
+  - Bernard Gersten
+  - Lucille Lortel
+  - The Shubert Organization
+  name: Produced by Lincoln Center Theater, Gregory Mosher, Bernard Gersten, Lucille Lortel, and The Shubert Organization
+  roles:
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  show: Sarafina!
+official category: Musical
+source: https://www.tonyawards.com/nominees/year/1988/category/any/show/any/

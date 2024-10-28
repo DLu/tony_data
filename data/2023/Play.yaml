@@ -1,0 +1,29 @@
+nominees:
+- entities:
+  - Tom Stoppard
+  roles:
+  - author
+  show: Leopoldstadt
+  win: true
+- entities:
+  - Jordan E. Cooper
+  roles:
+  - author
+  show: Ain't No Mo'
+- entities:
+  - Stephen Adly Guirgis
+  roles:
+  - author
+  show: Between Riverside and Crazy
+- entities:
+  - Martyna Majok
+  roles:
+  - author
+  show: Cost of Living
+- entities:
+  - James Ijames
+  roles:
+  - author
+  show: Fat Ham
+official category: Best Play
+source: https://www.tonyawards.com/nominees/year/2023/category/any/show/any/

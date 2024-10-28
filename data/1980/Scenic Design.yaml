@@ -1,0 +1,16 @@
+nominees:
+- name: John Lee Beatty
+  show: Talley's Folly
+  win: true
+- name: David Mitchell
+  show: Barnum
+  win: true
+- entities:
+  - Timothy O'Brien
+  - Tazeena Firth
+  name: Timothy O'Brien and Tazeena Firth
+  show: Evita
+- name: Tony Walton
+  show: A Day in Hollywood/A Night in the Ukraine
+official category: Scenic Designer
+source: https://www.tonyawards.com/nominees/year/1980/category/any/show/any/

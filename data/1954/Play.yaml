@@ -1,0 +1,14 @@
+nominees:
+- entities:
+  - John Patrick
+  - Maurice Evans
+  - George Schaefer
+  name: by John Patrick.  Produced by Maurice Evans and George Schaefer.
+  roles:
+  - author
+  - producer
+  - producer
+  show: The Teahouse of the August Moon
+  win: true
+official category: Play
+source: https://www.tonyawards.com/nominees/year/1954/category/any/show/any/

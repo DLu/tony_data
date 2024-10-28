@@ -1,0 +1,31 @@
+nominees:
+- name: Liza Minnelli
+  note: for adding lustre to the Broadway season
+  win: true
+- name: Bette Midler
+  note: for adding lustre to the Broadway season
+  win: true
+- entities:
+  - Peter Cook
+  - Dudley Moore
+  note: co-stars and authors of Good Evening
+  show: Good Evening
+  win: true
+- note: an outstanding dramatic revival of an American classic.  Produced by Lester Osterman, Elliott Martin and Richard Hurner
+  show: A Moon for the Misbegotten
+  win: true
+- note: an outstanding contribution to the artistic development of the musical theatre. Produced by Chelsea Theatre Group,
+    Harold Prince and Ruth Mitchell
+  show: Candide
+  win: true
+- name: Actor's Equity Association
+  win: true
+- name: Theatre Development Fund
+  win: true
+- name: John F. Wharton
+  note: veteran theatrical attorney
+  win: true
+- name: Harold Friedlander
+  note: the industry's foremost printing expert
+  win: true
+source: https://www.tonyawards.com/special-awards/year/1974/category/any/show/any/

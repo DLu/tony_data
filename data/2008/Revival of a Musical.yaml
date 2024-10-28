@@ -1,0 +1,83 @@
+nominees:
+- entities:
+  - Lincoln Center Theater
+  - André Bishop
+  - Bernard Gersten
+  - Bob Boyett
+  name: 'Producers: Lincoln Center Theater, André Bishop, Bernard Gersten, Bob Boyett'
+  roles:
+  - producer
+  - producer
+  - producer
+  - producer
+  show: Rodgers & Hammerstein's South Pacific
+  win: true
+- entities:
+  - Paul Nicholas
+  - David Ian
+  - Nederlander Presentations Inc.
+  - Terry Allen Kramer
+  - Robert Stigwood
+  name: 'Producers: Paul Nicholas and David Ian, Nederlander Presentations Inc., Terry Allen Kramer, Robert Stigwood'
+  roles:
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  show: Grease
+- entities:
+  - Roger Berlind
+  - The Routh-Frankel-Baruch-Viertel Group
+  - Roy Furman
+  - Debra Black
+  - Ted Hartley
+  - Roger Horchow
+  - David Ian
+  - Scott Rudin
+  - Jack Viertel
+  name: 'Producers: Roger Berlind, The Routh-Frankel-Baruch-Viertel Group, Roy Furman, Debra Black, Ted Hartley, Roger Horchow,
+    David Ian, Scott Rudin, Jack Viertel'
+  roles:
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  show: Gypsy
+- entities:
+  - Roundabout Theatre Company
+  - Todd Haimes
+  - Harold Wolpert
+  - Julia C. Levy
+  - Bob Boyett
+  - Debra Black
+  - Jam Theatricals
+  - Stephanie P. McClelland
+  - Stewart F. Lane/Bonnie Comley
+  - Barbara Manocherian/Jennifer Manocherian
+  - Ostar Productions
+  - The Menier Chocolate Factory/David Babani
+  name: 'Producers: Roundabout Theatre Company, Todd Haimes, Harold Wolpert, Julia C. Levy, Bob Boyett, Debra Black, Jam Theatricals,
+    Stephanie P. McClelland, Stewart F. Lane/Bonnie Comley, Barbara Manocherian/Jennifer Manocherian, Ostar Productions, The
+    Menier Chocolate Factory/David Babani'
+  roles:
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  show: Sunday in the Park with George
+official category: Revival (Musical)
+source: https://www.tonyawards.com/nominees/year/2008/category/any/show/any/

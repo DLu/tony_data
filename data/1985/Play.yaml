@@ -1,0 +1,46 @@
+nominees:
+- entities:
+  - Neil Simon
+  - Emanuel Azenberg
+  - the Center Theater Group/Ahmanson Theatre
+  - Los Angeles
+  name: by Neil Simon. Produced by Emanuel Azenberg, and the Center Theater Group/Ahmanson Theatre, Los Angeles
+  roles:
+  - author
+  - producer
+  - producer
+  - producer
+  show: Biloxi Blues
+  win: true
+- entities: [William M. Hoffman, John Glines/Lawrence Lane, Lucille Lortel, The Shubert Organization]
+  name: by William M. Hoffman. Produced by John Glines/Lawrence Lane, Lucille Lortel, and The Shubert Organization
+  roles: [author, producer, producer, producer]
+  show: As Is
+- entities:
+  - David Rabe
+  - Icarus Productions
+  - Frederick M. Zollo
+  - Ivan Bloch
+  - ERB Productions
+  name: by David Rabe. Produced by Icarus Productions, Frederick M. Zollo, Ivan Bloch and ERB Productions
+  roles:
+  - author
+  - producer
+  - producer
+  - producer
+  - producer
+  show: Hurlyburly
+- entities:
+  - August Wilson
+  - Ivan Bloch
+  - Robert Cole
+  - Frederick M. Zollo
+  name: by August Wilson. Produced by Ivan Bloch, Robert Cole, and Frederick M. Zollo
+  roles:
+  - author
+  - producer
+  - producer
+  - producer
+  show: Ma Rainey's Black Bottom
+official category: Play
+source: https://www.tonyawards.com/nominees/year/1985/category/any/show/any/

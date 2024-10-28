@@ -1,0 +1,18 @@
+nominees:
+- entities:
+  - Michael Bennett
+  - Bob Avian
+  name: Michael Bennett and Bob Avian
+  show: Ballroom
+  win: true
+- entities:
+  - Henry LeTang
+  - Billy Wilson
+  name: Henry LeTang and Billy Wilson
+  show: Eubie!
+- name: Dan Siretta
+  show: Whoopee!
+- name: Tommy Tune
+  show: The Best Little Whorehouse in Texas
+official category: Choreographer
+source: https://www.tonyawards.com/nominees/year/1979/category/any/show/any/

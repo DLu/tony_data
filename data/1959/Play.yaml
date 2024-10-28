@@ -1,0 +1,56 @@
+nominees:
+- entities:
+  - Archibald MacLeish
+  - Alfred de Liagre, Jr.
+  name: by Archibald MacLeish.  Produced by Alfred de Liagre, Jr.
+  roles:
+  - author
+  - producer
+  show: J.B.
+  win: true
+- entities:
+  - Eugene O'Neill
+  - The Producers Theatre
+  - Robert Whitehead
+  - Roger L. Stevens
+  name: by Eugene O'Neill.  Produced by The Producers Theatre, Robert Whitehead, and Roger L. Stevens
+  roles:
+  - author
+  - producer
+  - producer
+  - producer
+  show: A Touch of the Poet
+- entities:
+  - John Osborne
+  - Anthony Creighton
+  - David Merrick
+  - Joshua Logan
+  name: by John Osborne and Anthony Creighton.  Produced by David Merrick and Joshua Logan
+  roles:
+  - author
+  - author
+  - producer
+  - producer
+  show: Epitaph for George Dillon
+- entities:
+  - Budd Schulberg
+  - Harvey Breit
+  - William Darrid
+  - Eleanor Saidenberg
+  name: by Budd Schulberg and Harvey Breit.  Produced by William Darrid and Eleanor Saidenberg
+  roles:
+  - author
+  - author
+  - producer
+  - producer
+  show: The Disenchanted
+- entities:
+  - Maurice Valency
+  - the Producers Theatre
+  name: ', adapted by Maurice Valency.  Produced by the Producers Theatre'
+  roles:
+  - adapted
+  - producer
+  show: The Visit by Friedrich Duerrenmatt
+official category: Play
+source: https://www.tonyawards.com/nominees/year/1959/category/any/show/any/

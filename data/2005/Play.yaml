@@ -1,0 +1,85 @@
+nominees:
+- entities:
+  - John Patrick Shanley
+  - Carole Shorenstein Hays
+  - MTC Productions
+  - Inc.
+  - Lynne Meadow
+  - Barry Grove
+  - Roger Berlind
+  - Scott Rudin
+  name: 'Author: John Patrick Shanley; Producers: Carole Shorenstein Hays, MTC Productions, Inc., Lynne Meadow, Barry Grove,
+    Roger Berlind, Scott Rudin'
+  roles:
+  - author
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  show: Doubt
+  win: true
+- entities:
+  - Michael Frayn
+  - Boyett Ostar Productions
+  - Nederlander Presentations
+  - Inc.
+  - Jean Doumanian
+  - Stephanie P. McClelland
+  - Arielle Tepper
+  - Amy Nederlander
+  - Eric Falkenstein
+  - Roy Furman
+  name: 'Author: Michael Frayn; Producers: Boyett Ostar Productions, Nederlander Presentations, Inc., Jean Doumanian, Stephanie
+    P. McClelland, Arielle Tepper, Amy Nederlander, Eric Falkenstein, Roy Furman'
+  roles:
+  - author
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  show: Democracy
+- entities:
+  - August Wilson
+  - Carole Shorenstein Hays
+  - Jujamcyn Theaters
+  name: 'Author: August Wilson; Producers: Carole Shorenstein Hays, Jujamcyn Theaters'
+  roles:
+  - author
+  - producer
+  - producer
+  show: Gem of the Ocean
+- entities:
+  - Martin McDonagh
+  - Boyett Ostar Productions
+  - Robert Fox
+  - Arielle Tepper
+  - Stephanie P. McClelland
+  - Debra Black
+  - Dede Harris/Morton Swinsky
+  - Roy Furman/Jon Avnet
+  - Joyce Schweickert
+  - The National Theatre of Great Britain
+  name: 'Author: Martin McDonagh; Producers: Boyett Ostar Productions, Robert Fox, Arielle Tepper, Stephanie P. McClelland,
+    Debra Black, Dede Harris/Morton Swinsky, Roy Furman/Jon Avnet, Joyce Schweickert, The National Theatre of Great Britain'
+  roles:
+  - author
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  show: The Pillowman
+official category: Play
+source: https://www.tonyawards.com/nominees/year/2005/category/any/show/any/

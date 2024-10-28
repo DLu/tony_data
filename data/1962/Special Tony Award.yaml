@@ -1,0 +1,13 @@
+nominees:
+- name: Brooks Atkinson
+  note: retired drama critic of the New York Times
+  win: true
+- name: Franco Zeffirelli
+  note: for designs and direction of the Old Vic's Romeo and Juliet
+  win: true
+- name: Richard Rodgers
+  note: for all he has done for young people in the theatre and for taking the men of the orchestra out of the pit and putting
+    them on stage in No Strings
+  show: No Strings
+  win: true
+source: https://www.tonyawards.com/special-awards/year/1962/category/any/show/any/

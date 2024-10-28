@@ -1,0 +1,21 @@
+nominees:
+- entities:
+  - Mart Crowley
+  roles:
+  - author
+  show: The Boys in the Band
+  win: true
+- show: Arthur Miller's All My Sons
+- show: Burn This
+- entities:
+  - Harvey Fierstein
+  roles:
+  - author
+  show: Torch Song
+- entities:
+  - Kenneth Lonergan
+  roles:
+  - author
+  show: The Waverly Gallery
+official category: Best Revival of a Play
+source: https://www.tonyawards.com/nominees/year/2019/category/any/show/any/

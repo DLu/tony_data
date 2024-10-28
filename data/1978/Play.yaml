@@ -1,0 +1,40 @@
+nominees:
+- entities:
+  - Hugh Leonard
+  - Lester Osterman
+  - Marilyn Strauss
+  - Marc Howard
+  name: by Hugh Leonard. Produced by Lester Osterman, Marilyn Strauss, and Marc Howard
+  roles:
+  - author
+  - producer
+  - producer
+  - producer
+  show: Da
+  win: true
+- entities:
+  - Neil Simon
+  - Emanuel Azenberg
+  name: by Neil Simon. Produced by Emanuel Azenberg
+  roles:
+  - author
+  - producer
+  show: Chapter Two
+- entities:
+  - Ira Levin
+  - Alfred De Liagre
+  - Jr.
+  - Roger L. Stevens
+  name: by Ira Levin. Produced by Alfred De Liagre, Jr., and Roger L. Stevens
+  roles:
+  - author
+  - producer
+  - producer
+  - producer
+  show: Deathtrap
+- entities: [D. L. Coburn, The Shubert Organization, Hume Cronyn, Mike Nichols]
+  name: by D. L. Coburn. Produced by The Shubert Organization, Hume Cronyn, and Mike Nichols
+  roles: [author, producer, producer, producer]
+  show: The Gin Game
+official category: Play
+source: https://www.tonyawards.com/nominees/year/1978/category/any/show/any/

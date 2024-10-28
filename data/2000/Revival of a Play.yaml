@@ -1,0 +1,62 @@
+nominees:
+- entities:
+  - Anita Waxman
+  - Elizabeth Williams
+  - Rob Kastner
+  - Miramax Films
+  - The Donmar Warehouse
+  name: Produced by Anita Waxman, Elizabeth Williams, Rob Kastner, Miramax Films, The Donmar Warehouse
+  roles:
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  show: The Real Thing
+  win: true
+- entities:
+  - Kim Poster
+  - PW Productions
+  - Adam Epstein
+  - SFX Theatrical Group
+  - Center Theatre Group/ Ahmanson Theatre
+  - Back Row Productions
+  - Old Ivy Productions
+  name: Produced by Kim Poster, PW Productions, Adam Epstein, SFX Theatrical Group, Center Theatre Group/ Ahmanson Theatre,
+    Back Row Productions, Old Ivy Productions
+  roles:
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  show: Amadeus
+- entities:
+  - Elliot Martin
+  - Chase Mishkin
+  - Max Cooper
+  - Jujamcyn Theaters
+  - Anita Waxman
+  - Elizabeth Williams
+  - The Goodman Theatre
+  name: Produced by Elliot Martin, Chase Mishkin, Max Cooper, Jujamcyn Theaters, Anita Waxman, Elizabeth Williams, The Goodman
+    Theatre
+  roles:
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  show: A Moon for the Misbegotten
+- entities:
+  - David Richenthal
+  name: Produced by David Richenthal
+  roles:
+  - producer
+  show: The Price
+official category: Revival (Play)
+source: https://www.tonyawards.com/nominees/year/2000/category/any/show/any/

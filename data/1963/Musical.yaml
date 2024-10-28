@@ -1,0 +1,51 @@
+nominees:
+- entities:
+  - Burt Shevelove
+  - Larry Gelbart
+  - Stephen Sondheim
+  - Harold Prince
+  name: Book by Burt Shevelove and Larry Gelbart, music and lyrics by Stephen Sondheim.  Produced by Harold Prince
+  roles:
+  - book
+  - book
+  - music and lyrics
+  - producer
+  show: A Funny Thing Happened on the Way to the Forum
+  win: true
+- entities:
+  - Neil Simon
+  - Cy Coleman
+  - Carolyn Leigh
+  - Cy Feuer
+  - Ernest Martin
+  name: Book by Neil Simon, music by Cy Coleman, lyrics by Carolyn Leigh.  Produced by Cy Feuer and Ernest Martin
+  roles:
+  - book
+  - music
+  - lyrics
+  - producer
+  - producer
+  show: Little Me
+- entities:
+  - Lionel Bart
+  - David Merrick
+  - Donald Albery
+  name: Book, music, and lyrics by Lionel Bart.  Produced by David Merrick and Donald Albery
+  roles:
+  - book, music, and lyrics
+  - producer
+  - producer
+  show: Oliver!
+- entities:
+  - Leslie Bricusse
+  - Anthony Newley
+  - David Merrick in association with Bernard Delfont
+  name: Book, music, and lyrics by Leslie Bricusse and Anthony Newley.  Produced by David Merrick in association with Bernard
+    Delfont
+  roles:
+  - book, music, and lyrics
+  - book, music, and lyrics
+  - producer
+  show: Stop the World - I Want to Get off
+official category: Musical
+source: https://www.tonyawards.com/nominees/year/1963/category/any/show/any/

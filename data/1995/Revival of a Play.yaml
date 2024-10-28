@@ -1,0 +1,57 @@
+nominees:
+- entities:
+  - Lincoln Center Theater
+  - André Bishop
+  - Bernard Gersten
+  name: ', Produced by Lincoln Center Theater, André Bishop, Bernard Gersten.'
+  roles:
+  - producer
+  - producer
+  - producer
+  show: The Heiress
+  win: true
+- entities:
+  - Dodger Productions
+  - Roger Berlind
+  - Endemol Theatre Productions
+  - Inc.
+  - Jujamcyn Theaters
+  - Kardana Productions
+  - Inc.
+  - Scott Rudin
+  - The Almeida Theatre Company
+  name: ', Produced by Dodger Productions, Roger Berlind, Endemol Theatre Productions, Inc., Jujamcyn Theaters, Kardana Productions,
+    Inc., Scott Rudin, The Almeida Theatre Company.'
+  roles:
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  show: Hamlet
+- entities:
+  - Roundabout Theatre Company
+  - Todd Haimes
+  name: ', Produced by Roundabout Theatre Company, Todd Haimes.'
+  roles:
+  - producer
+  - producer
+  show: The Moliere Comedies
+- entities:
+  - Circle in the Square Theatre
+  - Theodore Mann
+  - Josephine R. Abady
+  - Robert Bennett
+  name: ', Produced by Circle in the Square Theatre, Theodore Mann, Josephine R. Abady, Robert Bennett.'
+  roles:
+  - producer
+  - producer
+  - producer
+  - producer
+  show: The Rose Tattoo
+official category: Revival (Play)
+source: https://www.tonyawards.com/nominees/year/1995/category/any/show/any/

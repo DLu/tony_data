@@ -1,0 +1,18 @@
+nominees:
+- name: Michael Stewart
+  show: Hello, Dolly!
+  win: true
+- entities:
+  - Noel Coward
+  - Harry Kurnitz
+  name: Noel Coward and Harry Kurnitz
+  show: The Girl Who Came to Supper
+- name: Joe Masteroff
+  show: She Loves Me
+- entities:
+  - Hugh Martin
+  - Timothy Gray
+  name: Hugh Martin and Timothy Gray
+  show: High Spirits
+official category: Book (Musical)
+source: https://www.tonyawards.com/nominees/year/1964/category/any/show/any/

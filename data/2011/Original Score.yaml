@@ -1,0 +1,32 @@
+nominees:
+- entities:
+  - Trey Parker
+  - Robert Lopez
+  - Matt Stone
+  roles:
+  - music and lyrics
+  - music and lyrics
+  - music and lyrics
+  show: The Book of Mormon
+  win: true
+- entities:
+  - John Kander
+  - Fred Ebb
+  roles:
+  - music and lyrics
+  - music and lyrics
+  show: The Scottsboro Boys
+- entities:
+  - Alan Menken
+  - Glenn Slater
+  roles:
+  - music
+  - lyrics
+  show: Sister Act
+- entities:
+  - David Yazbek
+  roles:
+  - music and lyrics
+  show: Women on the Verge of a Nervous Breakdown
+official category: Original Musical Score
+source: https://www.tonyawards.com/nominees/year/2011/category/any/show/any/

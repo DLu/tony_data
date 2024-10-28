@@ -1,0 +1,15 @@
+nominees:
+- name: Wilford Leach
+  show: The Mystery of Edwin Drood
+  win: true
+- name: Bob Fosse
+  show: Big Deal
+- name: Richard Maltby, Jr.
+  show: Song & Dance
+- entities:
+  - Claudio Segovia
+  - Hector Orezzoli
+  name: Claudio Segovia and Hector Orezzoli
+  show: Tango Argentino
+official category: Director (Musical)
+source: https://www.tonyawards.com/nominees/year/1986/category/any/show/any/

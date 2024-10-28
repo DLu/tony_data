@@ -1,0 +1,21 @@
+nominees:
+- entities:
+  - John Walters
+  name: John Walters, chief carpenter
+  roles:
+  - chief carpenter
+  show: The Miracle Worker
+  win: true
+- entities:
+  - Al Alloy
+  name: Al Alloy, chief electrician
+  roles:
+  - chief electrician
+  show: Take Me Along
+- entities:
+  - James Orr
+  name: James Orr, chief electrician
+  roles:
+  - chief electrician
+  show: Greenwillow
+source: https://www.tonyawards.com/nominees/year/1960/category/any/show/any/

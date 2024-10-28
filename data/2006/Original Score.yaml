@@ -1,0 +1,34 @@
+nominees:
+- entities:
+  - Lisa Lambert
+  - Greg Morrison
+  roles:
+  - music and lyrics
+  - music and lyrics
+  show: The Drowsy Chaperone
+  win: true
+- entities:
+  - Brenda Russell
+  - Allee Willis
+  - Stephen Bray
+  roles:
+  - music and lyrics
+  - music and lyrics
+  - music and lyrics
+  show: The Color Purple
+- entities:
+  - Matthew Sklar
+  - Chad Beguelin
+  roles:
+  - music
+  - lyrics
+  show: The Wedding Singer
+- entities:
+  - Andrew Lloyd Webber
+  - David Zippel
+  roles:
+  - music
+  - lyrics
+  show: The Woman in White
+official category: Original Musical Score
+source: https://www.tonyawards.com/nominees/year/2006/category/any/show/any/

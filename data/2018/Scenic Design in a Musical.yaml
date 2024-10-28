@@ -1,0 +1,18 @@
+nominees:
+- name: David Zinn
+  show: 'SpongeBob SquarePants: The Musical'
+  win: true
+- name: Dane Laffrey
+  show: Once On This Island
+- name: Scott Pask
+  show: The Band's Visit
+- entities:
+  - Scott Pask
+  - Finn Ross
+  - Adam Young
+  name: Scott Pask, Finn Ross & Adam Young
+  show: Mean Girls
+- name: Michael Yeargan
+  show: My Fair Lady
+official category: Scenic Design (Musical)
+source: https://www.tonyawards.com/nominees/year/2018/category/any/show/any/

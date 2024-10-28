@@ -1,0 +1,16 @@
+nominees:
+- name: Gower Champion
+  show: 42nd Street
+  win: true
+- name: Graciela Daniele
+  show: The Pirates of Penzance
+- entities:
+  - Henry le Tan
+  - Donald McKayle
+  - Michael Smuin
+  name: Henry le Tan, Donald McKayle, and Michael Smuin
+  show: Sophisticated Ladies
+- name: Roland Petit
+  show: Can-Can
+official category: Choreographer
+source: https://www.tonyawards.com/nominees/year/1981/category/any/show/any/

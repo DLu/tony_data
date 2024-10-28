@@ -1,0 +1,40 @@
+nominees:
+- entities:
+  - Jonathan Larson
+  name: Music and Lyrics by Jonathan Larson.
+  roles:
+  - music and lyrics
+  show: Rent
+  win: true
+- entities:
+  - David Shire
+  - Richard Maltby Jr.
+  name: Music by David Shire/Lyrics by Richard Maltby Jr.
+  roles:
+  - music
+  - lyrics
+  show: Big - The Musical
+- entities:
+  - Daryl Waters
+  - Zane Mark
+  - Ann Duquesnay
+  - Reg E. Gaines
+  - George C. Wolfe
+  - Ann Duquesnay
+  name: Music by Daryl Waters, Zane Mark and Ann Duquesnay/Lyrics by Reg E. Gaines, George C. Wolfe and Ann Duquesnay.
+  roles:
+  - music
+  - music
+  - music
+  - lyrics
+  - lyrics
+  - lyrics
+  show: Bring in 'da Noise/Bring in 'da Funk
+- entities: [Richard Rodgers, Oscar Hammerstein II]
+  name: Music by Richard Rodgers/Lyrics by Oscar Hammerstein II
+  note: (only the songs Driving at Night, You Never Had It So Good, When I Go Out Walking With My Baby and Boys and Girls
+    Like You and Me are eligible for Tony Award consideration.)
+  roles: [music, lyrics]
+  show: State Fair
+official category: Original Musical Score
+source: https://www.tonyawards.com/nominees/year/1996/category/any/show/any/

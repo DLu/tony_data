@@ -1,0 +1,20 @@
+nominees:
+- name: Justin Peck
+  show: Illinoise
+  win: true
+- name: Camille A. Brown
+  show: Hell's Kitchen
+- entities:
+  - Jesse Robb
+  - Shana Carroll
+  name: Jesse Robb and Shana Carroll
+  show: Water for Elephants
+- entities:
+  - Rick Kuperman
+  - Jeff Kuperman
+  name: Rick Kuperman and Jeff Kuperman
+  show: The Outsiders
+- name: Annie-B Parson
+  show: Here Lies Love
+official category: Best Choreography
+source: https://www.tonyawards.com/nominees/year/2024/category/any/show/any/

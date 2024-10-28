@@ -1,0 +1,32 @@
+nominees:
+- entities:
+  - Peter Stone
+  name: by Peter Stone
+  roles:
+  - author
+  show: Woman of the Year
+  win: true
+- entities:
+  - Michael Stewart
+  - Mark Bramble
+  name: by Michael Stewart and Mark Bramble
+  roles:
+  - author
+  - author
+  show: 42nd Street
+- entities:
+  - Monty Norman
+  - Julian More
+  name: by Monty Norman and Julian More
+  roles:
+  - author
+  - author
+  show: The Moony Shapiro Songbook
+- entities:
+  - Mary Kyte
+  name: by Mary Kyte
+  roles:
+  - author
+  show: Tintypes
+official category: Book (Musical)
+source: https://www.tonyawards.com/nominees/year/1981/category/any/show/any/

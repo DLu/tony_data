@@ -1,0 +1,27 @@
+nominees:
+- name: Peter Larkin
+  show:
+  - Inherit the Wind
+  - No Time for Sergeants
+  win: true
+- name: Boris Aronson
+  show:
+  - The Diary of Anne Frank
+  - Bus Stop
+  - Once Upon a Tailor
+  - A View from the Bridge
+- name: Ben Edwards
+  show:
+  - The Ponder Heart
+  - Someone Waiting
+  - The Honeys
+- name: Jo Mielziner
+  show:
+  - Cat on a Hot Tin Roof
+  - The Lark
+  - Middle of the Night
+  - Pipe Dream
+- name: Raymond Sovey
+  show: The Great Sebastians
+official category: Scenic Designer
+source: https://www.tonyawards.com/nominees/year/1956/category/any/show/any/

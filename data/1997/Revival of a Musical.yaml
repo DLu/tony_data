@@ -1,0 +1,41 @@
+nominees:
+- entities:
+  - Barry
+  - Fran Weissler
+  - Kardana Productions
+  - Inc
+  name: Produced by Barry and Fran Weissler, Kardana Productions, Inc.
+  roles:
+  - producer
+  - producer
+  - producer
+  - producer
+  show: Chicago
+  win: true
+- entities:
+  - Timothy Childs
+  - Rodger Hess
+  - Jujamcyn Theaters
+  - Terri B. Childs
+  - Al Nocciolino
+  name: Produced by Timothy Childs, Rodger Hess, Jujamcyn Theaters, Terri B. Childs, Al Nocciolino.
+  roles:
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  show: Annie
+- entities: ['Livent, U.S. Inc.']
+  roles: [producer]
+  show: Candide
+- entities:
+  - Dodger Productions
+  - Joop Van den Ende
+  name: Produced by Dodger Productions, Joop Van den Ende.
+  roles:
+  - producer
+  - producer
+  show: Once Upon a Mattress
+official category: Revival (Musical)
+source: https://www.tonyawards.com/nominees/year/1997/category/any/show/any/

@@ -1,0 +1,41 @@
+nominees:
+- entities:
+  - Alfred de Liagre
+  - Jr.
+  - Roger L. Stevens
+  - John Mauceri
+  - Donald R. Seawell
+  - Andre Pastoria
+  name: Produced by Alfred de Liagre, Jr., Roger L. Stevens, John Mauceri, Donald R. Seawell and Andre Pastoria
+  roles:
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  show: On Your Toes
+  win: true
+- entities:
+  - the Royal Shakespeare Company
+  name: Produced by the Royal Shakespeare Company
+  roles:
+  - producer
+  show: All's Well That Ends Well
+- entities:
+  - Zev Bufman
+  - Sidney Schlenker
+  name: Produced by Zev Bufman and Sidney Schlenker
+  roles:
+  - producer
+  - producer
+  show: A View From the Bridge
+- entities:
+  - Circle in the Square Theatre
+  - The Kennedy Center
+  name: Produced by Circle in the Square Theatre and The Kennedy Center
+  roles:
+  - producer
+  - producer
+  show: The Caine Mutiny Court-Martial
+source: https://www.tonyawards.com/nominees/year/1983/category/any/show/any/

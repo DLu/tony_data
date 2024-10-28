@@ -1,0 +1,15 @@
+nominees:
+- name: Sarah Travis
+  show: Sweeney Todd
+  win: true
+- name: Larry Blank
+  show: The Drowsy Chaperone
+- entities:
+  - Dick Lieb
+  - Danny Troob
+  name: Dick Lieb and Danny Troob
+  show: The Pajama Game
+- name: Steve Orich
+  show: Jersey Boys
+official category: Orchestrations
+source: https://www.tonyawards.com/nominees/year/2006/category/any/show/any/

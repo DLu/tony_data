@@ -1,0 +1,45 @@
+nominees:
+- entities:
+  - the Live Entertainment Corp. of Canada/Garth Drabinsky
+  name: Produced by the Live Entertainment Corp. of Canada/Garth Drabinsky
+  roles:
+  - producer
+  show: Kiss of the Spider Woman--The Musical
+  win: true
+- entities:
+  - Bill Kenwright
+  name: Produced by Bill Kenwright
+  roles:
+  - producer
+  show: Blood Brothers
+- entities:
+  - Office Two-One Inc.
+  - Gladys Nederlander
+  - Stewart F. Lane
+  - James M. Nederlander
+  - Richard Kagan
+  - Emanuel Azenberg
+  name: Produced by Office Two-One Inc., Gladys Nederlander, Stewart F. Lane, James M. Nederlander, Richard Kagan, and Emanuel
+    Azenberg
+  roles:
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  show: The Goodbye Girl
+- entities:
+  - Pace Theatrical Group
+  - Dodger Productions
+  - Kardana Productions
+  - Inc
+  name: Produced by Pace Theatrical Group, Dodger Productions, and Kardana Productions, Inc.
+  roles:
+  - producer
+  - producer
+  - producer
+  - producer
+  show: The Who's Tommy
+official category: Musical
+source: https://www.tonyawards.com/nominees/year/1993/category/any/show/any/

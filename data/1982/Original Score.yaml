@@ -1,0 +1,32 @@
+nominees:
+- entities:
+  - Maury Yeston
+  name: Music and lyrics by Maury Yeston
+  roles:
+  - music and lyrics
+  show: Nine
+  win: true
+- entities:
+  - Henry Krieger
+  - Tom Eyen
+  name: Music by Henry Krieger, lyrics by Tom Eyen
+  roles:
+  - music
+  - lyrics
+  show: Dreamgirls
+- entities:
+  - Andrew Lloyd Webber
+  - Tim Rice
+  name: Music by Andrew Lloyd Webber, lyrics by Tim Rice
+  roles:
+  - music
+  - lyrics
+  show: Joseph and the Amazing Technicolor Dreamcoat
+- entities:
+  - Stephen Sondheim
+  name: Music and lyrics by Stephen Sondheim
+  roles:
+  - music and lyrics
+  show: Merrily We Roll Along
+official category: Original Musical Score
+source: https://www.tonyawards.com/nominees/year/1982/category/any/show/any/

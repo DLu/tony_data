@@ -1,0 +1,125 @@
+nominees:
+- entities:
+  - Bruce Norris
+  - Jujamcyn Theaters
+  - Jane Bergère
+  - Roger Berlind/Quintet Productions
+  - Eric Falkenstein/Dan Frishwasser
+  - Ruth Hendel/Harris Karma Productions
+  - JTG Theatricals
+  - Daryl Roth
+  - Jon B. Platt
+  - Center Theatre Group
+  - Lincoln Center Theater
+  - Playwrights Horizons
+  name: 'Author: Bruce Norris; Producers: Jujamcyn Theaters, Jane Bergère, Roger Berlind/Quintet Productions, Eric Falkenstein/Dan
+    Frishwasser, Ruth Hendel/Harris Karma Productions, JTG Theatricals, Daryl Roth, Jon B. Platt, Center Theatre Group, Lincoln
+    Center Theater, Playwrights Horizons'
+  roles:
+  - author
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  show: Clybourne Park
+  win: true
+- entities:
+  - Jon Robin Baitz
+  - Lincoln Center Theater
+  - André Bishop
+  - Bernard Gersten
+  - Bob Boyett
+  name: 'Author: Jon Robin Baitz; Producers: Lincoln Center Theater, André Bishop, Bernard Gersten, Bob Boyett'
+  roles:
+  - author
+  - producer
+  - producer
+  - producer
+  - producer
+  show: Other Desert Cities
+- entities:
+  - Rick Elice
+  - Nancy Nagel Gibbs
+  - Greg Schaffert
+  - Eva Price
+  - Tom Smedes
+  - Disney Theatrical Productions
+  - Suzan
+  - Ken Wirth/DeBartolo Miggs
+  - Catherine Schreiber/Daveed Frazier
+  - Mark Thompson
+  - Jack Lane
+  - Jane Dubin
+  - Allan S. Gordon/Adam S. Gordon
+  - Baer
+  - Casserly/Nathan Vernon
+  - Rich Affannato/Peter Stern
+  - Brunish
+  - Trinchero/Laura Little Productions
+  - Larry Hirschhorn/Hummel
+  - Greene
+  - Jamie deRoy
+  - Probo Prods./Radio Mouse Ent.
+  - Hugh Hysell/Freedberg
+  - Dale
+  - New York Theatre Workshop
+  name: 'Author: Rick Elice; Producers: Nancy Nagel Gibbs, Greg Schaffert, Eva Price, Tom Smedes, Disney Theatrical Productions,
+    Suzan & Ken Wirth/DeBartolo Miggs, Catherine Schreiber/Daveed Frazier & Mark Thompson, Jack Lane, Jane Dubin, Allan S.
+    Gordon/Adam S. Gordon, Baer & Casserly/Nathan Vernon, Rich Affannato/Peter Stern, Brunish & Trinchero/Laura Little Productions,
+    Larry Hirschhorn/Hummel & Greene, Jamie deRoy & Probo Prods./Radio Mouse Ent., Hugh Hysell/Freedberg & Dale, New York
+    Theatre Workshop'
+  roles:
+  - author
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  show: Peter and the Starcatcher
+- entities:
+  - David Ives
+  - Manhattan Theatre Club
+  - Lynne Meadow
+  - Barry Grove
+  - Jon B. Platt
+  - Scott Landis
+  - Classic Stage Company
+  name: 'Author: David Ives; Producers: Manhattan Theatre Club, Lynne Meadow, Barry Grove, Jon B. Platt, Scott Landis, Classic
+    Stage Company'
+  roles:
+  - author
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  show: Venus in Fur
+official category: Play
+source: https://www.tonyawards.com/nominees/year/2012/category/any/show/any/

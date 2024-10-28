@@ -1,0 +1,129 @@
+nominees:
+- entities:
+  - The Public Theater
+  - Oskar Eustis
+  - Andrew D. Hamingson
+  - Jeffrey Richards
+  - Jerry Frankel
+  - Gary Goddard Entertainment
+  - Kathleen K. Johnson
+  - Nederlander Productions
+  - Inc.
+  - Fran Kirmser Productions/Jed Bernstein
+  - Marc Frankel
+  - Broadway Across America
+  - Barbara Manocherian/Wencarlar Productions
+  - JK Productions/Terry Schnuck
+  - Andy Sandberg
+  - Jam Theatricals
+  - The Weinstein Company/Norton Herrick
+  - Jujamcyn Theaters
+  - Joey Parnes
+  - Elizabeth Ireland McCann
+  name: 'Producers: The Public Theater, Oskar Eustis, Andrew D. Hamingson, Jeffrey Richards, Jerry Frankel, Gary Goddard Entertainment,
+    Kathleen K. Johnson, Nederlander Productions, Inc., Fran Kirmser Productions/Jed Bernstein, Marc Frankel, Broadway Across
+    America, Barbara Manocherian/Wencarlar Productions, JK Productions/Terry Schnuck, Andy Sandberg, Jam Theatricals, The
+    Weinstein Company/Norton Herrick, Jujamcyn Theaters, Joey Parnes, Elizabeth Ireland McCann'
+  roles:
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  show: Hair
+  win: true
+- entities:
+  - Howard Panter
+  - Ambassador Theatre Group
+  - Tulchin/Bartner
+  - Bill Kenwright
+  - Northwater Entertainment
+  - Darren Bagert
+  - Tom Gregory
+  - Nederlander Presentations
+  - Inc.
+  - David Mirvish
+  - Michael Jenkins/Dallas Summer Musicals
+  - Independent Presenters Network
+  - Olympus Theatricals
+  - Sonia Friedman Productions
+  name: 'Producers: Howard Panter and Ambassador Theatre Group, Tulchin/Bartner, Bill Kenwright, Northwater Entertainment,
+    Darren Bagert, Tom Gregory, Nederlander Presentations, Inc., David Mirvish, Michael Jenkins/Dallas Summer Musicals, Independent
+    Presenters Network, Olympus Theatricals, Sonia Friedman Productions'
+  roles:
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  show: Guys and Dolls
+- entities:
+  - Roundabout Theatre Company
+  - Todd Haimes
+  - Harold Wolpert
+  - Julia C. Levy
+  - Marc Platt
+  name: 'Producers: Roundabout Theatre Company, Todd Haimes, Harold Wolpert, Julia C. Levy, Marc Platt'
+  roles:
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  show: Pal Joey
+- entities:
+  - Kevin McCollum
+  - James L. Nederlander
+  - Jeffrey Seller
+  - Terry Allen Kramer
+  - Sander Jacobs
+  - Roy Furman/Jill Furman Willis
+  - Freddy DeMann
+  - Robyn Goodman/Walt Grossman
+  - Hal Luftig
+  - Roy Miller
+  - The Weinstein Company
+  - Broadway Across America
+  name: 'Producers: Kevin McCollum, James L. Nederlander, Jeffrey Seller, Terry Allen Kramer, Sander Jacobs, Roy Furman/Jill
+    Furman Willis, Freddy DeMann, Robyn Goodman/Walt Grossman, Hal Luftig, Roy Miller, The Weinstein Company, Broadway Across
+    America'
+  roles:
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  show: West Side Story
+official category: Revival (Musical)
+source: https://www.tonyawards.com/nominees/year/2009/category/any/show/any/

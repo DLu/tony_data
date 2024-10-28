@@ -1,0 +1,18 @@
+nominees:
+- name: Helen Hayes
+  win: true
+- name: Mary Tyler Moore
+  show: Whose Life Is It Anyway?
+  win: true
+- name: Goodspeed Opera House
+  note: East Haddam, Connecticut
+  win: true
+- name: Richard Fitzgerald
+  note: honored for his installing the infrared system in Broadway theatres, thus bringing the compassion and dedication of
+    making theatergoing for those with impaired hearing, rewarding, stimulating and enjoyable
+  win: true
+- name: Hobe Morrison
+  note: theater editor of Variety
+  show: Variety
+  win: true
+source: https://www.tonyawards.com/special-awards/year/1980/category/any/show/any/

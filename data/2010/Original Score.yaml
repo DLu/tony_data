@@ -1,0 +1,30 @@
+nominees:
+- entities:
+  - David Bryan
+  - Joe DiPietro
+  - David Bryan
+  roles:
+  - music
+  - lyrics
+  - lyrics
+  show: Memphis
+  win: true
+- entities:
+  - Andrew Lippa
+  roles:
+  - music and lyrics
+  show: The Addams Family
+- entities:
+  - Adam Cork
+  - Lucy Prebble
+  roles:
+  - music
+  - lyrics
+  show: Enron
+- entities:
+  - Branford Marsalis
+  roles:
+  - music
+  show: Fences
+official category: Original Musical Score
+source: https://www.tonyawards.com/nominees/year/2010/category/any/show/any/

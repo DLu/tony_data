@@ -1,0 +1,94 @@
+nominees:
+- entities:
+  - Alan Bennett
+  - Boyett Ostar Productions
+  - Roger Berlind
+  - Debra Black
+  - Eric Falkenstein
+  - Roy Furman
+  - Jam Theatricals
+  - Stephanie P. McClelland
+  - Judith Resnick
+  - Scott Rudin
+  - Jon Avnet/Ralph Guild
+  - Dede Harris/Mort Swinsky
+  - The National Theatre of Great Britain
+  name: 'Author: Alan Bennett; Producers: Boyett Ostar Productions, Roger Berlind, Debra Black, Eric Falkenstein, Roy Furman,
+    Jam Theatricals, Stephanie P. McClelland, Judith Resnick, Scott Rudin, Jon Avnet/Ralph Guild, Dede Harris/Mort Swinsky,
+    The National Theatre of Great Britain'
+  roles:
+  - author
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  show: The History Boys
+  win: true
+- entities:
+  - Martin McDonagh
+  - Randall L. Wreghitt
+  - Dede Harris
+  - Atlantic Theater Company
+  - David Lehrer
+  - Harriet Newman Leve
+  - Ron Nicynski
+  - Zavelson Meyrelles Greiner Group
+  - Mort Swinsky
+  - Redfern Goldman Productions
+  - Ruth Hendel
+  name: 'Author: Martin McDonagh; Producers: Randall L. Wreghitt, Dede Harris, Atlantic Theater Company, David Lehrer, Harriet
+    Newman Leve & Ron Nicynski, Zavelson Meyrelles Greiner Group, Mort Swinsky & Redfern Goldman Productions, Ruth Hendel'
+  roles:
+  - author
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  show: The Lieutenant of Inishmore
+- entities:
+  - David Lindsay-Abaire
+  - Manhattan Theatre Club
+  - Lynne Meadow
+  - Barry Grove
+  name: 'Author: David Lindsay-Abaire; Producers: Manhattan Theatre Club, Lynne Meadow, Barry Grove'
+  roles:
+  - author
+  - producer
+  - producer
+  - producer
+  show: Rabbit Hole
+- entities:
+  - Conor McPherson
+  - Manhattan Theatre Club
+  - Lynne Meadow
+  - Barry Grove
+  - Scott Rudin
+  - Roger Berlind
+  - Debra Black
+  name: 'Author: Conor McPherson; Producers: Manhattan Theatre Club, Lynne Meadow, Barry Grove, Scott Rudin, Roger Berlind,
+    Debra Black'
+  roles:
+  - author
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  show: Shining City
+official category: Play
+source: https://www.tonyawards.com/nominees/year/2006/category/any/show/any/

@@ -1,0 +1,14 @@
+nominees:
+- name: Patricia Zipprodt
+  show: Fiddler on the Roof
+  win: true
+- name: Jane Greenwood
+  show: Tartuffe
+- name: Motely
+  show: Baker Street
+- name: Freddy Wittop
+  show:
+  - The Roar of the Greasepaint
+  - The Smell of the Crowd
+official category: Costume Designer
+source: https://www.tonyawards.com/nominees/year/1965/category/any/show/any/

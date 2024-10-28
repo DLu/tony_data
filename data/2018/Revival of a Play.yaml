@@ -1,0 +1,236 @@
+nominees:
+- entities:
+  - Tim Levy for NT America
+  - Jordan Roth
+  - Rufus Norris
+  - Lisa Burger for the National Theatre
+  - Elliott
+  - Harper Productions
+  - Kash Bennett for NT Productions
+  - Aged in Wood
+  - The Baruch-Viertel-Routh-Frankel Group
+  - Jane Bergère
+  - Adam Blanshay Productions
+  - Catwenjam Productions
+  - Jean Doumanian
+  - Gilad-Rogowsky
+  - Gold-Ross Productions
+  - The John Gore Organization
+  - Grove Entertainment
+  - Harris Rubin Productions
+  - Hornos-Moellenberg
+  - Brian
+  - Dayna Lee
+  - Benjamin Lowy
+  - Stephanie P. McClelland
+  - David Mirvish
+  - Mark Pigott
+  - Jon B. Platt
+  - E. Price-LD Ent.
+  - Daryl Roth
+  - Catherine Schreiber
+  - Barbara Whitman
+  - Jujamcyn Theaters
+  - The Nederlander Organization
+  - The Shubert Organization
+  name: 'Producers: Tim Levy for NT America, Jordan Roth, Rufus Norris & Lisa Burger for the National Theatre, Elliott & Harper
+    Productions, Kash Bennett for NT Productions, Aged in Wood, The Baruch-Viertel-Routh-Frankel Group, Jane Bergère, Adam
+    Blanshay Productions, Catwenjam Productions, Jean Doumanian, Gilad-Rogowsky, Gold-Ross Productions, The John Gore Organization,
+    Grove Entertainment, Harris Rubin Productions, Hornos-Moellenberg, Brian & Dayna Lee, Benjamin Lowy, Stephanie P. McClelland,
+    David Mirvish, Mark Pigott, Jon B. Platt, E. Price-LD Ent., Daryl Roth, Catherine Schreiber, Barbara Whitman, Jujamcyn
+    Theaters, The Nederlander Organization, The Shubert Organization'
+  roles:
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  show: Angels in America
+  win: true
+- entities:
+  - Scott Rudin
+  - Barry Diller
+  - Eli Bush
+  - The John Gore Organization
+  - James L. Nederlander
+  - Candy Spelling
+  - Len Blavatnik
+  - Universal Theatrical Group
+  - Rosalind Productions
+  - Inc.
+  - Eric Falkenstein
+  - Peter May
+  - Jay Alix
+  - Una Jackman
+  - Patty Baker
+  - Diana DiMenna
+  - David Mirvish
+  - Wendy Federman
+  - Heni Koenigsberg
+  - Benjamin Lowy
+  - Adrian Salpeter
+  - Jason Blum
+  - Jamie deRoy
+  - Gabrielle Palitz
+  - Ted Snowdon
+  - Richard Winkler
+  - Joey Parnes
+  - Sue Wagner
+  - John Johnson
+  name: 'Producers: Scott Rudin, Barry Diller, Eli Bush, The John Gore Organization, James L. Nederlander, Candy Spelling,
+    Len Blavatnik, Universal Theatrical Group, Rosalind Productions, Inc., Eric Falkenstein, Peter May, Jay Alix & Una Jackman,
+    Patty Baker, Diana DiMenna, David Mirvish, Wendy Federman & Heni Koenigsberg, Benjamin Lowy & Adrian Salpeter, Jason Blum,
+    Jamie deRoy, Gabrielle Palitz, Ted Snowdon, Richard Winkler, Joey Parnes, Sue Wagner, John Johnson'
+  roles:
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  show: Edward Albee's Three Tall Women
+- entities:
+  - Scott Rudin
+  - Barry Diller
+  - Eli Bush
+  - Universal Theatrical Group
+  - Eric Falkenstein
+  - Dan Frishwasser
+  - John Gore Organization
+  - James L. Nederlander
+  - Peter May
+  - Stephanie P. McClelland
+  - Candy Spelling
+  - Stephen C. Byrd
+  - Alia Jones-Harvey
+  - Gavin Kalin Productions
+  - Patty Baker
+  - Caiola Productions
+  - Diana DiMenna
+  - David Mirvish
+  - Wendy Federman
+  - Heni Koenigsberg
+  - Benjamin Lowy
+  - Adrian Salpeter
+  - Jason Blum
+  - Joey Parnes
+  - Sue Wagner
+  - John Johnson
+  name: 'Producers: Scott Rudin, Barry Diller, Eli Bush, Universal Theatrical Group, Eric Falkenstein, Dan Frishwasser, John
+    Gore Organization, James L. Nederlander, Peter May, Stephanie P. McClelland, Candy Spelling, Stephen C. Byrd & Alia Jones-Harvey,
+    Gavin Kalin Productions, Patty Baker, Caiola Productions, Diana DiMenna, David Mirvish, Wendy Federman & Heni Koenigsberg,
+    Benjamin Lowy & Adrian Salpeter, Jason Blum, Joey Parnes, Sue Wagner, John Johnson'
+  roles:
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  show: Eugene O'Neill's The Iceman Cometh
+- entities:
+  - 2ndStage
+  - Carole Rothman
+  - Casey Reitz
+  - Christopher Burney
+  name: 'Producers: 2ndStage, Carole Rothman, Casey Reitz, Christopher Burney'
+  roles:
+  - producer
+  - producer
+  - producer
+  - producer
+  show: Lobby Hero
+- entities:
+  - Roundabout Theatre Company
+  - Todd Haimes
+  - Julia C. Levy
+  - Sydney Beers
+  - Steve Dow
+  - Chocolate Factory Productions
+  - Sonia Friedman Productions
+  - David Babani
+  name: 'Producers: Roundabout Theatre Company, Todd Haimes, Julia C. Levy, Sydney Beers, Steve Dow, Chocolate Factory Productions,
+    Sonia Friedman Productions, David Babani'
+  roles:
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  show: Travesties
+official category: Revival (Play)
+source: https://www.tonyawards.com/nominees/year/2018/category/any/show/any/

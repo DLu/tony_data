@@ -1,0 +1,16 @@
+nominees:
+- name: William David Brohn
+  show: Ragtime
+  win: true
+- entities:
+  - Robert Elhai
+  - David Metzger
+  - Bruce Fowler
+  name: Robert Elhai, David Metzger and Bruce Fowler
+  show: The Lion King
+- name: Michael Gibson
+  show: Cabaret
+- name: Stanley Silverman
+  show: The Capeman
+official category: Orchestrations
+source: https://www.tonyawards.com/nominees/year/1998/category/any/show/any/

@@ -1,0 +1,12 @@
+nominees:
+- name: Harold Prince
+  show: Company
+  win: true
+- name: Jeff Britton
+  show: The Me Nobody Knows
+- entities:
+  - Lester Osterman
+  - Hillard Elkins
+  name: Lester Osterman and Hillard Elkins
+  show: The Rothschilds
+source: https://www.tonyawards.com/nominees/year/1971/category/any/show/any/

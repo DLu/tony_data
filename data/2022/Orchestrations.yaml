@@ -1,0 +1,17 @@
+nominees:
+- name: Simon Hale
+  show: Girl from the North Country
+  win: true
+- name: David Cullen
+  show: Company
+- name: Tom Curran
+  show: 'SIX: The Musical'
+- entities:
+  - Jason Michael Webb
+  - David Holcenberg
+  name: Jason Michael Webb and David Holcenberg
+  show: MJ
+- name: Charlie Rosen
+  show: A Strange Loop
+official category: Best Orchestrations
+source: https://www.tonyawards.com/nominees/year/2022/category/any/show/any/

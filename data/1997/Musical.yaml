@@ -1,0 +1,44 @@
+nominees:
+- entities:
+  - Dodger Endemol Theatricals
+  - Richard S. Pechter
+  - The John F. Kennedy Center
+  name: Produced by Dodger Endemol Theatricals, Richard S. Pechter, The John F. Kennedy Center.
+  roles:
+  - producer
+  - producer
+  - producer
+  show: Titanic
+  win: true
+- entities:
+  - Lincoln Center Theatre
+  - André Bishop
+  - Bernard Gersten
+  - Music-Theatre Group
+  name: Produced by Lincoln Center Theatre, André Bishop, Bernard Gersten, Music-Theatre Group
+  roles:
+  - producer
+  - producer
+  - producer
+  - producer
+  show: Juan Darien
+- entities:
+  - Roger Berlind
+  name: Produced by Roger Berlind.
+  roles:
+  - producer
+  show: Steel Pier
+- entities:
+  - Roger Berlind
+  - Martin Richards
+  - Cy Coleman
+  - Sam Crothers
+  name: Produced by Roger Berlind, Martin Richards, Cy Coleman, Sam Crothers.
+  roles:
+  - producer
+  - producer
+  - producer
+  - producer
+  show: The Life
+official category: Musical
+source: https://www.tonyawards.com/nominees/year/1997/category/any/show/any/

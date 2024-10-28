@@ -1,0 +1,28 @@
+nominees:
+- entities:
+  - James Lapine
+  name: by James Lapine
+  roles:
+  - author
+  show: Into the Woods
+  win: true
+- entities: [Lee Breuer]
+  name: by Lee Breuer
+  roles: [author]
+  show: The Gospel at Colonus
+- entities:
+  - Richard Stilgoe
+  - Andrew Lloyd Webber
+  name: by Richard Stilgoe and Andrew Lloyd Webber
+  roles:
+  - author
+  - author
+  show: The Phantom of the Opera
+- entities:
+  - Barry Harman
+  name: by Barry Harman
+  roles:
+  - author
+  show: Romance/Romance
+official category: Book (Musical)
+source: https://www.tonyawards.com/nominees/year/1988/category/any/show/any/

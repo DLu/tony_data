@@ -1,0 +1,15 @@
+nominees:
+- name: Paule Constable
+  show: The Curious Incident of the Dog in the Night-Time
+  win: true
+- entities:
+  - Paule Constable
+  - David Plater
+  name: Paule Constable, David Plater
+  show: Wolf Hall Parts One & Two
+- name: Natasha Katz
+  show: Skylight
+- name: Japhy Weideman
+  show: Airline Highway
+official category: Lighting Design (Play)
+source: https://www.tonyawards.com/nominees/year/2015/category/any/show/any/

@@ -1,0 +1,50 @@
+nominees:
+- entities:
+  - Bernard Pomerance
+  - Richmond Crinkley
+  - Elizabeth I. McCann
+  - Nelle Nugent
+  name: by Bernard Pomerance. Produced by Richmond Crinkley, Elizabeth I. McCann, and Nelle Nugent
+  roles:
+  - author
+  - producer
+  - producer
+  - producer
+  show: The Elephant Man
+  win: true
+- entities:
+  - Alan Ayckbourn
+  - Robert Whitehead
+  - Roger L. Stevens
+  - George W. George
+  - Frank Milton
+  name: by Alan Ayckbourn. Produced by Robert Whitehead, Roger L. Stevens, George W. George, and Frank Milton
+  roles:
+  - author
+  - producer
+  - producer
+  - producer
+  - producer
+  show: Bedroom Farce
+- entities:
+  - Brian Clark
+  - Emanuel Azenberg
+  - James Nederlander
+  - Ray Cooney
+  name: by Brian Clark. Produced by Emanuel Azenberg, James Nederlander, and Ray Cooney
+  roles:
+  - author
+  - producer
+  - producer
+  - producer
+  show: Whose Life Is It Anyway?
+- entities:
+  - Arthur Kopit
+  - the Kennedy Center
+  name: by Arthur Kopit. Produced by the Kennedy Center
+  roles:
+  - author
+  - producer
+  show: Wings
+official category: Play
+source: https://www.tonyawards.com/nominees/year/1979/category/any/show/any/

@@ -1,0 +1,55 @@
+nominees:
+- entities:
+  - Dodger Productions
+  - Roger Berlind
+  - Jujamcyn Theaters/TV Asahi
+  - Kardana Productions
+  - the John F. Kennedy Center for the Performing Arts
+  name: Produced by Dodger Productions, Roger Berlind, Jujamcyn Theaters/TV Asahi, Kardana Productions, and the John F. Kennedy
+    Center for the Performing Arts
+  roles:
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  show: Guys and Dolls
+  win: true
+- entities:
+  - the Goodspeed Opera House
+  - Center Theatre Group/Ahmanson Theatre
+  - Lincoln Center Theatre
+  - The Shubert Organization
+  - Japan Satellite Broadcasting/Stagevision
+  name: Produced by the Goodspeed Opera House, Center Theatre Group/Ahmanson Theatre, Lincoln Center Theatre, The Shubert
+    Organization, and Japan Satellite Broadcasting/Stagevision
+  roles:
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  show: The Most Happy Fella
+- entities:
+  - Circle in the Square Theatre
+  - Theodore Mann
+  - Robert Buckley
+  - Paul Libin
+  name: Produced by Circle in the Square Theatre, Theodore Mann, Robert Buckley, and Paul Libin
+  roles:
+  - producer
+  - producer
+  - producer
+  - producer
+  show: On Borrowed Time
+- entities:
+  - Roundabout Theater Co.
+  - Todd Haimes
+  - Gene Feist
+  name: Produced by Roundabout Theater Co., Todd Haimes, and Gene Feist
+  roles:
+  - producer
+  - producer
+  - producer
+  show: The Visit
+source: https://www.tonyawards.com/nominees/year/1992/category/any/show/any/

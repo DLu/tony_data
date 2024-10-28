@@ -1,0 +1,24 @@
+nominees:
+- entities:
+  - Harold Prince
+  name: Produced by Harold Prince
+  roles:
+  - producer
+  show: Company
+  win: true
+- entities:
+  - Jeff Britton
+  name: Produced by Jeff Britton
+  roles:
+  - producer
+  show: The Me Nobody Knows
+- entities:
+  - Lester Osterman
+  - Hillard Elkins
+  name: Produced by Lester Osterman and Hillard Elkins
+  roles:
+  - producer
+  - producer
+  show: The Rothschilds
+official category: Musical
+source: https://www.tonyawards.com/nominees/year/1971/category/any/show/any/

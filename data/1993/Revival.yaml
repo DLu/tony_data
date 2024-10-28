@@ -1,0 +1,50 @@
+nominees:
+- entities:
+  - Roundabout Theater Co.
+  - Todd Haimes
+  name: Produced by Roundabout Theater Co., and Todd Haimes
+  roles:
+  - producer
+  - producer
+  show: Anna Christie
+  win: true
+- entities:
+  - National Actors Theatre
+  - Tony Randall
+  - Duncan C. Weldon
+  name: Produced by National Actors Theatre, Tony Randall, and Duncan C. Weldon
+  roles:
+  - producer
+  - producer
+  - producer
+  show: St. Joan
+- entities:
+  - Roundabout Theatre Co.
+  - Todd Haimes
+  name: Produced by Roundabout Theatre Co., and Todd Haimes
+  roles:
+  - producer
+  - producer
+  show: The Price
+- entities:
+  - Circle in the Square Theatre
+  - Theodore Mann
+  - George Elmer
+  - Paul Libin
+  - Willow Cabin Theatre Company
+  - Edward Berkeley
+  - Adam Oliensis
+  - Maria Radman
+  name: Produced by Circle in the Square Theatre, Theodore Mann, George Elmer, Paul Libin, Willow Cabin Theatre Company, Edward
+    Berkeley, Adam Oliensis, and Maria Radman
+  roles:
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  show: Wilder, Wilder, Wilder
+source: https://www.tonyawards.com/nominees/year/1993/category/any/show/any/

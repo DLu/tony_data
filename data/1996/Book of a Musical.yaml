@@ -1,0 +1,16 @@
+nominees:
+- name: Jonathan Larson
+  show: Rent
+  win: true
+- name: John Weidman
+  show: Big - The Musical
+- name: Reg E. Gaines
+  show: Bring in 'da Noise/Bring in 'da Funk
+- entities:
+  - Graciela Daniele
+  - Jim Lewis
+  - Michael John LaChiusa
+  name: Graciela Daniele, Jim Lewis and Michael John LaChiusa
+  show: Chronicle of a Death Foretold
+official category: Book (Musical)
+source: https://www.tonyawards.com/nominees/year/1996/category/any/show/any/

@@ -1,0 +1,26 @@
+nominees:
+- entities:
+  - Hugh Wheeler
+  name: by Hugh Wheeler
+  roles:
+  - author
+  show: Sweeney Todd
+  win: true
+- entities:
+  - Jerome Kass
+  name: by Jerome Kass
+  roles:
+  - author
+  show: Ballroom
+- entities: [Larry L. King, Peter Masterson]
+  name: by Larry L. King and Peter Masterson
+  roles: [author, author]
+  show: The Best Little Whorehouse in Texas
+- entities:
+  - Neil Simon
+  name: by Neil Simon
+  roles:
+  - author
+  show: They're Playing Our Song
+official category: Book (Musical)
+source: https://www.tonyawards.com/nominees/year/1979/category/any/show/any/

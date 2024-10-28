@@ -1,0 +1,30 @@
+nominees:
+- entities:
+  - Marsha Norman
+  name: by Marsha Norman
+  roles:
+  - author
+  show: The Secret Garden
+  win: true
+- entities:
+  - Alain Boublil
+  - Claude-Michel Schönberg
+  name: by Alain Boublil and Claude-Michel Schönberg
+  roles:
+  - author
+  - author
+  show: Miss Saigon
+- entities:
+  - Lynn Ahrens
+  name: by Lynn Ahrens
+  roles:
+  - author
+  show: Once on this Island
+- entities:
+  - Peter Stone
+  name: by Peter Stone
+  roles:
+  - author
+  show: The Will Rogers Follies
+official category: Book (Musical)
+source: https://www.tonyawards.com/nominees/year/1991/category/any/show/any/

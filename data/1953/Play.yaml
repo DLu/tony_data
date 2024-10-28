@@ -1,0 +1,12 @@
+nominees:
+- entities:
+  - Arthur Miller
+  - Kermit Bloomgarden
+  name: by Arthur Miller. Produced by Kermit Bloomgarden.
+  roles:
+  - author
+  - producer
+  show: The Crucible
+  win: true
+official category: Play
+source: https://www.tonyawards.com/nominees/year/1953/category/any/show/any/

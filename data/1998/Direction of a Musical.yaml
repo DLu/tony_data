@@ -1,0 +1,13 @@
+nominees:
+- name: Julie Taymor
+  show: The Lion King
+  win: true
+- name: Scott Ellis
+  show: '1776'
+- name: Frank Galati
+  show: Ragtime
+- entities: [Sam Mendes, Rob Marshall]
+  name: Sam Mendes with Rob Marshall
+  show: Cabaret
+official category: Director (Musical)
+source: https://www.tonyawards.com/nominees/year/1998/category/any/show/any/

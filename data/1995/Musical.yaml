@@ -1,0 +1,29 @@
+nominees:
+- entities:
+  - The Really Useful Company
+  name: Produced by The Really Useful Company.
+  roles:
+  - producer
+  show: Sunset Boulevard
+  win: true
+- entities:
+  - Richard Frankel
+  - Thomas Viertel
+  - Steven Baruch
+  - Jujamcyn Theaters/Jack Viertel
+  - Rick Steiner
+  - Frederic H. Mayerson
+  - Center Theatre Group/Ahmanson Theatre/Gordon Davidson
+  name: Produced by Richard Frankel, Thomas Viertel, Steven Baruch, Jujamcyn Theaters/Jack Viertel, Rick Steiner, Frederic
+    H. Mayerson, Center Theatre Group/Ahmanson Theatre/Gordon Davidson.
+  roles:
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  show: Smokey Joe's Cafe
+official category: Musical
+source: https://www.tonyawards.com/nominees/year/1995/category/any/show/any/

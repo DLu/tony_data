@@ -1,0 +1,34 @@
+nominees:
+- name: Oliver Smith
+  show: West Side Story
+  win: true
+- name: Boris Aronson
+  show:
+  - Orpheus Descending
+  - A Hole in the Head
+  - The Rope Dancers
+- name: Ben Edwards
+  show: The Dark at the Top of the Stairs
+- name: Jo Mielziner
+  show:
+  - Look Homeward, Angel
+  - Miss Lonelyhearts
+  - The Square Root of Wonderful
+  - Oh, Captain!
+  - The Day the Money Stopped
+- name: Oliver Smith
+  show:
+  - Brigadoon
+  - Carousel
+  - Jamaica
+  - Nude with Violin
+  - Time Remembered
+  - West Side Story
+- name: Peter Larkin
+  show:
+  - Blue Denim
+  - Compulsion
+  - Good As Gold
+  - Miss Isobel
+official category: Scenic Designer
+source: https://www.tonyawards.com/nominees/year/1958/category/any/show/any/

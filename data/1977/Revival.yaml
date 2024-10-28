@@ -1,0 +1,33 @@
+nominees:
+- entities:
+  - Sherwin M. Goldman
+  - Houston Grand Opera
+  name: Produced by Sherwin M. Goldman and Houston Grand Opera
+  roles:
+  - producer
+  - producer
+  show: Porgy and Bess
+  win: true
+- entities:
+  - Moe Septee in association with Victor H. Potamkin
+  - Carmen F. Zollo
+  - Ashton Springer
+  name: Produced by Moe Septee in association with Victor H. Potamkin, Carmen F. Zollo, and Ashton Springer
+  roles:
+  - producer
+  - producer
+  - producer
+  show: Guys and Dolls
+- entities:
+  - Joseph Papp
+  name: Produced by Joseph Papp
+  roles:
+  - producer
+  show: The Cherry Orchard
+- entities:
+  - Joseph Papp
+  name: Produced by Joseph Papp
+  roles:
+  - producer
+  show: Threepenny Opera
+source: https://www.tonyawards.com/nominees/year/1977/category/any/show/any/

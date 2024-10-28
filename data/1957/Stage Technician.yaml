@@ -1,0 +1,19 @@
+nominees:
+- entities: [Howard McDonald]
+  name: Howard McDonald (posthumous), carpenter
+  roles: [carpenter]
+  show: Major Barbara
+  win: true
+- entities:
+  - Thomas Fitzgerald
+  name: Thomas Fitzgerald, sound man
+  roles:
+  - sound man
+  show: Long Day's Journey Into Night
+- entities:
+  - Joseph Harbuck
+  name: Joseph Harbuck, carpenter
+  roles:
+  - carpenter
+  show: Auntie Mame
+source: https://www.tonyawards.com/nominees/year/1957/category/any/show/any/

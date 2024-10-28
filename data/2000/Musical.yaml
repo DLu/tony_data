@@ -1,0 +1,69 @@
+nominees:
+- entities:
+  - Lincoln Center Theater
+  - André Bishop
+  - Bernard Gersten
+  name: Produced by Lincoln Center Theater, André Bishop, Bernard Gersten
+  roles:
+  - producer
+  - producer
+  - producer
+  show: Contact
+  win: true
+- entities:
+  - Gregory Mosher
+  - Arielle Tepper
+  - Playwrights Horizons
+  - Tim Sanford
+  name: Produced by Gregory Mosher, Arielle Tepper, Playwrights Horizons, Tim Sanford
+  roles:
+  - producer
+  - producer
+  - producer
+  - producer
+  show: James Joyce's The Dead
+- entities:
+  - Marc Routh
+  - Richard Frankel
+  - Steven Baruch
+  - Tom Viertel
+  - Lorie Cowen Levy/Stanley Shopkorn
+  - Jujamcyn Theaters
+  - BB Promotion
+  - Dede Harris/Jeslo Productions
+  - Libby Adler Mages/Mari Glick
+  - Douglas L. Meyer/James D. Stern
+  - PACE Theatrical Group/SFX
+  name: Produced by Marc Routh, Richard Frankel, Steven Baruch, Tom Viertel, Lorie Cowen Levy/Stanley Shopkorn, Jujamcyn Theaters,
+    BB Promotion, Dede Harris/Jeslo Productions, Libby Adler Mages/Mari Glick, Douglas L. Meyer/James D. Stern, PACE Theatrical
+    Group/SFX
+  roles:
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  show: Swing!
+- entities:
+  - The Joseph Papp Public Theater/New York Shakespeare Festival
+  - George C. Wolfe
+  - Scott Rudin/Paramount Pictures
+  - Roger Berlind
+  - Williams/Waxman
+  name: Produced by The Joseph Papp Public Theater/New York Shakespeare Festival, George C. Wolfe, Scott Rudin/Paramount Pictures,
+    Roger Berlind, Williams/Waxman
+  roles:
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  show: The Wild Party
+official category: Musical
+source: https://www.tonyawards.com/nominees/year/2000/category/any/show/any/

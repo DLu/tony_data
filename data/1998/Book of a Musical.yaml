@@ -1,0 +1,15 @@
+nominees:
+- name: Terrence McNally
+  show: Ragtime
+  win: true
+- name: Bill Russell
+  show: Side Show
+- entities:
+  - Roger Allers
+  - Irene Mecchi
+  name: Roger Allers and Irene Mecchi
+  show: The Lion King
+- name: Nan Knighton
+  show: The Scarlet Pimpernel
+official category: Book (Musical)
+source: https://www.tonyawards.com/nominees/year/1998/category/any/show/any/

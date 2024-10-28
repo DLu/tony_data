@@ -1,0 +1,21 @@
+nominees:
+- entities:
+  - Bob Martin
+  - Don McKellar
+  name: Bob Martin and Don McKellar
+  show: The Drowsy Chaperone
+  win: true
+- entities:
+  - Chad Beguelin
+  - Tim Herlihy
+  name: Chad Beguelin and Tim Herlihy
+  show: The Wedding Singer
+- entities:
+  - Marshall Brickman
+  - Rick Elice
+  name: Marshall Brickman & Rick Elice
+  show: Jersey Boys
+- name: Marsha Norman
+  show: The Color Purple
+official category: Book (Musical)
+source: https://www.tonyawards.com/nominees/year/2006/category/any/show/any/

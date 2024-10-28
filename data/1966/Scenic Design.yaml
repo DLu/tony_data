@@ -1,0 +1,15 @@
+nominees:
+- name: Howard Bay
+  show: Man of La Mancha
+  win: true
+- entities: [William Eckart, Jean Eckart]
+  name: William and Jean Eckart
+  show: Mame
+- name: David Hays
+  show: Drat! The Cat!
+- name: Robert Randolph
+  show:
+  - Anya, Skyscraper
+  - Sweet Charity
+official category: Scenic Designer
+source: https://www.tonyawards.com/nominees/year/1966/category/any/show/any/

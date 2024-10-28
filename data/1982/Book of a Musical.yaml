@@ -1,0 +1,30 @@
+nominees:
+- entities:
+  - Tom Eyen
+  name: by Tom Eyen
+  roles:
+  - author
+  show: Dreamgirls
+  win: true
+- entities:
+  - Tim Rice
+  name: by Tim Rice
+  roles:
+  - author
+  show: Joseph and the Amazing Technicolor Dreamcoat
+- entities:
+  - Arthur Kopit
+  name: by Arthur Kopit
+  roles:
+  - author
+  show: Nine
+- entities:
+  - Joel Siegel
+  - Martin Charnin
+  name: by Joel Siegel and Martin Charnin
+  roles:
+  - author
+  - author
+  show: The First
+official category: Book (Musical)
+source: https://www.tonyawards.com/nominees/year/1982/category/any/show/any/

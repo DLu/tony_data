@@ -1,0 +1,31 @@
+nominees:
+- entities:
+  - Matthew López
+  roles:
+  - author
+  show: The Inheritance
+  win: true
+- entities:
+  - Bess Wohl
+  roles:
+  - author
+  show: Grand Horizons
+- entities:
+  - Simon Stephens
+  - Nick Payne
+  roles:
+  - author
+  - author
+  show: Sea Wall/A Life
+- entities:
+  - Jeremy O. Harris
+  roles:
+  - author
+  show: Slave Play
+- entities:
+  - Adam Rapp
+  roles:
+  - author
+  show: The Sound Inside
+official category: Best Play
+source: https://www.tonyawards.com/nominees/year/2020/category/any/show/any/

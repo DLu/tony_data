@@ -1,0 +1,79 @@
+nominees:
+- entities:
+  - Meredith Willson
+  - Franklin Lacey
+  - Meredith Willson
+  - Kermit Bloomgarden
+  - Herbert Greene
+  - in association with Frank Productions
+  name: Book by Meredith Willson and Franklin Lacey, music and lyrics by Meredith Willson.  Produced by Kermit Bloomgarden
+    and Herbert Greene, in association with Frank Productions.
+  roles:
+  - book
+  - book
+  - music and lyrics
+  - producer
+  - producer
+  - producer
+  show: The Music Man
+  win: true
+- entities:
+  - Arthur Laurents
+  - Leonard Bernstein
+  - Stephen Sondheim
+  - Robert Griffiths
+  - Harold S. Prince
+  name: Book by Arthur Laurents, music by Leonard Bernstein, lyrics by Stephen Sondheim.  Produced by Robert Griffiths and
+    Harold S. Prince.
+  roles:
+  - book
+  - music
+  - lyrics
+  - producer
+  - producer
+  show: West Side Story
+- entities:
+  - George Abbott
+  - Bob Merrill
+  - Robert Griffiths
+  - Harold S. Prince
+  name: Book by George Abbott, music and lyrics by Bob Merrill.  Produced by Robert Griffiths and Harold S. Prince.
+  roles:
+  - book
+  - music and lyrics
+  - producer
+  - producer
+  show: New Girl In Town
+- entities:
+  - Al Morgan
+  - José Ferrer
+  - Jay Livingston
+  - Ray Evans
+  - Howard Merrill
+  - Theatre Corporation of America
+  name: Book by Al Morgan and José Ferrer, music and lyrics by Jay Livingston and Ray Evans.  Produced by Howard Merrill and
+    Theatre Corporation of America.
+  roles:
+  - book
+  - book
+  - music and lyrics
+  - music and lyrics
+  - producer
+  - producer
+  show: Oh, Captain!
+- entities:
+  - E. Y. Harburg
+  - Fred Saidy
+  - Harold Arlen
+  - E. Y. Harburg
+  - David Merrick
+  name: Book by E. Y. Harburg and Fred Saidy, music by Harold Arlen, lyrics by E. Y. Harburg.  Produced by David Merrick
+  roles:
+  - book
+  - book
+  - music
+  - lyrics
+  - producer
+  show: Jamaica
+official category: Musical
+source: https://www.tonyawards.com/nominees/year/1958/category/any/show/any/

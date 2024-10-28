@@ -1,0 +1,14 @@
+nominees:
+- name: Mike Nichols
+  show:
+  - Luv
+  - The Odd Couple
+  win: true
+- name: William Ball
+  show: Tartuffe
+- name: Ulu Grosbard
+  show: The Subject Was Roses
+- name: Alan Schneider
+  show: Tiny Alice
+official category: Director (Play)
+source: https://www.tonyawards.com/nominees/year/1965/category/any/show/any/

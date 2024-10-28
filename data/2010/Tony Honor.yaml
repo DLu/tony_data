@@ -1,0 +1,13 @@
+nominees:
+- name: Alliance of Resident Theatres/New York
+  win: true
+- name: B. H. Barry
+  win: true
+- entities:
+  - Midtown North New York City Police Precinct
+  - Midtown South New York City Police Precinct
+  name: Midtown North & South New York City Police Precincts
+  win: true
+- name: Tom Viola
+  win: true
+source: https://www.tonyawards.com/special-awards/year/2010/category/any/show/any/

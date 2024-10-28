@@ -1,0 +1,23 @@
+nominees:
+- entities:
+  - Charlie Rosen
+  - Bryan Carter
+  name: Charlie Rosen & Bryan Carter
+  show: Some Like It Hot
+  win: true
+- name: John Clancy
+  show: Kimberly Akimbo
+- entities:
+  - Daryl Waters
+  - Sam Davis
+  name: Daryl Waters & Sam Davis
+  show: New York, New York
+- entities:
+  - Bill Sherman
+  - Dominic Fallacaro
+  name: Bill Sherman & Dominic Fallacaro
+  show: '& Juliet'
+- name: Jason Howland
+  show: Shucked
+official category: Best Orchestrations
+source: https://www.tonyawards.com/nominees/year/2023/category/any/show/any/

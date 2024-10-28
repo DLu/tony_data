@@ -1,0 +1,28 @@
+nominees:
+- entities:
+  - Adam Guettel
+  roles:
+  - music and lyrics
+  show: The Light in the Piazza
+  win: true
+- entities:
+  - David Yazbek
+  roles:
+  - music and lyrics
+  show: Dirty Rotten Scoundrels
+- entities:
+  - John Du Prez
+  - Eric Idle
+  - Eric Idle
+  roles:
+  - music
+  - music
+  - lyrics
+  show: Monty Python's Spamalot
+- entities:
+  - William Finn
+  roles:
+  - music and lyrics
+  show: The 25th Annual Putnam County Spelling Bee
+official category: Original Musical Score
+source: https://www.tonyawards.com/nominees/year/2005/category/any/show/any/

@@ -1,0 +1,22 @@
+nominees:
+- entities:
+  - Richard Barr
+  - Clinton Wilder
+  - Theatre 1963
+  name: Richard Barr and Clinton Wilder, Theatre 1963
+  show: Who's Afraid of Virginia Woolf?
+  win: true
+- name: The Actors Studio Theatre
+  show: Strange Interlude
+- entities:
+  - Cheryl Crawford
+  - Jerome Robbins
+  name: Cheryl Crawford and Jerome Robbins
+  show: Mother Courage and Her Children
+- entities:
+  - Paul Vroom
+  - Buff Cobb
+  - Burry Fredrik
+  name: Paul Vroom, Buff Cobb, and Burry Fredrik
+  show: Too True To Be Good
+source: https://www.tonyawards.com/nominees/year/1963/category/any/show/any/

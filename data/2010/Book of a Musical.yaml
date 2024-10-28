@@ -1,0 +1,21 @@
+nominees:
+- name: Joe DiPietro
+  show: Memphis
+  win: true
+- entities:
+  - Dick Scanlan
+  - Sherie Rene Scott
+  name: Dick Scanlan and Sherie Rene Scott
+  show: Everyday Rapture
+- entities:
+  - Jim Lewis
+  - Bill T. Jones
+  name: Jim Lewis & Bill T. Jones
+  show: Fela!
+- entities:
+  - Colin Escott
+  - Floyd Mutrux
+  name: Colin Escott and Floyd Mutrux
+  show: Million Dollar Quartet
+official category: Book (Musical)
+source: https://www.tonyawards.com/nominees/year/2010/category/any/show/any/

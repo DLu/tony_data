@@ -1,0 +1,60 @@
+nominees:
+- entities:
+  - Joseph Stein
+  - Jerry Bock
+  - Sheldon Harnick
+  - Harold Prince
+  name: Book by Joseph Stein, music by Jerry Bock, lyrics by Sheldon Harnick.  Produced by Harold Prince
+  roles:
+  - book
+  - music
+  - lyrics
+  - producer
+  show: Fiddler on the Roof
+  win: true
+- entities:
+  - Clifford Odets
+  - William Gibson
+  - Charles Strouse
+  - Lee Adams
+  - Hillard Elkins
+  name: Book by Clifford Odets and William Gibson, music by Charles Strouse, lyrics by Lee Adams. Produced by Hillard Elkins.
+  roles:
+  - book
+  - book
+  - music
+  - lyrics
+  - producer
+  show: Golden Boy
+- entities:
+  - Beverly Cross
+  - David Heneker
+  - Allen Hodgdon
+  - Stevens Productions
+  - Harold Fielding
+  name: Book by Beverly Cross, music and lyrics by David Heneker.  Produced by Allen Hodgdon, Stevens Productions, and Harold
+    Fielding
+  roles:
+  - book
+  - music and lyrics
+  - producer
+  - producer
+  - producer
+  show: Half a Sixpence
+- entities:
+  - Joan Littlewood for Theatre Workshop
+  - Charles Chilton
+  - Members of the Cast
+  - David Merrick
+  - Gerry Raffles
+  name: Devised by Joan Littlewood for Theatre Workshop, Charles Chilton and Members of the Cast.  Produced by David Merrick
+    and Gerry Raffles
+  roles:
+  - devised
+  - devised
+  - devised
+  - producer
+  - producer
+  show: Oh, What a Lovely War
+official category: Musical
+source: https://www.tonyawards.com/nominees/year/1965/category/any/show/any/

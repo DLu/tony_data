@@ -1,0 +1,35 @@
+nominees:
+- entities:
+  - George Abbot
+  - Douglass Wallop
+  - Richard Adler
+  - Jerry Ross
+  - Frederick Brisson
+  - Robert Griffith
+  - Harold S. Prince in association with Albert B. Taylor
+  name: by George Abbot and Douglass Wallop.  Music by Richard Adler and Jerry Ross.  Produced by Frederick Brisson, Robert
+    Griffith, and Harold S. Prince in association with Albert B. Taylor.
+  roles:
+  - author
+  - author
+  - music
+  - music
+  - producer
+  - producer
+  - producer
+  show: Damn Yankees
+  win: true
+- entities:
+  - Oscar Hammerstein II
+  - Richard Rodgers
+  - Rodgers
+  - Hammerstein
+  name: Book and lyrics by Oscar Hammerstein II, music by Richard Rodgers.  Produced by Rodgers and Hammerstein.
+  roles:
+  - book and lyrics
+  - music
+  - producer
+  - producer
+  show: Pipe Dream
+official category: Musical
+source: https://www.tonyawards.com/nominees/year/1956/category/any/show/any/

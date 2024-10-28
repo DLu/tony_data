@@ -1,0 +1,43 @@
+nominees:
+- entities:
+  - Disney
+  name: Produced by Disney.
+  roles:
+  - producer
+  show: The Lion King
+  win: true
+- entities:
+  - Livent, U.S. Inc.
+  roles:
+  - producer
+  show: Ragtime
+- entities:
+  - Emanuel Azenberg
+  - Joseph Nederlander
+  - Herschel Waxman
+  - Janice McKenna
+  - Scott Nederlander
+  name: Produced by Emanuel Azenberg, Joseph Nederlander, Herschel Waxman, Janice McKenna, Scott Nederlander.
+  roles:
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  show: Side Show
+- entities:
+  - Pierre Cossette
+  - Bill Haber
+  - Hallmark Entertainment
+  - Ted Forstmann
+  - Kathleen Raitt
+  name: Produced by Pierre Cossette, Bill Haber, Hallmark Entertainment, Ted Forstmann, Kathleen Raitt.
+  roles:
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  show: The Scarlet Pimpernel
+official category: Musical
+source: https://www.tonyawards.com/nominees/year/1998/category/any/show/any/

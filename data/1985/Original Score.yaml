@@ -1,0 +1,24 @@
+nominees:
+- entities:
+  - Roger Miller
+  name: Music and lyrics by Roger Miller
+  roles:
+  - music and lyrics
+  show: Big River
+  win: true
+- entities:
+  - Larry Grossman
+  - Ellen Fitzhugh
+  name: Music by Larry Grossman, and lyrics by Ellen Fitzhugh
+  roles:
+  - music
+  - lyrics
+  show: Grind
+- entities:
+  - Barbara Damashek
+  name: Music and lyrics by Barbara Damashek
+  roles:
+  - music and lyrics
+  show: Quilters
+official category: Original Musical Score
+source: https://www.tonyawards.com/nominees/year/1985/category/any/show/any/

@@ -1,0 +1,47 @@
+nominees:
+- entities:
+  - Barry
+  - Fran Weissler
+  - Kathy Levin
+  - Barry Brown
+  name: Produced by Barry and Fran Weissler, Kathy Levin, and Barry Brown
+  roles:
+  - producer
+  - producer
+  - producer
+  - producer
+  show: Gypsy
+  win: true
+- entities:
+  - Circle in the Square Theatre
+  - Theodore Mann
+  - Paul Libin
+  name: Produced by Circle in the Square Theatre, Theodore Mann, and Paul Libin
+  roles:
+  - producer
+  - producer
+  - producer
+  show: Sweeney Todd
+- entities:
+  - Elliot Martin
+  - The Shubert Organization
+  - Suntory International Corp
+  name: Produced by Elliot Martin, The Shubert Organization, and Suntory International Corp.
+  roles:
+  - producer
+  - producer
+  - producer
+  show: The Circle
+- entities:
+  - Duncan C. Weldon
+  - Jerome Minskoff
+  - Punch Productions
+  - Peter Hall
+  name: Produced by Duncan C. Weldon, Jerome Minskoff, Punch Productions and Peter Hall
+  roles:
+  - producer
+  - producer
+  - producer
+  - producer
+  show: The Merchant of Venice
+source: https://www.tonyawards.com/nominees/year/1990/category/any/show/any/

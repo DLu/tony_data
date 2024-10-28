@@ -1,0 +1,15 @@
+nominees:
+- name: George Abbott
+  show: A Funny Thing Happened on the Way to the Forum
+  win: true
+- name: Peter Coe
+  show: Oliver!
+- name: John Fearnley
+  show: Brigadoon
+- entities:
+  - Cy Feuer
+  - Bob Fosse
+  name: Cy Feuer and Bob Fosse
+  show: Little Me
+official category: Director (Musical)
+source: https://www.tonyawards.com/nominees/year/1963/category/any/show/any/

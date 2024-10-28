@@ -1,0 +1,89 @@
+nominees:
+- entities:
+  - John Logan
+  - Arielle Tepper Madover
+  - Stephanie P. McClelland
+  - Matthew Byam Shaw
+  - Neal Street
+  - Fox Theatricals
+  - Ruth Hendel/Barbara Whitman
+  - Philip Hagemann/Murray Rosenthal
+  - The Donmar Warehouse
+  name: 'Author: John Logan; Producers: Arielle Tepper Madover, Stephanie P. McClelland, Matthew Byam Shaw, Neal Street, Fox
+    Theatricals, Ruth Hendel/Barbara Whitman, Philip Hagemann/Murray Rosenthal, The Donmar Warehouse'
+  roles:
+  - author
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  show: Red
+  win: true
+- entities:
+  - Sarah Ruhl
+  - Lincoln Center Theater
+  - André Bishop
+  - Bernard Gersten
+  name: 'Author: Sarah Ruhl; Producers: Lincoln Center Theater, André Bishop, Bernard Gersten'
+  roles:
+  - author
+  - producer
+  - producer
+  - producer
+  show: In the Next Room or the vibrator play
+- entities:
+  - Geoffrey Nauffts
+  - Elton John
+  - David Furnish
+  - Barbara Manocherian
+  - Richard Willis
+  - Tom Smedes
+  - Carole L. Haber/Chase Mishkin
+  - Ostar
+  - Anthony Barrile
+  - Michael Palitz
+  - Bob Boyett
+  - James Spry/Catherine Schreiber
+  - Probo Productions
+  - Roy Furman
+  - Naked Angels
+  name: 'Author: Geoffrey Nauffts; Producers: Elton John and David Furnish, Barbara Manocherian, Richard Willis, Tom Smedes,
+    Carole L. Haber/Chase Mishkin, Ostar, Anthony Barrile, Michael Palitz, Bob Boyett, James Spry/Catherine Schreiber, Probo
+    Productions, Roy Furman, Naked Angels'
+  roles:
+  - author
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  show: Next Fall
+- entities:
+  - Donald Margulies
+  - Manhattan Theatre Club
+  - Lynne Meadow
+  - Barry Grove
+  - Nelle Nugent/Wendy Federman
+  name: 'Author: Donald Margulies; Producers: Manhattan Theatre Club, Lynne Meadow, Barry Grove, Nelle Nugent/Wendy Federman'
+  roles:
+  - author
+  - producer
+  - producer
+  - producer
+  - producer
+  show: Time Stands Still
+official category: Play
+source: https://www.tonyawards.com/nominees/year/2010/category/any/show/any/

@@ -1,0 +1,56 @@
+nominees:
+- entities:
+  - Michel Stuart
+  - Harvey J. Klaris
+  - Roger S. Berlind
+  - James M. Nederlander
+  - Francine LeFrak
+  - Kenneth D. Greenblatt
+  name: Produced by Michel Stuart, Harvey J. Klaris, Roger S. Berlind, James M. Nederlander, Francine LeFrak, and Kenneth
+    D. Greenblatt
+  roles:
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  show: Nine
+  win: true
+- entities:
+  - Michael Bennett
+  - Bob Avian
+  - Geffen Records
+  - The Shubert Organization
+  name: Produced by Michael Bennett, Bob Avian, Geffen Records, and The Shubert Organization
+  roles:
+  - producer
+  - producer
+  - producer
+  - producer
+  show: Dreamgirls
+- entities:
+  - Zev Bufman
+  - Susan R. Rose
+  - Melvin J. Estrin
+  - Sidney Shlenker
+  - Gail Berman
+  name: Produced by Zev Bufman, Susan R. Rose, Melvin J. Estrin, Sidney Shlenker, and Gail Berman
+  roles:
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  show: Joseph and the Amazing Technicolor Dreamcoat
+- entities:
+  - Dodger Productions
+  - Louis Busch Hager
+  - Marilyn Strauss
+  - Kate Studley
+  - Warner Theater Productions, Inc.
+  - Max Weitzenhoffer
+  name: Dodger Productions, Louis Busch Hager, Marilyn Strauss, Kate Studley, Warner Theater Productions, Inc., and Max Weitzenhoffer
+  show: Pump Boys and Dinettes
+official category: Musical
+source: https://www.tonyawards.com/nominees/year/1982/category/any/show/any/

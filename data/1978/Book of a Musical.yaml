@@ -1,0 +1,30 @@
+nominees:
+- entities:
+  - Betty Comden
+  - Adolph Green
+  name: by Betty Comden and Adolph Green
+  roles:
+  - author
+  - author
+  show: On the Twentieth Century
+  win: true
+- entities:
+  - Christopher Durang
+  name: by Christopher Durang
+  roles:
+  - author
+  show: A History of the American Film
+- entities:
+  - Elizabeth Swados
+  name: by Elizabeth Swados
+  roles:
+  - author
+  show: Runaways
+- entities:
+  - Stephen Schwartz
+  name: by Stephen Schwartz
+  roles:
+  - author
+  show: Working
+official category: Book (Musical)
+source: https://www.tonyawards.com/nominees/year/1978/category/any/show/any/

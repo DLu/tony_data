@@ -1,0 +1,44 @@
+nominees:
+- entities:
+  - Frank McMahon
+  - Michael McAloney
+  - Burton C. Kaiser
+  name: by Frank McMahon.  Produced by Michael McAloney and Burton C. Kaiser
+  roles:
+  - author
+  - producer
+  - producer
+  show: Borstal Boy
+  win: true
+- entities:
+  - Robert Marasco
+  - David Merrick
+  name: by Robert Marasco.  Produced by David Merrick
+  roles:
+  - author
+  - producer
+  show: Child's Play
+- entities:
+  - Arthur Kopit
+  - Lyn Austin
+  - Oliver Smith
+  - Joel Schenker
+  - Roger L. Stevens
+  name: by Arthur Kopit.  Produced by Lyn Austin, Oliver Smith, Joel Schenker, and Roger L. Stevens
+  roles:
+  - author
+  - producer
+  - producer
+  - producer
+  - producer
+  show: Indians
+- entities:
+  - Neil Simon
+  - Saint-Subber
+  name: by Neil Simon.  Produced by Saint-Subber
+  roles:
+  - author
+  - producer
+  show: Last of the Red Hot Lovers
+official category: Play
+source: https://www.tonyawards.com/nominees/year/1970/category/any/show/any/

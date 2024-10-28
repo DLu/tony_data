@@ -1,0 +1,32 @@
+nominees:
+- name: John Gielgud
+  note: for contribution to theatre for his extraordinary insight into the writings of Shakespeare as demonstrated in his
+    one-man play, Ages of Man
+  show: Ages of Man
+  win: true
+- entities:
+  - Howard Lindsay
+  - Russell Crouse
+  note: for a collaboration that lasted longer than Gilbert and Sullivan
+  win: true
+- entities:
+  - Pamela Austin
+  - Colette Brosset
+  - Roger Caccia
+  - Yvonne Constant
+  - Genevieve Coulombel
+  - Robert Dhery
+  - Michael Kent
+  - Jean Lefevre
+  - Jacques Legras
+  - Michael Modo
+  - Pierre Olaf
+  - Nicole Parent
+  - Ross Parker
+  - Henri Pennec
+  note: Cast of La Plume de Ma Tante (Pamela Austin, Colette Brosset, Roger Caccia, Yvonne Constant, Genevieve Coulombel,
+    Robert Dhery, Michael Kent, Jean Lefevre, Jacques Legras, Michael Modo, Pierre Olaf, Nicole Parent, Ross Parker, Henri
+    Pennec), for contribution to the theatre.
+  show: La Plume de Ma Tante
+  win: true
+source: https://www.tonyawards.com/special-awards/year/1959/category/any/show/any/

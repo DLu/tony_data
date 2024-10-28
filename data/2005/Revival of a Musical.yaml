@@ -1,0 +1,44 @@
+nominees:
+- entities:
+  - James L. Nederlander
+  - Clear Channel Entertainment
+  - Kenneth Greenblatt
+  - Terry Allen Kramer
+  - Martin Richards
+  name: 'Producers: James L. Nederlander, Clear Channel Entertainment, Kenneth Greenblatt, Terry Allen Kramer, Martin Richards'
+  roles:
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  show: La Cage aux Folles
+  win: true
+- entities:
+  - Roundabout Theatre Company
+  - Todd Haimes
+  - Ellen Richard
+  - Julia C. Levy
+  - Gorgeous Entertainment
+  name: 'Producers: Roundabout Theatre Company, Todd Haimes, Ellen Richard, Julia C. Levy, Gorgeous Entertainment'
+  roles:
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  show: Pacific Overtures
+- entities:
+  - Barry
+  - Fran Weissler
+  - Clear Channel Entertainment
+  - Edwin W. Schloss
+  name: 'Producers: Barry and Fran Weissler, Clear Channel Entertainment, Edwin W. Schloss'
+  roles:
+  - producer
+  - producer
+  - producer
+  - producer
+  show: Sweet Charity
+official category: Revival (Musical)
+source: https://www.tonyawards.com/nominees/year/2005/category/any/show/any/

@@ -1,0 +1,52 @@
+nominees:
+- entities:
+  - Peter Stone
+  - Sherman Edwards
+  - Stuart Ostrow
+  name: Book by Peter Stone, music and lyrics by Sherman Edwards.  Produced by Stuart Ostrow
+  roles:
+  - book
+  - music and lyrics
+  - producer
+  show: '1776'
+  win: true
+- entities:
+  - Gerome Ragni
+  - James Rado
+  - Galt MacDermot
+  - James Rado
+  - Michael Butler
+  name: Book by Gerome Ragni and James Rado, music by Galt MacDermot, lyrics by James Rado.  Produced by Michael Butler
+  roles:
+  - book
+  - book
+  - music
+  - lyrics
+  - producer
+  show: Hair
+- entities:
+  - Neil Simon
+  - Burt Bacharach
+  - Hal David
+  - David Merrick
+  name: Book by Neil Simon, music by Burt Bacharach, lyrics by Hal David.  Produced by David Merrick
+  roles:
+  - book
+  - music
+  - lyrics
+  - producer
+  show: Promises, Promises
+- entities:
+  - Joseph Stein
+  - John Kander
+  - Fred Ebb
+  - Harold Prince
+  name: Book by Joseph Stein, music by John Kander, lyrics by Fred Ebb.  Produced by Harold Prince
+  roles:
+  - book
+  - music
+  - lyrics
+  - producer
+  show: Zorba
+official category: Musical
+source: https://www.tonyawards.com/nominees/year/1969/category/any/show/any/

@@ -1,0 +1,11 @@
+nominees:
+- name: William Berloni
+  win: true
+- name: The Drama Book Shop
+  win: true
+- entities:
+  - Sharon Jensen
+  - Alliance for Inclusion in the Arts
+  name: Sharon Jensen and Alliance for Inclusion in the Arts
+  win: true
+source: https://www.tonyawards.com/special-awards/year/2011/category/any/show/any/

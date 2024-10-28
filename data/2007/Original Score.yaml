@@ -1,0 +1,36 @@
+nominees:
+- entities:
+  - Duncan Sheik
+  - Steven Sater
+  roles:
+  - music
+  - lyrics
+  show: Spring Awakening
+  win: true
+- entities:
+  - John Kander
+  - Fred Ebb
+  - John Kander
+  - Rupert Holmes
+  roles:
+  - music
+  - lyrics
+  - lyrics
+  - lyrics
+  show: Curtains
+- entities:
+  - Scott Frankel
+  - Michael Korie
+  roles:
+  - music
+  - lyrics
+  show: Grey Gardens
+- entities:
+  - Laurence O'Keefe
+  - Nell Benjamin
+  roles:
+  - music and lyrics
+  - music and lyrics
+  show: Legally Blonde The Musical
+official category: Original Musical Score
+source: https://www.tonyawards.com/nominees/year/2007/category/any/show/any/

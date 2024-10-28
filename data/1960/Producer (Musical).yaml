@@ -1,0 +1,16 @@
+nominees:
+- entities:
+  - Robert E. Griffith
+  - Harold S. Prince
+  name: Robert E. Griffith and Harold S. Prince (Harold Prince)
+  show: Fiorello!
+  win: true
+- entities:
+  - Leland Hayward
+  - Richard Halliday
+  - Richard Rodgers
+  - Oscar Hammerstein II
+  name: Leland Hayward, Richard Halliday, and Rodgers and Hammerstein
+  show: The Sound of Music
+  win: true
+source: https://www.tonyawards.com/nominees/year/1960/category/any/show/any/

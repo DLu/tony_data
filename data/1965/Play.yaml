@@ -1,0 +1,40 @@
+nominees:
+- entities:
+  - Frank Gilroy
+  - Edgar Lansbury
+  name: by Frank Gilroy.  Produced by Edgar Lansbury
+  roles:
+  - author
+  - producer
+  show: The Subject Was Roses
+  win: true
+- entities:
+  - Murray Schisgal
+  - Clair Nichtern
+  name: by Murray Schisgal.  Produced by Clair Nichtern
+  roles:
+  - author
+  - producer
+  show: Luv
+- entities:
+  - Neil Simon
+  - Saint-Subber
+  name: by Neil Simon.  Produced by Saint-Subber
+  roles:
+  - author
+  - producer
+  show: The Odd Couple
+- entities:
+  - Edward Albee
+  - Theatre 1965
+  - Richard Barr
+  - Clinton Wilder
+  name: by Edward Albee.  Produced by Theatre 1965, Richard Barr, and Clinton Wilder
+  roles:
+  - author
+  - producer
+  - producer
+  - producer
+  show: Tiny Alice
+official category: Play
+source: https://www.tonyawards.com/nominees/year/1965/category/any/show/any/

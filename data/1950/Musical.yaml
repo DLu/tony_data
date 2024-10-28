@@ -1,0 +1,25 @@
+nominees:
+- entities:
+  - Richard Rodgers
+  - Oscar Hammerstein II
+  - Oscar Hammerstein II
+  - Joshua Logan
+  - Leland Hayward
+  - Oscar Hammerstein II
+  - Joshua Logan
+  - Richard Rodgers
+  name: Music by Richard Rodgers, lyrics by Oscar Hammerstein II, book by Oscar Hammerstein II and Joshua Logan.  Produced
+    by Leland Hayward, Oscar Hammerstein II, Joshua Logan and Richard Rodgers.
+  roles:
+  - music
+  - lyrics
+  - book
+  - book
+  - producer
+  - producer
+  - producer
+  - producer
+  show: South Pacific
+  win: true
+official category: Musical
+source: https://www.tonyawards.com/nominees/year/1950/category/any/show/any/

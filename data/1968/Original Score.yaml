@@ -1,0 +1,25 @@
+nominees:
+- entities:
+  - Jule Styne
+  - Betty Comden
+  - Adolph Green
+  name: Jule Styne, Betty Comden, and Adolph Green
+  show: Hallelujah, Baby!
+  win: true
+- entities:
+  - Elmer Bernstein
+  - Carolyn Leigh
+  name: Elmer Bernstein and Carolyn Leigh
+  show: How Now, Dow Jones
+- entities:
+  - Manos Hadjidakis
+  - Joe Darion
+  name: Manos Hadjidakis and Joe Darion
+  show: Illya Darling
+- entities:
+  - John Kander
+  - Fred Ebb
+  name: John Kander and Fred Ebb
+  show: The Happy Time
+official category: Original Musical Score
+source: https://www.tonyawards.com/nominees/year/1968/category/any/show/any/

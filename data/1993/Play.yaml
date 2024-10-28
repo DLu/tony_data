@@ -1,0 +1,72 @@
+nominees:
+- entities:
+  - Tony Kushner
+  - Jujamcyn Theaters
+  - Mark Taper Forum/Gordon Davidson
+  - Margo Lion
+  - Susan Quint Gallin
+  - Jon B. Platt
+  - The Baruch-Frankel-Viertel Group
+  - Frederick Zollo
+  - Herb Alpert
+  name: by Tony Kushner. Produced by Jujamcyn Theaters, Mark Taper Forum/Gordon Davidson, Margo Lion, Susan Quint Gallin,
+    Jon B. Platt, The Baruch-Frankel-Viertel Group, Frederick Zollo, and Herb Alpert
+  roles:
+  - author
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  show: 'Angels in America: Millennium Approaches'
+  win: true
+- entities:
+  - Wendy Wasserstein
+  - Lincoln Center Theatre
+  - André Bishop
+  - Bernard Gersten
+  name: by Wendy Wasserstein. Produced by Lincoln Center Theatre, André Bishop, and Bernard Gersten
+  roles:
+  - author
+  - producer
+  - producer
+  - producer
+  show: The Sisters Rosensweig
+- entities:
+  - Frank McGuinness
+  - Noel Pearson
+  - The Shubert Organization
+  - Joseph Harris
+  name: by Frank McGuinness. Produced by Noel Pearson, The Shubert Organization, and Joseph Harris
+  roles:
+  - author
+  - producer
+  - producer
+  - producer
+  show: Someone Who'll Watch Over Me
+- entities:
+  - Tug Yourgrau
+  - Steppenwolf Theatre Co.
+  - Randall Arney
+  - Stephen Eich
+  - Albert Poland
+  - Susan Liederman
+  - Bette Cerf Hill
+  - Maurice Rosenfield
+  name: by Tug Yourgrau. Produced by Steppenwolf Theatre Co., Randall Arney, Stephen Eich, Albert Poland, Susan Liederman,
+    Bette Cerf Hill, and Maurice Rosenfield
+  roles:
+  - author
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  show: The Song of Jacob Zulu
+official category: Play
+source: https://www.tonyawards.com/nominees/year/1993/category/any/show/any/

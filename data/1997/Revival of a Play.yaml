@@ -1,0 +1,40 @@
+nominees:
+- entities:
+  - Bill Kenwright
+  - Thelma Holt
+  name: Produced by Bill Kenwright, Thelma Holt
+  roles:
+  - producer
+  - producer
+  show: A Doll's House
+  win: true
+- entities:
+  - Roundabout Theatre
+  - Todd Haimes
+  - Ellen Richard
+  name: Produced by Roundabout Theatre, Todd Haimes, Ellen Richard.
+  roles:
+  - producer
+  - producer
+  - producer
+  show: London Assurance
+- entities:
+  - David Richenthal
+  - Anita Waxman
+  - Jujamcyn Theaters
+  name: Produced by David Richenthal, Anita Waxman, Jujamcyn Theaters.
+  roles:
+  - producer
+  - producer
+  - producer
+  show: Present Laughter
+- entities:
+  - National Actors Theatre
+  - Tony Randall
+  name: Produced by National Actors Theatre, Tony Randall.
+  roles:
+  - producer
+  - producer
+  show: The Gin Game
+official category: Revival (Play)
+source: https://www.tonyawards.com/nominees/year/1997/category/any/show/any/

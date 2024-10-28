@@ -1,0 +1,40 @@
+nominees:
+- entities:
+  - Cy Coleman
+  - David Zippel
+  name: Music by Cy Coleman, lyrics by David Zippel
+  roles:
+  - music
+  - lyrics
+  show: City of Angels
+  win: true
+- entities:
+  - Andrew Lloyd Webber
+  - Don Black
+  - Charles Hart
+  name: Music by Andrew Lloyd Webber, Lyrics by Don Black and Charles Hart
+  roles:
+  - music
+  - lyrics
+  - lyrics
+  show: Aspects of Love
+- entities:
+  - Robert Wright
+  - George Forrest
+  - Maury Yeston
+  name: Music and lyrics by Robert Wright, George Forrest, and Maury Yeston
+  roles:
+  - music and lyrics
+  - music and lyrics
+  - music and lyrics
+  show: Grand Hotel, The Musical
+- entities:
+  - Hugh Martin
+  - Ralph Blaine
+  name: Music and lyrics by Hugh Martin and Ralph Blaine
+  roles:
+  - music and lyrics
+  - music and lyrics
+  show: Meet Me in St. Louis
+official category: Original Musical Score
+source: https://www.tonyawards.com/nominees/year/1990/category/any/show/any/

@@ -1,0 +1,109 @@
+nominees:
+- entities:
+  - Kevin McCollum
+  - Jeffrey Seller
+  - Jill Furman
+  - Sander Jacobs
+  - Goodman/Grossman
+  - Peter Fine
+  - Everett/Skipper
+  name: 'Producers: Kevin McCollum, Jeffrey Seller, Jill Furman, Sander Jacobs, Goodman/Grossman, Peter Fine, Everett/Skipper'
+  roles:
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  show: In The Heights
+  win: true
+- entities:
+  - Adam Epstein
+  - Allan S. Gordon
+  - Élan V. McAllister
+  - Brian Grazer
+  - James P. MacGilvray
+  - Universal Pictures Stage Productions
+  - Anne Caruso
+  - Adam S. Gordon
+  - Latitude Link
+  - The Pelican Group
+  - Philip Morgaman
+  - Andrew Farber/Richard Mishaan
+  name: 'Producers: Adam Epstein, Allan S. Gordon, Élan V. McAllister, Brian Grazer, James P. MacGilvray, Universal Pictures
+    Stage Productions, Anne Caruso, Adam S. Gordon, Latitude Link, The Pelican Group, Philip Morgaman, Andrew Farber/Richard
+    Mishaan'
+  roles:
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  show: Cry-Baby
+- entities:
+  - The Shubert Organization
+  - Elizabeth Ireland McCann LLC
+  - Bill Kenwright
+  - Chase Mishkin
+  - Barbara
+  - Buddy Freitag
+  - Broadway Across America
+  - Emily Fisher Landau
+  - Peter May
+  - Boyett Ostar
+  - Larry Hirschhorn
+  - Janet Pailet/Steve Klein
+  - Elie Hirschfeld/Jed Bernstein
+  - Spring Sirkin/Ruth Hendel
+  - Vasi Laurence/Pat Flicker Addiss
+  - Wendy Federman/Jackie Barlia Florin
+  - Joey Parnes
+  - The Public Theater
+  - The Berkeley Repertory Theatre
+  name: 'Producers: The Shubert Organization, Elizabeth Ireland McCann LLC, Bill Kenwright, Chase Mishkin, Barbara & Buddy
+    Freitag, Broadway Across America, Emily Fisher Landau, Peter May, Boyett Ostar, Larry Hirschhorn, Janet Pailet/Steve Klein,
+    Elie Hirschfeld/Jed Bernstein, Spring Sirkin/Ruth Hendel, Vasi Laurence/Pat Flicker Addiss, Wendy Federman/Jackie Barlia
+    Florin, Joey Parnes, The Public Theater, The Berkeley Repertory Theatre'
+  roles:
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  show: Passing Strange
+- entities:
+  - Robert Ahrens
+  - Dan Vickery
+  - Tara Smith/B. Swibel
+  - Sarah Murchison/Dale Smith
+  name: 'Producers: Robert Ahrens, Dan Vickery, Tara Smith/B. Swibel, Sarah Murchison/Dale Smith'
+  roles:
+  - producer
+  - producer
+  - producer
+  - producer
+  show: Xanadu
+official category: Musical
+source: https://www.tonyawards.com/nominees/year/2008/category/any/show/any/

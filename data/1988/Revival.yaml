@@ -1,0 +1,39 @@
+nominees:
+- entities:
+  - Lincoln Center Theater
+  - Gregory Mosher
+  - Bernard Gersten
+  name: Produced by Lincoln Center Theater, Gregory Mosher, and Bernard Gersten
+  roles:
+  - producer
+  - producer
+  - producer
+  show: Anything Goes
+  win: true
+- entities:
+  - Circle in the Square
+  - Theodore Mann
+  - Paul Libin
+  name: Produced by Circle in the Square, Theodore Mann, and Paul Libin
+  roles:
+  - producer
+  - producer
+  - producer
+  show: A Streetcar Named Desire
+- entities:
+  - Barry Weissler
+  - Fran Weissler
+  name: Produced by Barry Weissler and Fran Weissler
+  roles:
+  - producer
+  - producer
+  show: Cabaret
+- entities:
+  - Marvin A. Krauss
+  - Irving Siders
+  name: Produced by Marvin A. Krauss and Irving Siders
+  roles:
+  - producer
+  - producer
+  show: Dreamgirls
+source: https://www.tonyawards.com/nominees/year/1988/category/any/show/any/

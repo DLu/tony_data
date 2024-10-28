@@ -1,0 +1,15 @@
+nominees:
+- name: David Hersey
+  show: Les Misérables
+  win: true
+- name: Martin Aronstein
+  show: Wild Honey
+- name: David Hersey
+  show: Starlight Express
+- entities:
+  - Beverly Emmons
+  - Chris Parry
+  name: Beverly Emmons and Chris Parry
+  show: Les Liaisons Dangereuses
+official category: Lighting Designer
+source: https://www.tonyawards.com/nominees/year/1987/category/any/show/any/

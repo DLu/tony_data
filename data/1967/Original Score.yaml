@@ -1,0 +1,24 @@
+nominees:
+- entities:
+  - John Kander
+  - Fred Ebb
+  name: John Kander and Fred Ebb
+  show: Cabaret
+  win: true
+- entities:
+  - Jerry Bock
+  - Sheldon Harnick
+  name: Jerry Bock and Sheldon Harnick
+  show: The Apple Tree
+- entities:
+  - Sammy Cahn
+  - James Van Heusen
+  name: Sammy Cahn and James Van Heusen
+  show: Walking Happy
+- entities:
+  - Tom Jones
+  - Harvey Schmidt
+  name: Tom Jones and Harvey Schmidt
+  show: I Do! I Do!
+official category: Original Musical Score
+source: https://www.tonyawards.com/nominees/year/1967/category/any/show/any/

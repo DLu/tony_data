@@ -1,0 +1,47 @@
+nominees:
+- entities:
+  - Joseph Papp
+  name: Produced by Joseph Papp
+  roles:
+  - producer
+  show: The Mystery of Edwin Drood
+  win: true
+- entities:
+  - The Shubert Organization
+  - Roger Berlind
+  - Jerome Minskoff
+  - Jonathan Farkas
+  name: Produced by The Shubert Organization, Roger Berlind, Jerome Minskoff, and Jonathan Farkas
+  roles:
+  - producer
+  - producer
+  - producer
+  - producer
+  show: Big Deal
+- entities:
+  - Cameron Mackintosh
+  - Inc.
+  - The Shubert Organization
+  - F.W.M. Producing Group
+  - The Really Useful Company
+  - Inc
+  name: Produced by Cameron Mackintosh, Inc., The Shubert Organization, F.W.M. Producing Group, and The Really Useful Company,
+    Inc.
+  roles:
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  - producer
+  show: Song & Dance
+- entities:
+  - Mel Howard
+  - Donald K. Donald
+  name: Produced by Mel Howard and Donald K. Donald
+  roles:
+  - producer
+  - producer
+  show: Tango Argentino
+official category: Musical
+source: https://www.tonyawards.com/nominees/year/1986/category/any/show/any/

@@ -1,0 +1,40 @@
+nominees:
+- entities:
+  - Anthony Shaffer
+  - Helen Bonfils
+  - Morton Gottlieb
+  - Michael White
+  name: by Anthony Shaffer. Produced by Helen Bonfils, Morton Gottlieb, and Michael White
+  roles:
+  - author
+  - producer
+  - producer
+  - producer
+  show: Sleuth
+  win: true
+- entities:
+  - David Storey
+  - Alexander H. Cohen
+  name: by David Storey. Produced by Alexander H. Cohen
+  roles:
+  - author
+  - producer
+  show: Home
+- entities:
+  - Christopher Hampton
+  - David Merrick
+  name: by Christopher Hampton. Produced by David Merrick
+  roles:
+  - author
+  - producer
+  show: The Philanthropist
+- entities:
+  - Paul Sills
+  - Zev Bufman
+  name: by Paul Sills. Produced by Zev Bufman
+  roles:
+  - author
+  - producer
+  show: Story Theatre
+official category: Play
+source: https://www.tonyawards.com/nominees/year/1971/category/any/show/any/
